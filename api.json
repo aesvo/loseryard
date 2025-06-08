@@ -33,23 +33,23 @@
           "id": null,
           "name": "Spotify",
           "type": 2,
-          "state": "Gunnr",
-          "details": "areyoulistening",
-          "created_at": 1749384264212,
+          "state": "krake.",
+          "details": "Never See Me Again",
+          "created_at": 1749384374125,
           "timestamps": {
-            "start": "2025-06-08T12:04:24.073Z",
-            "end": "2025-06-08T12:06:13.787Z"
+            "start": "2025-06-08T12:06:13.986Z",
+            "end": "2025-06-08T12:14:33.621Z"
           },
           "assets": {
-            "large_image": "spotify:ab67616d0000b27334b25b3765dbda146d5c0092",
-            "large_text": "silk in shadows",
+            "large_image": "spotify:ab67616d0000b2738eccac935768a3edb5430b43",
+            "large_text": "HITMAKERS",
             "small_image": null,
             "small_text": null
           },
           "party": {
             "id": "spotify:1380957320745320581"
           },
-          "sync_id": "419TJRn7V9tOdm8ZfSqvgK",
+          "sync_id": "2Hfaz4lXSJRfQlMtc2eHxp",
           "session_id": null,
           "flags": 48,
           "instance": null,
@@ -63,16 +63,16 @@
       "listening_to_spotify": true,
       "spotify": {
         "timestamps": {
-          "start": "2025-06-08T12:04:24.073Z",
-          "end": "2025-06-08T12:06:13.787Z"
+          "start": "2025-06-08T12:06:13.986Z",
+          "end": "2025-06-08T12:14:33.621Z"
         },
-        "album": "areyoulistening",
-        "album_art_url": "https://i.scdn.co/image/ab67616d0000b27334b25b3765dbda146d5c0092",
-        "artist": "Gunnr",
-        "song": "areyoulistening",
-        "track_id": "419TJRn7V9tOdm8ZfSqvgK"
+        "album": "Never See Me Again",
+        "album_art_url": "https://i.scdn.co/image/ab67616d0000b2738eccac935768a3edb5430b43",
+        "artist": "krake.",
+        "song": "Never See Me Again",
+        "track_id": "2Hfaz4lXSJRfQlMtc2eHxp"
       },
-      "last_updated": 1749384281377
+      "last_updated": 1749384374183
     }
   }
 }
