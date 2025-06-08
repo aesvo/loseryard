@@ -33,23 +33,23 @@
           "id": null,
           "name": "Spotify",
           "type": 2,
-          "state": "Paco; Alé Araya",
-          "details": "CANDY. (feat. Alé Araya)",
-          "created_at": 1749374559388,
+          "state": "Felix Ames; Kota the Friend",
+          "details": "Hey Pastor (feat. Kota The Friend)",
+          "created_at": 1749374778226,
           "timestamps": {
-            "start": "2025-06-08T09:22:39.049Z",
-            "end": "2025-06-08T09:26:17.284Z"
+            "start": "2025-06-08T09:26:18.014Z",
+            "end": "2025-06-08T09:29:01.347Z"
           },
           "assets": {
-            "large_image": "spotify:ab67616d0000b2738a20a54f95b28e5a551fa30d",
-            "large_text": "CANDY. (feat. Alé Araya)",
+            "large_image": "spotify:ab67616d0000b27322614b036535c74baf985c06",
+            "large_text": "Cruel, Cruel World",
             "small_image": null,
             "small_text": null
           },
           "party": {
             "id": "spotify:1380957320745320581"
           },
-          "sync_id": "2LXCYl71dgWKIiMYZy8D70",
+          "sync_id": "09uo4WsV5sClwJumNnflaH",
           "session_id": null,
           "flags": 48,
           "instance": null,
@@ -63,16 +63,16 @@
       "listening_to_spotify": true,
       "spotify": {
         "timestamps": {
-          "start": "2025-06-08T09:22:39.049Z",
-          "end": "2025-06-08T09:26:17.284Z"
+          "start": "2025-06-08T09:26:18.014Z",
+          "end": "2025-06-08T09:29:01.347Z"
         },
-        "album": "CANDY. (feat. Alé Araya)",
-        "album_art_url": "https://i.scdn.co/image/ab67616d0000b2738a20a54f95b28e5a551fa30d",
-        "artist": "Paco; Alé Araya",
-        "song": "CANDY. (feat. Alé Araya)",
-        "track_id": "2LXCYl71dgWKIiMYZy8D70"
+        "album": "Hey Pastor (feat. Kota The Friend)",
+        "album_art_url": "https://i.scdn.co/image/ab67616d0000b27322614b036535c74baf985c06",
+        "artist": "Felix Ames; Kota the Friend",
+        "song": "Hey Pastor (feat. Kota The Friend)",
+        "track_id": "09uo4WsV5sClwJumNnflaH"
       },
-      "last_updated": 1749374577733
+      "last_updated": 1749374778293
     }
   }
 }
