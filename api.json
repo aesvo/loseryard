@@ -12,31 +12,14 @@
         "display_name": "loser",
         "public_flags": 0
       },
-      "activities": [
-        {
-          "id": "custom",
-          "name": "Custom Status",
-          "type": 4,
-          "state": "/rob / loseryard>>",
-          "details": null,
-          "created_at": 1749392064617,
-          "timestamps": null,
-          "assets": null,
-          "party": null,
-          "sync_id": null,
-          "session_id": null,
-          "flags": 0,
-          "instance": null,
-          "url": null
-        }
-      ],
-      "discord_status": "dnd",
+      "activities": [],
+      "discord_status": "offline",
       "active_on_discord_web": false,
       "active_on_discord_desktop": false,
-      "active_on_discord_mobile": "dnd",
+      "active_on_discord_mobile": false,
       "listening_to_spotify": false,
       "spotify": null,
-      "last_updated": 1749392064679
+      "last_updated": 1749393554824
     }
   }
 }
