@@ -33,23 +33,23 @@
           "id": null,
           "name": "Spotify",
           "type": 2,
-          "state": "A$AP Twelvyy",
-          "details": "Ain't Gon Cry",
-          "created_at": 1749374351403,
+          "state": "Paco; Alé Araya",
+          "details": "CANDY. (feat. Alé Araya)",
+          "created_at": 1749374559388,
           "timestamps": {
-            "start": "2025-06-08T09:19:11.185Z",
-            "end": "2025-06-08T09:22:39.031Z"
+            "start": "2025-06-08T09:22:39.049Z",
+            "end": "2025-06-08T09:26:17.284Z"
           },
           "assets": {
-            "large_image": "spotify:ab67616d0000b2738e0eb8890c32d4946b5de30e",
-            "large_text": "I Did More with Less (V1)",
+            "large_image": "spotify:ab67616d0000b2738a20a54f95b28e5a551fa30d",
+            "large_text": "CANDY. (feat. Alé Araya)",
             "small_image": null,
             "small_text": null
           },
           "party": {
             "id": "spotify:1380957320745320581"
           },
-          "sync_id": "04vdvtMibZjQqOQCQzmVtw",
+          "sync_id": "2LXCYl71dgWKIiMYZy8D70",
           "session_id": null,
           "flags": 48,
           "instance": null,
@@ -63,16 +63,16 @@
       "listening_to_spotify": true,
       "spotify": {
         "timestamps": {
-          "start": "2025-06-08T09:19:11.185Z",
-          "end": "2025-06-08T09:22:39.031Z"
+          "start": "2025-06-08T09:22:39.049Z",
+          "end": "2025-06-08T09:26:17.284Z"
         },
-        "album": "Ain't Gon Cry",
-        "album_art_url": "https://i.scdn.co/image/ab67616d0000b2738e0eb8890c32d4946b5de30e",
-        "artist": "A$AP Twelvyy",
-        "song": "Ain't Gon Cry",
-        "track_id": "04vdvtMibZjQqOQCQzmVtw"
+        "album": "CANDY. (feat. Alé Araya)",
+        "album_art_url": "https://i.scdn.co/image/ab67616d0000b2738a20a54f95b28e5a551fa30d",
+        "artist": "Paco; Alé Araya",
+        "song": "CANDY. (feat. Alé Araya)",
+        "track_id": "2LXCYl71dgWKIiMYZy8D70"
       },
-      "last_updated": 1749374465642
+      "last_updated": 1749374559451
     }
   }
 }
