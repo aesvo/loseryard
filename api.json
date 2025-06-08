@@ -28,51 +28,15 @@
           "flags": 0,
           "instance": null,
           "url": null
-        },
-        {
-          "id": null,
-          "name": "Spotify",
-          "type": 2,
-          "state": "Lancey Foux",
-          "details": "TEKTIME",
-          "created_at": 1749382808950,
-          "timestamps": {
-            "start": "2025-06-08T11:38:21.405Z",
-            "end": "2025-06-08T11:41:21.830Z"
-          },
-          "assets": {
-            "large_image": "spotify:ab67616d0000b273478554d576be90480d9d36b4",
-            "large_text": "Enter The Dragon / TEKTIME",
-            "small_image": null,
-            "small_text": null
-          },
-          "party": {
-            "id": "spotify:1380957320745320581"
-          },
-          "sync_id": "6YkhFMoq5oAFFkShLhkuOx",
-          "session_id": null,
-          "flags": 48,
-          "instance": null,
-          "url": null
         }
       ],
       "discord_status": "dnd",
       "active_on_discord_web": "dnd",
       "active_on_discord_desktop": false,
       "active_on_discord_mobile": false,
-      "listening_to_spotify": true,
-      "spotify": {
-        "timestamps": {
-          "start": "2025-06-08T11:38:21.405Z",
-          "end": "2025-06-08T11:41:21.830Z"
-        },
-        "album": "TEKTIME",
-        "album_art_url": "https://i.scdn.co/image/ab67616d0000b273478554d576be90480d9d36b4",
-        "artist": "Lancey Foux",
-        "song": "TEKTIME",
-        "track_id": "6YkhFMoq5oAFFkShLhkuOx"
-      },
-      "last_updated": 1749382809017
+      "listening_to_spotify": false,
+      "spotify": null,
+      "last_updated": 1749382886605
     }
   }
 }
