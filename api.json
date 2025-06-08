@@ -1,1 +1,78 @@
-[]
+{
+  "success": true,
+  "data": {
+    "1380957320745320581": {
+      "discord_user": {
+        "id": "1380957320745320581",
+        "username": "76xk",
+        "discriminator": "0",
+        "bot": false,
+        "avatar": null,
+        "global_name": "loser",
+        "display_name": "loser",
+        "public_flags": 0
+      },
+      "activities": [
+        {
+          "id": "custom",
+          "name": "Custom Status",
+          "type": 4,
+          "state": "/rob | loseryard tested",
+          "details": null,
+          "created_at": 1749372883262,
+          "timestamps": null,
+          "assets": null,
+          "party": null,
+          "sync_id": null,
+          "session_id": null,
+          "flags": 0,
+          "instance": null,
+          "url": null
+        },
+        {
+          "id": null,
+          "name": "Spotify",
+          "type": 2,
+          "state": "Elmiene; Blxst",
+          "details": "Light Work - Remix",
+          "created_at": 1749372721475,
+          "timestamps": {
+            "start": "2025-06-08T08:52:01.278Z",
+            "end": "2025-06-08T08:55:21.374Z"
+          },
+          "assets": {
+            "large_image": "spotify:ab67616d0000b2739fd59dfdc0645735a1a5fccc",
+            "large_text": "This Is The Remix",
+            "small_image": null,
+            "small_text": null
+          },
+          "party": {
+            "id": "spotify:1380957320745320581"
+          },
+          "sync_id": "0wAMV4m7FkHTdlriA8MOUz",
+          "session_id": null,
+          "flags": 48,
+          "instance": null,
+          "url": null
+        }
+      ],
+      "discord_status": "dnd",
+      "active_on_discord_web": "dnd",
+      "active_on_discord_desktop": false,
+      "active_on_discord_mobile": false,
+      "listening_to_spotify": true,
+      "spotify": {
+        "timestamps": {
+          "start": "2025-06-08T08:52:01.278Z",
+          "end": "2025-06-08T08:55:21.374Z"
+        },
+        "album": "Light Work - Remix",
+        "album_art_url": "https://i.scdn.co/image/ab67616d0000b2739fd59dfdc0645735a1a5fccc",
+        "artist": "Elmiene; Blxst",
+        "song": "Light Work - Remix",
+        "track_id": "0wAMV4m7FkHTdlriA8MOUz"
+      },
+      "last_updated": 1749372883352
+    }
+  }
+}
