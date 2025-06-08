@@ -12,67 +12,14 @@
         "display_name": "loser",
         "public_flags": 0
       },
-      "activities": [
-        {
-          "id": "custom",
-          "name": "Custom Status",
-          "type": 4,
-          "state": "/rob | loseryard tested",
-          "details": null,
-          "created_at": 1749372883262,
-          "timestamps": null,
-          "assets": null,
-          "party": null,
-          "sync_id": null,
-          "session_id": null,
-          "flags": 0,
-          "instance": null,
-          "url": null
-        },
-        {
-          "id": null,
-          "name": "Spotify",
-          "type": 2,
-          "state": "Benji.; Spillage Village",
-          "details": "Simple",
-          "created_at": 1749372897989,
-          "timestamps": {
-            "start": "2025-06-08T08:54:57.619Z",
-            "end": "2025-06-08T08:58:55.739Z"
-          },
-          "assets": {
-            "large_image": "spotify:ab67616d0000b273240809822b2c4db826b974d5",
-            "large_text": "Love Gun 3",
-            "small_image": null,
-            "small_text": null
-          },
-          "party": {
-            "id": "spotify:1380957320745320581"
-          },
-          "sync_id": "3NXtDQ6V4siN4WbHK5oIix",
-          "session_id": null,
-          "flags": 48,
-          "instance": null,
-          "url": null
-        }
-      ],
+      "activities": [],
       "discord_status": "dnd",
       "active_on_discord_web": "dnd",
       "active_on_discord_desktop": false,
       "active_on_discord_mobile": false,
-      "listening_to_spotify": true,
-      "spotify": {
-        "timestamps": {
-          "start": "2025-06-08T08:54:57.619Z",
-          "end": "2025-06-08T08:58:55.739Z"
-        },
-        "album": "Simple",
-        "album_art_url": "https://i.scdn.co/image/ab67616d0000b273240809822b2c4db826b974d5",
-        "artist": "Benji.; Spillage Village",
-        "song": "Simple",
-        "track_id": "3NXtDQ6V4siN4WbHK5oIix"
-      },
-      "last_updated": 1749372898067
+      "listening_to_spotify": false,
+      "spotify": null,
+      "last_updated": 1749372987073
     }
   }
 }
