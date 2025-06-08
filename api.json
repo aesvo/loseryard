@@ -12,67 +12,14 @@
         "display_name": "loser",
         "public_flags": 0
       },
-      "activities": [
-        {
-          "id": "custom",
-          "name": "Custom Status",
-          "type": 4,
-          "state": "/rob loseryard>>",
-          "details": null,
-          "created_at": 1749374577666,
-          "timestamps": null,
-          "assets": null,
-          "party": null,
-          "sync_id": null,
-          "session_id": null,
-          "flags": 0,
-          "instance": null,
-          "url": null
-        },
-        {
-          "id": null,
-          "name": "Spotify",
-          "type": 2,
-          "state": "Felix Ames; Kota the Friend",
-          "details": "Hey Pastor (feat. Kota The Friend)",
-          "created_at": 1749374778226,
-          "timestamps": {
-            "start": "2025-06-08T09:26:18.014Z",
-            "end": "2025-06-08T09:29:01.347Z"
-          },
-          "assets": {
-            "large_image": "spotify:ab67616d0000b27322614b036535c74baf985c06",
-            "large_text": "Cruel, Cruel World",
-            "small_image": null,
-            "small_text": null
-          },
-          "party": {
-            "id": "spotify:1380957320745320581"
-          },
-          "sync_id": "09uo4WsV5sClwJumNnflaH",
-          "session_id": null,
-          "flags": 48,
-          "instance": null,
-          "url": null
-        }
-      ],
-      "discord_status": "dnd",
-      "active_on_discord_web": "dnd",
+      "activities": [],
+      "discord_status": "offline",
+      "active_on_discord_web": false,
       "active_on_discord_desktop": false,
       "active_on_discord_mobile": false,
-      "listening_to_spotify": true,
-      "spotify": {
-        "timestamps": {
-          "start": "2025-06-08T09:26:18.014Z",
-          "end": "2025-06-08T09:29:01.347Z"
-        },
-        "album": "Hey Pastor (feat. Kota The Friend)",
-        "album_art_url": "https://i.scdn.co/image/ab67616d0000b27322614b036535c74baf985c06",
-        "artist": "Felix Ames; Kota the Friend",
-        "song": "Hey Pastor (feat. Kota The Friend)",
-        "track_id": "09uo4WsV5sClwJumNnflaH"
-      },
-      "last_updated": 1749374804307
+      "listening_to_spotify": false,
+      "spotify": null,
+      "last_updated": 1749374816309
     }
   }
 }
