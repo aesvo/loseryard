@@ -28,15 +28,51 @@
           "flags": 0,
           "instance": null,
           "url": null
+        },
+        {
+          "id": null,
+          "name": "Spotify",
+          "type": 2,
+          "state": "Jay Vincent; Michael Kramer",
+          "details": "Ninjago Overture",
+          "created_at": 1749385350778,
+          "timestamps": {
+            "start": "2025-06-08T12:22:27.077Z",
+            "end": "2025-06-08T12:24:05.637Z"
+          },
+          "assets": {
+            "large_image": "spotify:ab67616d0000b273ce17517b6781ca7895d2e900",
+            "large_text": "Ninjago Masters of Spinjitzu (Original Television Soundtrack)",
+            "small_image": null,
+            "small_text": null
+          },
+          "party": {
+            "id": "spotify:1380957320745320581"
+          },
+          "sync_id": "7aXd6ExBqPZX2nwS3TWzlI",
+          "session_id": null,
+          "flags": 48,
+          "instance": null,
+          "url": null
         }
       ],
       "discord_status": "dnd",
       "active_on_discord_web": "dnd",
       "active_on_discord_desktop": false,
       "active_on_discord_mobile": false,
-      "listening_to_spotify": false,
-      "spotify": null,
-      "last_updated": 1749385316582
+      "listening_to_spotify": true,
+      "spotify": {
+        "timestamps": {
+          "start": "2025-06-08T12:22:27.077Z",
+          "end": "2025-06-08T12:24:05.637Z"
+        },
+        "album": "Ninjago Overture",
+        "album_art_url": "https://i.scdn.co/image/ab67616d0000b273ce17517b6781ca7895d2e900",
+        "artist": "Jay Vincent; Michael Kramer",
+        "song": "Ninjago Overture",
+        "track_id": "7aXd6ExBqPZX2nwS3TWzlI"
+      },
+      "last_updated": 1749385350842
     }
   }
 }
