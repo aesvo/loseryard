@@ -28,15 +28,51 @@
           "flags": 0,
           "instance": null,
           "url": null
+        },
+        {
+          "id": null,
+          "name": "Spotify",
+          "type": 2,
+          "state": "Ye",
+          "details": "HIT SYMPHONY",
+          "created_at": 1749393744622,
+          "timestamps": {
+            "start": "2025-06-08T14:42:16.777Z",
+            "end": "2025-06-08T14:43:33.587Z"
+          },
+          "assets": {
+            "large_image": "spotify:ab67616d0000b2739c56c828a5d712fb17a2c728",
+            "large_text": "HIT SYMPHONY",
+            "small_image": null,
+            "small_text": null
+          },
+          "party": {
+            "id": "spotify:1380957320745320581"
+          },
+          "sync_id": "2iqsacG3GhqMI2jqIh9nFM",
+          "session_id": null,
+          "flags": 48,
+          "instance": null,
+          "url": null
         }
       ],
       "discord_status": "dnd",
       "active_on_discord_web": "dnd",
       "active_on_discord_desktop": false,
       "active_on_discord_mobile": false,
-      "listening_to_spotify": false,
-      "spotify": null,
-      "last_updated": 1749393651797
+      "listening_to_spotify": true,
+      "spotify": {
+        "timestamps": {
+          "start": "2025-06-08T14:42:16.777Z",
+          "end": "2025-06-08T14:43:33.587Z"
+        },
+        "album": "HIT SYMPHONY",
+        "album_art_url": "https://i.scdn.co/image/ab67616d0000b2739c56c828a5d712fb17a2c728",
+        "artist": "Ye",
+        "song": "HIT SYMPHONY",
+        "track_id": "2iqsacG3GhqMI2jqIh9nFM"
+      },
+      "last_updated": 1749393744682
     }
   }
 }
