@@ -33,23 +33,23 @@
           "id": null,
           "name": "Spotify",
           "type": 2,
-          "state": "JPRO",
-          "details": "Remy Ferbas",
-          "created_at": 1749394352240,
+          "state": "Ye",
+          "details": "WW3",
+          "created_at": 1749394462927,
           "timestamps": {
-            "start": "2025-06-08T14:50:36.794Z",
-            "end": "2025-06-08T14:53:02.233Z"
+            "start": "2025-06-08T14:54:22.755Z",
+            "end": "2025-06-08T14:56:07.655Z"
           },
           "assets": {
-            "large_image": "spotify:ab67616d0000b273782b82a78b3fc064db7094ea",
-            "large_text": "Remy Ferbas",
+            "large_image": "spotify:ab67616d0000b273c244c4da314bc278579ebbae",
+            "large_text": "WW3",
             "small_image": null,
             "small_text": null
           },
           "party": {
             "id": "spotify:1380957320745320581"
           },
-          "sync_id": "1jA8LJ2VSZJRetFDNbXQHE",
+          "sync_id": "4uBbeKZTXNRRV4bMIcKx45",
           "session_id": null,
           "flags": 48,
           "instance": null,
@@ -63,16 +63,16 @@
       "listening_to_spotify": true,
       "spotify": {
         "timestamps": {
-          "start": "2025-06-08T14:50:36.794Z",
-          "end": "2025-06-08T14:53:02.233Z"
+          "start": "2025-06-08T14:54:22.755Z",
+          "end": "2025-06-08T14:56:07.655Z"
         },
-        "album": "Remy Ferbas",
-        "album_art_url": "https://i.scdn.co/image/ab67616d0000b273782b82a78b3fc064db7094ea",
-        "artist": "JPRO",
-        "song": "Remy Ferbas",
-        "track_id": "1jA8LJ2VSZJRetFDNbXQHE"
+        "album": "WW3",
+        "album_art_url": "https://i.scdn.co/image/ab67616d0000b273c244c4da314bc278579ebbae",
+        "artist": "Ye",
+        "song": "WW3",
+        "track_id": "4uBbeKZTXNRRV4bMIcKx45"
       },
-      "last_updated": 1749394352307
+      "last_updated": 1749394462987
     }
   }
 }
