@@ -19,7 +19,7 @@
           "type": 4,
           "state": "/rob / loseryard>>",
           "details": null,
-          "created_at": 1749379062373,
+          "created_at": 1749380749418,
           "timestamps": null,
           "assets": null,
           "party": null,
@@ -28,15 +28,51 @@
           "flags": 0,
           "instance": null,
           "url": null
+        },
+        {
+          "id": null,
+          "name": "Spotify",
+          "type": 2,
+          "state": "Ye",
+          "details": "WW3",
+          "created_at": 1749380750095,
+          "timestamps": {
+            "start": "2025-06-08T11:05:42.396Z",
+            "end": "2025-06-08T11:07:27.296Z"
+          },
+          "assets": {
+            "large_image": "spotify:ab67616d0000b273c244c4da314bc278579ebbae",
+            "large_text": "WW3",
+            "small_image": null,
+            "small_text": null
+          },
+          "party": {
+            "id": "spotify:1380957320745320581"
+          },
+          "sync_id": "4uBbeKZTXNRRV4bMIcKx45",
+          "session_id": null,
+          "flags": 48,
+          "instance": null,
+          "url": null
         }
       ],
       "discord_status": "dnd",
       "active_on_discord_web": false,
       "active_on_discord_desktop": false,
       "active_on_discord_mobile": "dnd",
-      "listening_to_spotify": false,
-      "spotify": null,
-      "last_updated": 1749379062484
+      "listening_to_spotify": true,
+      "spotify": {
+        "timestamps": {
+          "start": "2025-06-08T11:05:42.396Z",
+          "end": "2025-06-08T11:07:27.296Z"
+        },
+        "album": "WW3",
+        "album_art_url": "https://i.scdn.co/image/ab67616d0000b273c244c4da314bc278579ebbae",
+        "artist": "Ye",
+        "song": "WW3",
+        "track_id": "4uBbeKZTXNRRV4bMIcKx45"
+      },
+      "last_updated": 1749380750154
     }
   }
 }
