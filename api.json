@@ -33,23 +33,23 @@
           "id": null,
           "name": "Spotify",
           "type": 2,
-          "state": "krake.",
-          "details": "Never See Me Again",
-          "created_at": 1749384374125,
+          "state": "ian",
+          "details": "On the Floor",
+          "created_at": 1749384873979,
           "timestamps": {
-            "start": "2025-06-08T12:06:13.986Z",
-            "end": "2025-06-08T12:14:33.621Z"
+            "start": "2025-06-08T12:14:33.832Z",
+            "end": "2025-06-08T12:16:56.176Z"
           },
           "assets": {
-            "large_image": "spotify:ab67616d0000b2738eccac935768a3edb5430b43",
-            "large_text": "HITMAKERS",
+            "large_image": "spotify:ab67616d0000b273c213d06355de005be245b29c",
+            "large_text": "Goodbye Horses",
             "small_image": null,
             "small_text": null
           },
           "party": {
             "id": "spotify:1380957320745320581"
           },
-          "sync_id": "2Hfaz4lXSJRfQlMtc2eHxp",
+          "sync_id": "0hgARBhvrkhFM1FYdZsehb",
           "session_id": null,
           "flags": 48,
           "instance": null,
@@ -63,16 +63,16 @@
       "listening_to_spotify": true,
       "spotify": {
         "timestamps": {
-          "start": "2025-06-08T12:06:13.986Z",
-          "end": "2025-06-08T12:14:33.621Z"
+          "start": "2025-06-08T12:14:33.832Z",
+          "end": "2025-06-08T12:16:56.176Z"
         },
-        "album": "Never See Me Again",
-        "album_art_url": "https://i.scdn.co/image/ab67616d0000b2738eccac935768a3edb5430b43",
-        "artist": "krake.",
-        "song": "Never See Me Again",
-        "track_id": "2Hfaz4lXSJRfQlMtc2eHxp"
+        "album": "On the Floor",
+        "album_art_url": "https://i.scdn.co/image/ab67616d0000b273c213d06355de005be245b29c",
+        "artist": "ian",
+        "song": "On the Floor",
+        "track_id": "0hgARBhvrkhFM1FYdZsehb"
       },
-      "last_updated": 1749384374183
+      "last_updated": 1749384874044
     }
   }
 }
