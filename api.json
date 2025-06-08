@@ -19,7 +19,7 @@
           "type": 4,
           "state": "/rob / loseryard>>",
           "details": null,
-          "created_at": 1749383194163,
+          "created_at": 1749381760979,
           "timestamps": null,
           "assets": null,
           "party": null,
@@ -59,7 +59,7 @@
       "discord_status": "dnd",
       "active_on_discord_web": "dnd",
       "active_on_discord_desktop": false,
-      "active_on_discord_mobile": "dnd",
+      "active_on_discord_mobile": false,
       "listening_to_spotify": true,
       "spotify": {
         "timestamps": {
@@ -72,7 +72,7 @@
         "song": "Rancilio Silvia",
         "track_id": "0FrcRjuvPYqDr4zK18t6JF"
       },
-      "last_updated": 1749383218901
+      "last_updated": 1749383314418
     }
   }
 }
