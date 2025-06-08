@@ -1,134 +1,49 @@
 {
   "success": true,
   "data": {
-    "1381184307275628664": {
-      "discord_user": {
-        "id": "1381184307275628664",
-        "username": "loseryard",
-        "discriminator": "0512",
-        "bot": true,
-        "avatar": "eb0bf03d36c27470be1d196c5341e2e0",
-        "global_name": null,
-        "display_name": "loseryard",
-        "public_flags": 0
-      },
-      "activities": [],
-      "discord_status": "online",
-      "active_on_discord_web": "online",
-      "active_on_discord_desktop": false,
-      "active_on_discord_mobile": false,
-      "listening_to_spotify": false,
-      "spotify": null,
-      "online_since": 1749395878001,
-      "offline_since": null,
-      "total_online_ms": 0,
-      "total_offline_ms": 0,
-      "online_time": {
-        "seconds": 106,
-        "minutes": 1,
-        "hours": 0,
-        "days": 0,
-        "years": 0
-      },
-      "offline_time": {
-        "seconds": 0,
-        "minutes": 0,
-        "hours": 0,
-        "days": 0,
-        "years": 0
-      },
-      "last_updated": 1749395878001
-    },
     "1380957320745320581": {
-      "discord_user": {
-        "id": "1380957320745320581",
-        "username": "76xk",
-        "discriminator": "0",
-        "bot": false,
-        "avatar": null,
-        "global_name": "loser",
-        "display_name": "loser",
-        "public_flags": 0
-      },
-      "activities": [
-        {
-          "id": "custom",
-          "name": "Custom Status",
-          "type": 4,
-          "state": "/rob / loseryard>>",
-          "details": null,
-          "created_at": 1749395880479,
-          "timestamps": null,
-          "assets": null,
-          "party": null,
-          "sync_id": null,
-          "session_id": null,
-          "flags": 0,
-          "instance": null,
-          "url": null
-        },
-        {
-          "id": null,
-          "name": "Spotify",
-          "type": 2,
-          "state": "Ninjago Music; The Fold",
-          "details": "LEGO Ninjago WEEKEND WHIP - The Rift Whip Remix",
-          "created_at": 1749395880479,
-          "timestamps": {
-            "start": "2025-06-08T15:17:41.142Z",
-            "end": "2025-06-08T15:21:41.551Z"
-          },
-          "assets": {
-            "large_image": "spotify:ab67616d0000b273db999a94b043a54eeb0289ed",
-            "large_text": "LEGO Ninjago: Day of the Departed (Original Soundtrack)",
-            "small_image": null,
-            "small_text": null
-          },
-          "party": {
-            "id": "spotify:1380957320745320581"
-          },
-          "sync_id": "0RnlCEH0tB6ktFHXGWebg8",
-          "session_id": null,
-          "flags": 48,
-          "instance": null,
-          "url": null
-        }
-      ],
       "discord_status": "dnd",
-      "active_on_discord_web": "dnd",
-      "active_on_discord_desktop": false,
-      "active_on_discord_mobile": false,
-      "listening_to_spotify": true,
-      "spotify": {
-        "timestamps": {
-          "start": "2025-06-08T15:17:41.142Z",
-          "end": "2025-06-08T15:21:41.551Z"
-        },
-        "album": "LEGO Ninjago WEEKEND WHIP - The Rift Whip Remix",
-        "album_art_url": "https://i.scdn.co/image/ab67616d0000b273db999a94b043a54eeb0289ed",
-        "artist": "Ninjago Music; The Fold",
-        "song": "LEGO Ninjago WEEKEND WHIP - The Rift Whip Remix",
-        "track_id": "0RnlCEH0tB6ktFHXGWebg8"
-      },
-      "online_since": 1749395880537,
+      "online_since": 1749396079940,
       "offline_since": null,
       "total_online_ms": 0,
       "total_offline_ms": 0,
       "online_time": {
-        "seconds": 103,
-        "minutes": 1,
-        "hours": 0,
+        "years": 0,
         "days": 0,
-        "years": 0
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 1
       },
       "offline_time": {
-        "seconds": 0,
-        "minutes": 0,
-        "hours": 0,
+        "years": 0,
         "days": 0,
-        "years": 0
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 0
       },
-      "last_updated": 1749395880537
+      "last_updated": 1749396079940
+    },
+    "1381184307275628664": {
+      "discord_status": "online",
+      "online_since": 1749396079940,
+      "offline_since": null,
+      "total_online_ms": 0,
+      "total_offline_ms": 0,
+      "online_time": {
+        "years": 0,
+        "days": 0,
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 1
+      },
+      "offline_time": {
+        "years": 0,
+        "days": 0,
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 0
+      },
+      "last_updated": 1749396079940
     }
   }
 }
