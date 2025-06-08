@@ -17,9 +17,9 @@
           "id": "custom",
           "name": "Custom Status",
           "type": 4,
-          "state": "/rob",
+          "state": "/rob TEST",
           "details": null,
-          "created_at": 1749373777374,
+          "created_at": 1749374465585,
           "timestamps": null,
           "assets": null,
           "party": null,
@@ -72,7 +72,7 @@
         "song": "Ain't Gon Cry",
         "track_id": "04vdvtMibZjQqOQCQzmVtw"
       },
-      "last_updated": 1749374351468
+      "last_updated": 1749374465642
     }
   }
 }
