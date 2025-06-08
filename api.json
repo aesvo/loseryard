@@ -33,23 +33,23 @@
           "id": null,
           "name": "Spotify",
           "type": 2,
-          "state": "Ninjago Music; The Fold; Michael AM",
-          "details": "LEGO Ninjago WEEKEND WHIP - Michael AM Remix",
-          "created_at": 1749385504688,
+          "state": "Ninjago Music; The Fold",
+          "details": "LEGO Ninjago WEEKEND WHIP - The Anacondrai Remix",
+          "created_at": 1749385763173,
           "timestamps": {
-            "start": "2025-06-08T12:25:04.525Z",
-            "end": "2025-06-08T12:29:22.525Z"
+            "start": "2025-06-08T12:29:22.996Z",
+            "end": "2025-06-08T12:31:46.996Z"
           },
           "assets": {
-            "large_image": "spotify:ab67616d0000b273fa774adc51f36d1de8211e34",
-            "large_text": "LEGO Ninjago WEEKEND WHIP (Michael Am Remix)",
+            "large_image": "spotify:ab67616d0000b27313b71cfe3a262a2bc114bdb7",
+            "large_text": "LEGO Ninjago WEEKEND WHIP (The Anacondrai Remix)",
             "small_image": null,
             "small_text": null
           },
           "party": {
             "id": "spotify:1380957320745320581"
           },
-          "sync_id": "7y3oQYHjnvwY8o6dbOF84q",
+          "sync_id": "2BFrgBNcP2chhqkNT9t45c",
           "session_id": null,
           "flags": 48,
           "instance": null,
@@ -63,16 +63,16 @@
       "listening_to_spotify": true,
       "spotify": {
         "timestamps": {
-          "start": "2025-06-08T12:25:04.525Z",
-          "end": "2025-06-08T12:29:22.525Z"
+          "start": "2025-06-08T12:29:22.996Z",
+          "end": "2025-06-08T12:31:46.996Z"
         },
-        "album": "LEGO Ninjago WEEKEND WHIP - Michael AM Remix",
-        "album_art_url": "https://i.scdn.co/image/ab67616d0000b273fa774adc51f36d1de8211e34",
-        "artist": "Ninjago Music; The Fold; Michael AM",
-        "song": "LEGO Ninjago WEEKEND WHIP - Michael AM Remix",
-        "track_id": "7y3oQYHjnvwY8o6dbOF84q"
+        "album": "LEGO Ninjago WEEKEND WHIP - The Anacondrai Remix",
+        "album_art_url": "https://i.scdn.co/image/ab67616d0000b27313b71cfe3a262a2bc114bdb7",
+        "artist": "Ninjago Music; The Fold",
+        "song": "LEGO Ninjago WEEKEND WHIP - The Anacondrai Remix",
+        "track_id": "2BFrgBNcP2chhqkNT9t45c"
       },
-      "last_updated": 1749385504754
+      "last_updated": 1749385763230
     }
   }
 }
