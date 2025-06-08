@@ -1,0 +1,22 @@
+{
+  "discord_status": "online",
+  "online_since": 1749396177757,
+  "offline_since": null,
+  "total_online_ms": 0,
+  "total_offline_ms": 0,
+  "online_time": {
+    "years": 0,
+    "days": 0,
+    "hours": 0,
+    "minutes": 0,
+    "seconds": 1
+  },
+  "offline_time": {
+    "years": 0,
+    "days": 0,
+    "hours": 0,
+    "minutes": 0,
+    "seconds": 0
+  },
+  "last_updated": 1749396177757
+}
