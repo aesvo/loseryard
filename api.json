@@ -19,7 +19,7 @@
           "type": 4,
           "state": "/rob / loseryard>>",
           "details": null,
-          "created_at": 1749388268195,
+          "created_at": 1749388784927,
           "timestamps": null,
           "assets": null,
           "party": null,
@@ -36,7 +36,7 @@
       "active_on_discord_mobile": "dnd",
       "listening_to_spotify": false,
       "spotify": null,
-      "last_updated": 1749388268254
+      "last_updated": 1749388784997
     }
   }
 }
