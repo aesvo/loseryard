@@ -19,7 +19,7 @@
           "type": 4,
           "state": "/rob / loseryard>>",
           "details": null,
-          "created_at": 1749381760979,
+          "created_at": 1749383194163,
           "timestamps": null,
           "assets": null,
           "party": null,
@@ -35,10 +35,10 @@
           "type": 2,
           "state": "Lancey Foux",
           "details": "TEKTIME",
-          "created_at": 1749383084280,
+          "created_at": 1749383109076,
           "timestamps": {
-            "start": "2025-06-08T11:44:44.006Z",
-            "end": "2025-06-08T11:47:44.431Z"
+            "start": "2025-06-08T11:43:49.555Z",
+            "end": "2025-06-08T11:46:49.980Z"
           },
           "assets": {
             "large_image": "spotify:ab67616d0000b273478554d576be90480d9d36b4",
@@ -59,12 +59,12 @@
       "discord_status": "dnd",
       "active_on_discord_web": "dnd",
       "active_on_discord_desktop": false,
-      "active_on_discord_mobile": false,
+      "active_on_discord_mobile": "dnd",
       "listening_to_spotify": true,
       "spotify": {
         "timestamps": {
-          "start": "2025-06-08T11:44:44.006Z",
-          "end": "2025-06-08T11:47:44.431Z"
+          "start": "2025-06-08T11:43:49.555Z",
+          "end": "2025-06-08T11:46:49.980Z"
         },
         "album": "TEKTIME",
         "album_art_url": "https://i.scdn.co/image/ab67616d0000b273478554d576be90480d9d36b4",
@@ -72,7 +72,7 @@
         "song": "TEKTIME",
         "track_id": "6YkhFMoq5oAFFkShLhkuOx"
       },
-      "last_updated": 1749383084346
+      "last_updated": 1749383194247
     }
   }
 }
