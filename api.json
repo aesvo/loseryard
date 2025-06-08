@@ -28,15 +28,51 @@
           "flags": 0,
           "instance": null,
           "url": null
+        },
+        {
+          "id": null,
+          "name": "Spotify",
+          "type": 2,
+          "state": "ian",
+          "details": "3.5",
+          "created_at": 1749382127602,
+          "timestamps": {
+            "start": "2025-06-08T11:28:47.428Z",
+            "end": "2025-06-08T11:31:23.872Z"
+          },
+          "assets": {
+            "large_image": "spotify:ab67616d0000b273c213d06355de005be245b29c",
+            "large_text": "Goodbye Horses",
+            "small_image": null,
+            "small_text": null
+          },
+          "party": {
+            "id": "spotify:1380957320745320581"
+          },
+          "sync_id": "6YvCWIlMBJgQEm6i0POVbZ",
+          "session_id": null,
+          "flags": 48,
+          "instance": null,
+          "url": null
         }
       ],
       "discord_status": "dnd",
       "active_on_discord_web": "dnd",
       "active_on_discord_desktop": false,
       "active_on_discord_mobile": false,
-      "listening_to_spotify": false,
-      "spotify": null,
-      "last_updated": 1749382079892
+      "listening_to_spotify": true,
+      "spotify": {
+        "timestamps": {
+          "start": "2025-06-08T11:28:47.428Z",
+          "end": "2025-06-08T11:31:23.872Z"
+        },
+        "album": "3.5",
+        "album_art_url": "https://i.scdn.co/image/ab67616d0000b273c213d06355de005be245b29c",
+        "artist": "ian",
+        "song": "3.5",
+        "track_id": "6YvCWIlMBJgQEm6i0POVbZ"
+      },
+      "last_updated": 1749382127667
     }
   }
 }
