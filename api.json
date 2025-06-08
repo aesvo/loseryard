@@ -34,11 +34,11 @@
           "name": "Spotify",
           "type": 2,
           "state": "Power Rangers; Noam Kaniel",
-          "details": "Power Rangers Dino Charge Theme Song - Broadcast Version",
-          "created_at": 1749395564371,
+          "details": "Power Rangers Dino Charge Theme Song - Extended Full Version",
+          "created_at": 1749395630001,
           "timestamps": {
-            "start": "2025-06-08T15:12:44.075Z",
-            "end": "2025-06-08T15:13:48.836Z"
+            "start": "2025-06-08T15:13:49.821Z",
+            "end": "2025-06-08T15:15:45.376Z"
           },
           "assets": {
             "large_image": "spotify:ab67616d0000b27393526e60e9350aabbd07b4bf",
@@ -49,7 +49,7 @@
           "party": {
             "id": "spotify:1380957320745320581"
           },
-          "sync_id": "42bbHK0p5wL6qOlVZDZIsB",
+          "sync_id": "7GmlAIzyeG3OjQLB7BUkgz",
           "session_id": null,
           "flags": 48,
           "instance": null,
@@ -63,22 +63,22 @@
       "listening_to_spotify": true,
       "spotify": {
         "timestamps": {
-          "start": "2025-06-08T15:12:44.075Z",
-          "end": "2025-06-08T15:13:48.836Z"
+          "start": "2025-06-08T15:13:49.821Z",
+          "end": "2025-06-08T15:15:45.376Z"
         },
-        "album": "Power Rangers Dino Charge Theme Song - Broadcast Version",
+        "album": "Power Rangers Dino Charge Theme Song - Extended Full Version",
         "album_art_url": "https://i.scdn.co/image/ab67616d0000b27393526e60e9350aabbd07b4bf",
         "artist": "Power Rangers; Noam Kaniel",
-        "song": "Power Rangers Dino Charge Theme Song - Broadcast Version",
-        "track_id": "42bbHK0p5wL6qOlVZDZIsB"
+        "song": "Power Rangers Dino Charge Theme Song - Extended Full Version",
+        "track_id": "7GmlAIzyeG3OjQLB7BUkgz"
       },
       "online_since": 1749395512259,
       "offline_since": null,
       "total_online_ms": 0,
       "total_offline_ms": 1271,
       "online_time": {
-        "seconds": 52,
-        "minutes": 0,
+        "seconds": 117,
+        "minutes": 1,
         "hours": 0,
         "days": 0,
         "years": 0
@@ -90,7 +90,7 @@
         "days": 0,
         "years": 0
       },
-      "last_updated": 1749395564426
+      "last_updated": 1749395630057
     }
   }
 }
