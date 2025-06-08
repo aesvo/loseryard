@@ -33,23 +33,23 @@
           "id": null,
           "name": "Spotify",
           "type": 2,
-          "state": "Gorillaz; MF DOOM",
-          "details": "November Has Come",
-          "created_at": 1749373300154,
+          "state": "Lupe Fiasco",
+          "details": "Mumble Rap",
+          "created_at": 1749373465398,
           "timestamps": {
-            "start": "2025-06-08T09:01:39.960Z",
-            "end": "2025-06-08T09:04:25.053Z"
+            "start": "2025-06-08T09:04:25.204Z",
+            "end": "2025-06-08T09:08:40.764Z"
           },
           "assets": {
-            "large_image": "spotify:ab67616d0000b27319d85a472f328a6ed9b704cf",
-            "large_text": "Demon Days",
+            "large_image": "spotify:ab67616d0000b273afd65b04748aff25b77071f4",
+            "large_text": "Samurai",
             "small_image": null,
             "small_text": null
           },
           "party": {
             "id": "spotify:1380957320745320581"
           },
-          "sync_id": "6lrDckuosGpwEHtm1hHBcf",
+          "sync_id": "0yEc3E8I61boAM4ADMldtn",
           "session_id": null,
           "flags": 48,
           "instance": null,
@@ -63,16 +63,16 @@
       "listening_to_spotify": true,
       "spotify": {
         "timestamps": {
-          "start": "2025-06-08T09:01:39.960Z",
-          "end": "2025-06-08T09:04:25.053Z"
+          "start": "2025-06-08T09:04:25.204Z",
+          "end": "2025-06-08T09:08:40.764Z"
         },
-        "album": "November Has Come",
-        "album_art_url": "https://i.scdn.co/image/ab67616d0000b27319d85a472f328a6ed9b704cf",
-        "artist": "Gorillaz; MF DOOM",
-        "song": "November Has Come",
-        "track_id": "6lrDckuosGpwEHtm1hHBcf"
+        "album": "Mumble Rap",
+        "album_art_url": "https://i.scdn.co/image/ab67616d0000b273afd65b04748aff25b77071f4",
+        "artist": "Lupe Fiasco",
+        "song": "Mumble Rap",
+        "track_id": "0yEc3E8I61boAM4ADMldtn"
       },
-      "last_updated": 1749373300247
+      "last_updated": 1749373465474
     }
   }
 }
