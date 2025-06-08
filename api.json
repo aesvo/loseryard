@@ -56,8 +56,8 @@
           "url": null
         }
       ],
-      "discord_status": "dnd",
-      "active_on_discord_web": "dnd",
+      "discord_status": "idle",
+      "active_on_discord_web": "idle",
       "active_on_discord_desktop": false,
       "active_on_discord_mobile": false,
       "listening_to_spotify": true,
@@ -72,7 +72,7 @@
         "song": "Hey Pastor (feat. Kota The Friend)",
         "track_id": "09uo4WsV5sClwJumNnflaH"
       },
-      "last_updated": 1749374778293
+      "last_updated": 1749374799908
     }
   }
 }
