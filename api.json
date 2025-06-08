@@ -17,9 +17,9 @@
           "id": "custom",
           "name": "Custom Status",
           "type": 4,
-          "state": "/rob TEST",
+          "state": "/rob loseryard>>",
           "details": null,
-          "created_at": 1749374465585,
+          "created_at": 1749374577666,
           "timestamps": null,
           "assets": null,
           "party": null,
@@ -72,7 +72,7 @@
         "song": "CANDY. (feat. Alé Araya)",
         "track_id": "2LXCYl71dgWKIiMYZy8D70"
       },
-      "last_updated": 1749374559451
+      "last_updated": 1749374577733
     }
   }
 }
