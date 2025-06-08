@@ -17,9 +17,9 @@
           "id": "custom",
           "name": "Custom Status",
           "type": 4,
-          "state": "/rob | loseryard tested",
+          "state": "/rob",
           "details": null,
-          "created_at": 1749373244838,
+          "created_at": 1749373777374,
           "timestamps": null,
           "assets": null,
           "party": null,
@@ -72,7 +72,7 @@
         "song": "too far",
         "track_id": "6fHdFZViPw2GVgnFj9j5y7"
       },
-      "last_updated": 1749373721222
+      "last_updated": 1749373777453
     }
   }
 }
