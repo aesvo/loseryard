@@ -33,23 +33,23 @@
           "id": null,
           "name": "Spotify",
           "type": 2,
-          "state": "Kinrose; Deb Fan",
-          "details": "too far",
-          "created_at": 1749373721143,
+          "state": "Aminé; chlothegod",
+          "details": "Changer (feat. chlothegod)",
+          "created_at": 1749373857324,
           "timestamps": {
-            "start": "2025-06-08T09:08:40.947Z",
-            "end": "2025-06-08T09:10:56.927Z"
+            "start": "2025-06-08T09:10:57.101Z",
+            "end": "2025-06-08T09:14:20.567Z"
           },
           "assets": {
-            "large_image": "spotify:ab67616d0000b2733bc1b47f67c7c50cedc5fb90",
-            "large_text": "every garden",
+            "large_image": "spotify:ab67616d0000b273191026c5e7b75420992c0412",
+            "large_text": "13 Months of Sunshine",
             "small_image": null,
             "small_text": null
           },
           "party": {
             "id": "spotify:1380957320745320581"
           },
-          "sync_id": "6fHdFZViPw2GVgnFj9j5y7",
+          "sync_id": "3jKCBXf2Fr56GGRG7Yn0kx",
           "session_id": null,
           "flags": 48,
           "instance": null,
@@ -63,16 +63,16 @@
       "listening_to_spotify": true,
       "spotify": {
         "timestamps": {
-          "start": "2025-06-08T09:08:40.947Z",
-          "end": "2025-06-08T09:10:56.927Z"
+          "start": "2025-06-08T09:10:57.101Z",
+          "end": "2025-06-08T09:14:20.567Z"
         },
-        "album": "too far",
-        "album_art_url": "https://i.scdn.co/image/ab67616d0000b2733bc1b47f67c7c50cedc5fb90",
-        "artist": "Kinrose; Deb Fan",
-        "song": "too far",
-        "track_id": "6fHdFZViPw2GVgnFj9j5y7"
+        "album": "Changer (feat. chlothegod)",
+        "album_art_url": "https://i.scdn.co/image/ab67616d0000b273191026c5e7b75420992c0412",
+        "artist": "Aminé; chlothegod",
+        "song": "Changer (feat. chlothegod)",
+        "track_id": "3jKCBXf2Fr56GGRG7Yn0kx"
       },
-      "last_updated": 1749373777453
+      "last_updated": 1749373857406
     }
   }
 }
