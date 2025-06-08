@@ -33,23 +33,23 @@
           "id": null,
           "name": "Spotify",
           "type": 2,
-          "state": "ian",
-          "details": "Out West",
-          "created_at": 1749383501167,
+          "state": "Steven Joseph",
+          "details": "WE AIN'T DONE / iNSYNC",
+          "created_at": 1749383627310,
           "timestamps": {
-            "start": "2025-06-08T11:51:40.868Z",
-            "end": "2025-06-08T11:53:46.999Z"
+            "start": "2025-06-08T11:53:47.150Z",
+            "end": "2025-06-08T11:56:49.250Z"
           },
           "assets": {
-            "large_image": "spotify:ab67616d0000b273c213d06355de005be245b29c",
-            "large_text": "Goodbye Horses",
+            "large_image": "spotify:ab67616d0000b27353733496dc193b1a5b2e39ce",
+            "large_text": "CHANNEL 95",
             "small_image": null,
             "small_text": null
           },
           "party": {
             "id": "spotify:1380957320745320581"
           },
-          "sync_id": "17WQkOlartDUNoZAM2iihK",
+          "sync_id": "73I7cNg9omT6nhXxEWMhXe",
           "session_id": null,
           "flags": 48,
           "instance": null,
@@ -63,16 +63,16 @@
       "listening_to_spotify": true,
       "spotify": {
         "timestamps": {
-          "start": "2025-06-08T11:51:40.868Z",
-          "end": "2025-06-08T11:53:46.999Z"
+          "start": "2025-06-08T11:53:47.150Z",
+          "end": "2025-06-08T11:56:49.250Z"
         },
-        "album": "Out West",
-        "album_art_url": "https://i.scdn.co/image/ab67616d0000b273c213d06355de005be245b29c",
-        "artist": "ian",
-        "song": "Out West",
-        "track_id": "17WQkOlartDUNoZAM2iihK"
+        "album": "WE AIN'T DONE / iNSYNC",
+        "album_art_url": "https://i.scdn.co/image/ab67616d0000b27353733496dc193b1a5b2e39ce",
+        "artist": "Steven Joseph",
+        "song": "WE AIN'T DONE / iNSYNC",
+        "track_id": "73I7cNg9omT6nhXxEWMhXe"
       },
-      "last_updated": 1749383501236
+      "last_updated": 1749383627369
     }
   }
 }
