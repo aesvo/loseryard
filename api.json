@@ -17,9 +17,9 @@
           "id": "custom",
           "name": "Custom Status",
           "type": 4,
-          "state": "/rob loseryard>>",
+          "state": "/rob / loseryard>>",
           "details": null,
-          "created_at": 1749378556463,
+          "created_at": 1749378748365,
           "timestamps": null,
           "assets": null,
           "party": null,
@@ -36,7 +36,7 @@
       "active_on_discord_mobile": "dnd",
       "listening_to_spotify": false,
       "spotify": null,
-      "last_updated": 1749378556524
+      "last_updated": 1749378748430
     }
   }
 }
