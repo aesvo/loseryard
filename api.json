@@ -33,23 +33,23 @@
           "id": null,
           "name": "Spotify",
           "type": 2,
-          "state": "SWAVAY",
-          "details": "intro",
-          "created_at": 1749374280401,
+          "state": "A$AP Twelvyy",
+          "details": "Ain't Gon Cry",
+          "created_at": 1749374351403,
           "timestamps": {
-            "start": "2025-06-08T09:18:00.212Z",
-            "end": "2025-06-08T09:19:11.054Z"
+            "start": "2025-06-08T09:19:11.185Z",
+            "end": "2025-06-08T09:22:39.031Z"
           },
           "assets": {
-            "large_image": "spotify:ab67616d0000b2734328097fdbefe7656c2d215f",
-            "large_text": "BILLY2",
+            "large_image": "spotify:ab67616d0000b2738e0eb8890c32d4946b5de30e",
+            "large_text": "I Did More with Less (V1)",
             "small_image": null,
             "small_text": null
           },
           "party": {
             "id": "spotify:1380957320745320581"
           },
-          "sync_id": "6OVOX1Bhu9UKmX4k07r5hr",
+          "sync_id": "04vdvtMibZjQqOQCQzmVtw",
           "session_id": null,
           "flags": 48,
           "instance": null,
@@ -63,16 +63,16 @@
       "listening_to_spotify": true,
       "spotify": {
         "timestamps": {
-          "start": "2025-06-08T09:18:00.212Z",
-          "end": "2025-06-08T09:19:11.054Z"
+          "start": "2025-06-08T09:19:11.185Z",
+          "end": "2025-06-08T09:22:39.031Z"
         },
-        "album": "intro",
-        "album_art_url": "https://i.scdn.co/image/ab67616d0000b2734328097fdbefe7656c2d215f",
-        "artist": "SWAVAY",
-        "song": "intro",
-        "track_id": "6OVOX1Bhu9UKmX4k07r5hr"
+        "album": "Ain't Gon Cry",
+        "album_art_url": "https://i.scdn.co/image/ab67616d0000b2738e0eb8890c32d4946b5de30e",
+        "artist": "A$AP Twelvyy",
+        "song": "Ain't Gon Cry",
+        "track_id": "04vdvtMibZjQqOQCQzmVtw"
       },
-      "last_updated": 1749374280487
+      "last_updated": 1749374351468
     }
   }
 }
