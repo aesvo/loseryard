@@ -33,23 +33,23 @@
           "id": null,
           "name": "Spotify",
           "type": 2,
-          "state": "Ramir; Alec King",
-          "details": "Bed & Money",
-          "created_at": 1749373244838,
+          "state": "Gorillaz; MF DOOM",
+          "details": "November Has Come",
+          "created_at": 1749373300154,
           "timestamps": {
-            "start": "2025-06-08T08:58:57.990Z",
-            "end": "2025-06-08T09:01:40.209Z"
+            "start": "2025-06-08T09:01:39.960Z",
+            "end": "2025-06-08T09:04:25.053Z"
           },
           "assets": {
-            "large_image": "spotify:ab67616d0000b273df8921ffd2ecf2c4ae05a5fa",
-            "large_text": "Bed & Money",
+            "large_image": "spotify:ab67616d0000b27319d85a472f328a6ed9b704cf",
+            "large_text": "Demon Days",
             "small_image": null,
             "small_text": null
           },
           "party": {
             "id": "spotify:1380957320745320581"
           },
-          "sync_id": "07kwygIOwQx49bNts9r0eV",
+          "sync_id": "6lrDckuosGpwEHtm1hHBcf",
           "session_id": null,
           "flags": 48,
           "instance": null,
@@ -63,16 +63,16 @@
       "listening_to_spotify": true,
       "spotify": {
         "timestamps": {
-          "start": "2025-06-08T08:58:57.990Z",
-          "end": "2025-06-08T09:01:40.209Z"
+          "start": "2025-06-08T09:01:39.960Z",
+          "end": "2025-06-08T09:04:25.053Z"
         },
-        "album": "Bed & Money",
-        "album_art_url": "https://i.scdn.co/image/ab67616d0000b273df8921ffd2ecf2c4ae05a5fa",
-        "artist": "Ramir; Alec King",
-        "song": "Bed & Money",
-        "track_id": "07kwygIOwQx49bNts9r0eV"
+        "album": "November Has Come",
+        "album_art_url": "https://i.scdn.co/image/ab67616d0000b27319d85a472f328a6ed9b704cf",
+        "artist": "Gorillaz; MF DOOM",
+        "song": "November Has Come",
+        "track_id": "6lrDckuosGpwEHtm1hHBcf"
       },
-      "last_updated": 1749373244911
+      "last_updated": 1749373300247
     }
   }
 }
