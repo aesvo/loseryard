@@ -33,23 +33,23 @@
           "id": null,
           "name": "Spotify",
           "type": 2,
-          "state": "Playuncle Farti",
-          "details": "Problem Child",
-          "created_at": 1749383353619,
+          "state": "ian",
+          "details": "Out West",
+          "created_at": 1749383501167,
           "timestamps": {
-            "start": "2025-06-08T11:49:13.370Z",
-            "end": "2025-06-08T11:51:40.620Z"
+            "start": "2025-06-08T11:51:40.868Z",
+            "end": "2025-06-08T11:53:46.999Z"
           },
           "assets": {
-            "large_image": "spotify:ab67616d0000b273a7c4dae172c6dd8ddca6fc94",
-            "large_text": "Problem Child",
+            "large_image": "spotify:ab67616d0000b273c213d06355de005be245b29c",
+            "large_text": "Goodbye Horses",
             "small_image": null,
             "small_text": null
           },
           "party": {
             "id": "spotify:1380957320745320581"
           },
-          "sync_id": "55vxe6sZYCXXebUduSDCRP",
+          "sync_id": "17WQkOlartDUNoZAM2iihK",
           "session_id": null,
           "flags": 48,
           "instance": null,
@@ -63,16 +63,16 @@
       "listening_to_spotify": true,
       "spotify": {
         "timestamps": {
-          "start": "2025-06-08T11:49:13.370Z",
-          "end": "2025-06-08T11:51:40.620Z"
+          "start": "2025-06-08T11:51:40.868Z",
+          "end": "2025-06-08T11:53:46.999Z"
         },
-        "album": "Problem Child",
-        "album_art_url": "https://i.scdn.co/image/ab67616d0000b273a7c4dae172c6dd8ddca6fc94",
-        "artist": "Playuncle Farti",
-        "song": "Problem Child",
-        "track_id": "55vxe6sZYCXXebUduSDCRP"
+        "album": "Out West",
+        "album_art_url": "https://i.scdn.co/image/ab67616d0000b273c213d06355de005be245b29c",
+        "artist": "ian",
+        "song": "Out West",
+        "track_id": "17WQkOlartDUNoZAM2iihK"
       },
-      "last_updated": 1749383353702
+      "last_updated": 1749383501236
     }
   }
 }
