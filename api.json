@@ -33,23 +33,23 @@
           "id": null,
           "name": "Spotify",
           "type": 2,
-          "state": "Lupe Fiasco",
-          "details": "Mumble Rap",
-          "created_at": 1749373465398,
+          "state": "Kinrose; Deb Fan",
+          "details": "too far",
+          "created_at": 1749373721143,
           "timestamps": {
-            "start": "2025-06-08T09:04:25.204Z",
-            "end": "2025-06-08T09:08:40.764Z"
+            "start": "2025-06-08T09:08:40.947Z",
+            "end": "2025-06-08T09:10:56.927Z"
           },
           "assets": {
-            "large_image": "spotify:ab67616d0000b273afd65b04748aff25b77071f4",
-            "large_text": "Samurai",
+            "large_image": "spotify:ab67616d0000b2733bc1b47f67c7c50cedc5fb90",
+            "large_text": "every garden",
             "small_image": null,
             "small_text": null
           },
           "party": {
             "id": "spotify:1380957320745320581"
           },
-          "sync_id": "0yEc3E8I61boAM4ADMldtn",
+          "sync_id": "6fHdFZViPw2GVgnFj9j5y7",
           "session_id": null,
           "flags": 48,
           "instance": null,
@@ -63,16 +63,16 @@
       "listening_to_spotify": true,
       "spotify": {
         "timestamps": {
-          "start": "2025-06-08T09:04:25.204Z",
-          "end": "2025-06-08T09:08:40.764Z"
+          "start": "2025-06-08T09:08:40.947Z",
+          "end": "2025-06-08T09:10:56.927Z"
         },
-        "album": "Mumble Rap",
-        "album_art_url": "https://i.scdn.co/image/ab67616d0000b273afd65b04748aff25b77071f4",
-        "artist": "Lupe Fiasco",
-        "song": "Mumble Rap",
-        "track_id": "0yEc3E8I61boAM4ADMldtn"
+        "album": "too far",
+        "album_art_url": "https://i.scdn.co/image/ab67616d0000b2733bc1b47f67c7c50cedc5fb90",
+        "artist": "Kinrose; Deb Fan",
+        "song": "too far",
+        "track_id": "6fHdFZViPw2GVgnFj9j5y7"
       },
-      "last_updated": 1749373465474
+      "last_updated": 1749373721222
     }
   }
 }
