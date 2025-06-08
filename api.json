@@ -28,20 +28,56 @@
           "flags": 0,
           "instance": null,
           "url": null
+        },
+        {
+          "id": null,
+          "name": "Spotify",
+          "type": 2,
+          "state": "Power Rangers; Noam Kaniel",
+          "details": "Power Rangers Dino Charge Theme Song - Broadcast Version",
+          "created_at": 1749395564371,
+          "timestamps": {
+            "start": "2025-06-08T15:12:44.075Z",
+            "end": "2025-06-08T15:13:48.836Z"
+          },
+          "assets": {
+            "large_image": "spotify:ab67616d0000b27393526e60e9350aabbd07b4bf",
+            "large_text": "Power Rangers Dino Charge Theme Song",
+            "small_image": null,
+            "small_text": null
+          },
+          "party": {
+            "id": "spotify:1380957320745320581"
+          },
+          "sync_id": "42bbHK0p5wL6qOlVZDZIsB",
+          "session_id": null,
+          "flags": 48,
+          "instance": null,
+          "url": null
         }
       ],
       "discord_status": "dnd",
       "active_on_discord_web": "dnd",
       "active_on_discord_desktop": false,
       "active_on_discord_mobile": false,
-      "listening_to_spotify": false,
-      "spotify": null,
+      "listening_to_spotify": true,
+      "spotify": {
+        "timestamps": {
+          "start": "2025-06-08T15:12:44.075Z",
+          "end": "2025-06-08T15:13:48.836Z"
+        },
+        "album": "Power Rangers Dino Charge Theme Song - Broadcast Version",
+        "album_art_url": "https://i.scdn.co/image/ab67616d0000b27393526e60e9350aabbd07b4bf",
+        "artist": "Power Rangers; Noam Kaniel",
+        "song": "Power Rangers Dino Charge Theme Song - Broadcast Version",
+        "track_id": "42bbHK0p5wL6qOlVZDZIsB"
+      },
       "online_since": 1749395512259,
       "offline_since": null,
       "total_online_ms": 0,
       "total_offline_ms": 1271,
       "online_time": {
-        "seconds": 0,
+        "seconds": 52,
         "minutes": 0,
         "hours": 0,
         "days": 0,
@@ -54,7 +90,7 @@
         "days": 0,
         "years": 0
       },
-      "last_updated": 1749395512259
+      "last_updated": 1749395564426
     }
   }
 }
