@@ -33,23 +33,23 @@
           "id": null,
           "name": "Spotify",
           "type": 2,
-          "state": "ian",
-          "details": "3.5",
-          "created_at": 1749382224488,
+          "state": "YT",
+          "details": "Girls Trip",
+          "created_at": 1749382284612,
           "timestamps": {
-            "start": "2025-06-08T11:28:47.807Z",
-            "end": "2025-06-08T11:31:24.251Z"
+            "start": "2025-06-08T11:31:24.471Z",
+            "end": "2025-06-08T11:33:40.630Z"
           },
           "assets": {
-            "large_image": "spotify:ab67616d0000b273c213d06355de005be245b29c",
-            "large_text": "Goodbye Horses",
+            "large_image": "spotify:ab67616d0000b273bd7d475b7c2e8eb987e92c5b",
+            "large_text": "OI!",
             "small_image": null,
             "small_text": null
           },
           "party": {
             "id": "spotify:1380957320745320581"
           },
-          "sync_id": "6YvCWIlMBJgQEm6i0POVbZ",
+          "sync_id": "3qDTmWFWbiI9X62owRPrnM",
           "session_id": null,
           "flags": 48,
           "instance": null,
@@ -63,16 +63,16 @@
       "listening_to_spotify": true,
       "spotify": {
         "timestamps": {
-          "start": "2025-06-08T11:28:47.807Z",
-          "end": "2025-06-08T11:31:24.251Z"
+          "start": "2025-06-08T11:31:24.471Z",
+          "end": "2025-06-08T11:33:40.630Z"
         },
-        "album": "3.5",
-        "album_art_url": "https://i.scdn.co/image/ab67616d0000b273c213d06355de005be245b29c",
-        "artist": "ian",
-        "song": "3.5",
-        "track_id": "6YvCWIlMBJgQEm6i0POVbZ"
+        "album": "Girls Trip",
+        "album_art_url": "https://i.scdn.co/image/ab67616d0000b273bd7d475b7c2e8eb987e92c5b",
+        "artist": "YT",
+        "song": "Girls Trip",
+        "track_id": "3qDTmWFWbiI9X62owRPrnM"
       },
-      "last_updated": 1749382224544
+      "last_updated": 1749382284673
     }
   }
 }
