@@ -35,10 +35,10 @@
           "type": 2,
           "state": "Ye",
           "details": "WW3",
-          "created_at": 1749382039448,
+          "created_at": 1749382051602,
           "timestamps": {
-            "start": "2025-06-08T11:27:02.200Z",
-            "end": "2025-06-08T11:28:47.100Z"
+            "start": "2025-06-08T11:27:02.304Z",
+            "end": "2025-06-08T11:28:47.204Z"
           },
           "assets": {
             "large_image": "spotify:ab67616d0000b273c244c4da314bc278579ebbae",
@@ -63,8 +63,8 @@
       "listening_to_spotify": true,
       "spotify": {
         "timestamps": {
-          "start": "2025-06-08T11:27:02.200Z",
-          "end": "2025-06-08T11:28:47.100Z"
+          "start": "2025-06-08T11:27:02.304Z",
+          "end": "2025-06-08T11:28:47.204Z"
         },
         "album": "WW3",
         "album_art_url": "https://i.scdn.co/image/ab67616d0000b273c244c4da314bc278579ebbae",
@@ -72,7 +72,7 @@
         "song": "WW3",
         "track_id": "4uBbeKZTXNRRV4bMIcKx45"
       },
-      "last_updated": 1749382039507
+      "last_updated": 1749382051680
     }
   }
 }
