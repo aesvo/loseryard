@@ -1,22 +1,22 @@
 {
-  "discord_status": "dnd",
-  "online_since": 1749396228511,
-  "offline_since": null,
-  "total_online_ms": 0,
+  "discord_status": "offline",
+  "online_since": null,
+  "offline_since": 1749396246949,
+  "total_online_ms": 18438,
   "total_offline_ms": 0,
   "online_time": {
     "years": 0,
     "days": 0,
     "hours": 0,
     "minutes": 0,
-    "seconds": 17
+    "seconds": 18
   },
   "offline_time": {
-    "years": 0,
-    "days": 0,
-    "hours": 0,
-    "minutes": 0,
-    "seconds": 0
+    "years": -1,
+    "days": -1,
+    "hours": -1,
+    "minutes": -1,
+    "seconds": -1
   },
-  "last_updated": 1749396228511
+  "last_updated": 1749396246949
 }
