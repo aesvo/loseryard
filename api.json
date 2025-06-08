@@ -33,23 +33,23 @@
           "id": null,
           "name": "Spotify",
           "type": 2,
-          "state": "Nilson's; Keharo; 1600 Vault",
-          "details": "PICTURE ME (trav)",
-          "created_at": 1749384065550,
+          "state": "Gunnr",
+          "details": "areyoulistening",
+          "created_at": 1749384264212,
           "timestamps": {
-            "start": "2025-06-08T12:01:05.263Z",
-            "end": "2025-06-08T12:04:23.838Z"
+            "start": "2025-06-08T12:04:24.073Z",
+            "end": "2025-06-08T12:06:13.787Z"
           },
           "assets": {
-            "large_image": "spotify:ab67616d0000b2734fb1d1309d7ec2c82c0f9550",
-            "large_text": "PICTURE ME (trav)",
+            "large_image": "spotify:ab67616d0000b27334b25b3765dbda146d5c0092",
+            "large_text": "silk in shadows",
             "small_image": null,
             "small_text": null
           },
           "party": {
             "id": "spotify:1380957320745320581"
           },
-          "sync_id": "5RJDxl60XWcSUafnjuHcc8",
+          "sync_id": "419TJRn7V9tOdm8ZfSqvgK",
           "session_id": null,
           "flags": 48,
           "instance": null,
@@ -63,16 +63,16 @@
       "listening_to_spotify": true,
       "spotify": {
         "timestamps": {
-          "start": "2025-06-08T12:01:05.263Z",
-          "end": "2025-06-08T12:04:23.838Z"
+          "start": "2025-06-08T12:04:24.073Z",
+          "end": "2025-06-08T12:06:13.787Z"
         },
-        "album": "PICTURE ME (trav)",
-        "album_art_url": "https://i.scdn.co/image/ab67616d0000b2734fb1d1309d7ec2c82c0f9550",
-        "artist": "Nilson's; Keharo; 1600 Vault",
-        "song": "PICTURE ME (trav)",
-        "track_id": "5RJDxl60XWcSUafnjuHcc8"
+        "album": "areyoulistening",
+        "album_art_url": "https://i.scdn.co/image/ab67616d0000b27334b25b3765dbda146d5c0092",
+        "artist": "Gunnr",
+        "song": "areyoulistening",
+        "track_id": "419TJRn7V9tOdm8ZfSqvgK"
       },
-      "last_updated": 1749384155482
+      "last_updated": 1749384264278
     }
   }
 }
