@@ -28,15 +28,51 @@
           "flags": 0,
           "instance": null,
           "url": null
+        },
+        {
+          "id": null,
+          "name": "Spotify",
+          "type": 2,
+          "state": "Ninjago Music; The Fold",
+          "details": "LEGO Ninjago The WEEKEND WHIP",
+          "created_at": 1749385132111,
+          "timestamps": {
+            "start": "2025-06-08T12:18:51.060Z",
+            "end": "2025-06-08T12:22:17.807Z"
+          },
+          "assets": {
+            "large_image": "spotify:ab67616d0000b2736fa3477bf82a11f970326f54",
+            "large_text": "LEGO Ninjago: For the Spinners",
+            "small_image": null,
+            "small_text": null
+          },
+          "party": {
+            "id": "spotify:1380957320745320581"
+          },
+          "sync_id": "1Q6h73UKeNO0AtA1TRS3tL",
+          "session_id": null,
+          "flags": 48,
+          "instance": null,
+          "url": null
         }
       ],
       "discord_status": "dnd",
       "active_on_discord_web": "dnd",
       "active_on_discord_desktop": false,
       "active_on_discord_mobile": "dnd",
-      "listening_to_spotify": false,
-      "spotify": null,
-      "last_updated": 1749385078006
+      "listening_to_spotify": true,
+      "spotify": {
+        "timestamps": {
+          "start": "2025-06-08T12:18:51.060Z",
+          "end": "2025-06-08T12:22:17.807Z"
+        },
+        "album": "LEGO Ninjago The WEEKEND WHIP",
+        "album_art_url": "https://i.scdn.co/image/ab67616d0000b2736fa3477bf82a11f970326f54",
+        "artist": "Ninjago Music; The Fold",
+        "song": "LEGO Ninjago The WEEKEND WHIP",
+        "track_id": "1Q6h73UKeNO0AtA1TRS3tL"
+      },
+      "last_updated": 1749385132167
     }
   }
 }
