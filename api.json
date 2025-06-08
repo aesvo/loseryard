@@ -33,10 +33,10 @@
       "discord_status": "dnd",
       "active_on_discord_web": "dnd",
       "active_on_discord_desktop": false,
-      "active_on_discord_mobile": "dnd",
+      "active_on_discord_mobile": false,
       "listening_to_spotify": false,
       "spotify": null,
-      "last_updated": 1749381761035
+      "last_updated": 1749381805688
     }
   }
 }
