@@ -19,7 +19,7 @@
           "type": 4,
           "state": "/rob / loseryard>>",
           "details": null,
-          "created_at": 1749385018871,
+          "created_at": 1749381760979,
           "timestamps": null,
           "assets": null,
           "party": null,
@@ -35,10 +35,10 @@
           "type": 2,
           "state": "Ninjago Music; The Fold",
           "details": "LEGO Ninjago The WEEKEND WHIP",
-          "created_at": 1749385132111,
+          "created_at": 1749385137760,
           "timestamps": {
-            "start": "2025-06-08T12:18:51.060Z",
-            "end": "2025-06-08T12:22:17.807Z"
+            "start": "2025-06-08T12:18:57.417Z",
+            "end": "2025-06-08T12:22:24.164Z"
           },
           "assets": {
             "large_image": "spotify:ab67616d0000b2736fa3477bf82a11f970326f54",
@@ -59,12 +59,12 @@
       "discord_status": "dnd",
       "active_on_discord_web": "dnd",
       "active_on_discord_desktop": false,
-      "active_on_discord_mobile": "dnd",
+      "active_on_discord_mobile": false,
       "listening_to_spotify": true,
       "spotify": {
         "timestamps": {
-          "start": "2025-06-08T12:18:51.060Z",
-          "end": "2025-06-08T12:22:17.807Z"
+          "start": "2025-06-08T12:18:57.417Z",
+          "end": "2025-06-08T12:22:24.164Z"
         },
         "album": "LEGO Ninjago The WEEKEND WHIP",
         "album_art_url": "https://i.scdn.co/image/ab67616d0000b2736fa3477bf82a11f970326f54",
@@ -72,7 +72,7 @@
         "song": "LEGO Ninjago The WEEKEND WHIP",
         "track_id": "1Q6h73UKeNO0AtA1TRS3tL"
       },
-      "last_updated": 1749385132167
+      "last_updated": 1749385139112
     }
   }
 }
