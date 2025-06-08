@@ -35,10 +35,10 @@
           "type": 2,
           "state": "Lancey Foux",
           "details": "TEKTIME",
-          "created_at": 1749382572546,
+          "created_at": 1749382616818,
           "timestamps": {
-            "start": "2025-06-08T11:33:15.812Z",
-            "end": "2025-06-08T11:36:16.237Z"
+            "start": "2025-06-08T11:35:09.550Z",
+            "end": "2025-06-08T11:38:09.975Z"
           },
           "assets": {
             "large_image": "spotify:ab67616d0000b273478554d576be90480d9d36b4",
@@ -63,8 +63,8 @@
       "listening_to_spotify": true,
       "spotify": {
         "timestamps": {
-          "start": "2025-06-08T11:33:15.812Z",
-          "end": "2025-06-08T11:36:16.237Z"
+          "start": "2025-06-08T11:35:09.550Z",
+          "end": "2025-06-08T11:38:09.975Z"
         },
         "album": "TEKTIME",
         "album_art_url": "https://i.scdn.co/image/ab67616d0000b273478554d576be90480d9d36b4",
@@ -72,7 +72,7 @@
         "song": "TEKTIME",
         "track_id": "6YkhFMoq5oAFFkShLhkuOx"
       },
-      "last_updated": 1749382572619
+      "last_updated": 1749382616873
     }
   }
 }
