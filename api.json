@@ -1,96 +1,43 @@
 {
   "success": true,
   "data": {
-    "1380957320745320581": {
+    "1381184307275628664": {
       "discord_user": {
-        "id": "1380957320745320581",
-        "username": "76xk",
-        "discriminator": "0",
-        "bot": false,
-        "avatar": null,
-        "global_name": "loser",
-        "display_name": "loser",
+        "id": "1381184307275628664",
+        "username": "loseryard",
+        "discriminator": "0512",
+        "bot": true,
+        "avatar": "eb0bf03d36c27470be1d196c5341e2e0",
+        "global_name": null,
+        "display_name": "loseryard",
         "public_flags": 0
       },
-      "activities": [
-        {
-          "id": "custom",
-          "name": "Custom Status",
-          "type": 4,
-          "state": "/rob / loseryard>>",
-          "details": null,
-          "created_at": 1749395512204,
-          "timestamps": null,
-          "assets": null,
-          "party": null,
-          "sync_id": null,
-          "session_id": null,
-          "flags": 0,
-          "instance": null,
-          "url": null
-        },
-        {
-          "id": null,
-          "name": "Spotify",
-          "type": 2,
-          "state": "Power Rangers; Noam Kaniel",
-          "details": "Power Rangers Dino Charge Theme Song - Extended Full Version",
-          "created_at": 1749395630001,
-          "timestamps": {
-            "start": "2025-06-08T15:13:49.821Z",
-            "end": "2025-06-08T15:15:45.376Z"
-          },
-          "assets": {
-            "large_image": "spotify:ab67616d0000b27393526e60e9350aabbd07b4bf",
-            "large_text": "Power Rangers Dino Charge Theme Song",
-            "small_image": null,
-            "small_text": null
-          },
-          "party": {
-            "id": "spotify:1380957320745320581"
-          },
-          "sync_id": "7GmlAIzyeG3OjQLB7BUkgz",
-          "session_id": null,
-          "flags": 48,
-          "instance": null,
-          "url": null
-        }
-      ],
-      "discord_status": "dnd",
-      "active_on_discord_web": "dnd",
+      "activities": [],
+      "discord_status": "online",
+      "active_on_discord_web": "online",
       "active_on_discord_desktop": false,
       "active_on_discord_mobile": false,
-      "listening_to_spotify": true,
-      "spotify": {
-        "timestamps": {
-          "start": "2025-06-08T15:13:49.821Z",
-          "end": "2025-06-08T15:15:45.376Z"
-        },
-        "album": "Power Rangers Dino Charge Theme Song - Extended Full Version",
-        "album_art_url": "https://i.scdn.co/image/ab67616d0000b27393526e60e9350aabbd07b4bf",
-        "artist": "Power Rangers; Noam Kaniel",
-        "song": "Power Rangers Dino Charge Theme Song - Extended Full Version",
-        "track_id": "7GmlAIzyeG3OjQLB7BUkgz"
-      },
-      "online_since": 1749395512259,
+      "listening_to_spotify": false,
+      "spotify": null,
+      "online_since": 1749395878001,
       "offline_since": null,
       "total_online_ms": 0,
-      "total_offline_ms": 1271,
+      "total_offline_ms": 0,
       "online_time": {
-        "seconds": 117,
-        "minutes": 1,
-        "hours": 0,
-        "days": 0,
-        "years": 0
-      },
-      "offline_time": {
         "seconds": 1,
         "minutes": 0,
         "hours": 0,
         "days": 0,
         "years": 0
       },
-      "last_updated": 1749395630057
+      "offline_time": {
+        "seconds": 0,
+        "minutes": 0,
+        "hours": 0,
+        "days": 0,
+        "years": 0
+      },
+      "last_updated": 1749395878001
     }
   }
 }
