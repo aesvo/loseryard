@@ -33,23 +33,23 @@
           "id": null,
           "name": "Spotify",
           "type": 2,
-          "state": "DONDA",
-          "details": "LOUIE BAGS",
-          "created_at": 1749382555600,
+          "state": "Lancey Foux",
+          "details": "TEKTIME",
+          "created_at": 1749382565548,
           "timestamps": {
-            "start": "2025-06-08T11:35:55.314Z",
-            "end": "2025-06-08T11:39:08.725Z"
+            "start": "2025-06-08T11:36:00.067Z",
+            "end": "2025-06-08T11:39:00.492Z"
           },
           "assets": {
-            "large_image": "spotify:ab67616d0000b2736dc675e2b4f4d86b762f3bfa",
-            "large_text": "DONDA 2",
+            "large_image": "spotify:ab67616d0000b273478554d576be90480d9d36b4",
+            "large_text": "Enter The Dragon / TEKTIME",
             "small_image": null,
             "small_text": null
           },
           "party": {
             "id": "spotify:1380957320745320581"
           },
-          "sync_id": "3vPy49voZ3KDaAefxkI8RY",
+          "sync_id": "6YkhFMoq5oAFFkShLhkuOx",
           "session_id": null,
           "flags": 48,
           "instance": null,
@@ -63,16 +63,16 @@
       "listening_to_spotify": true,
       "spotify": {
         "timestamps": {
-          "start": "2025-06-08T11:35:55.314Z",
-          "end": "2025-06-08T11:39:08.725Z"
+          "start": "2025-06-08T11:36:00.067Z",
+          "end": "2025-06-08T11:39:00.492Z"
         },
-        "album": "LOUIE BAGS",
-        "album_art_url": "https://i.scdn.co/image/ab67616d0000b2736dc675e2b4f4d86b762f3bfa",
-        "artist": "DONDA",
-        "song": "LOUIE BAGS",
-        "track_id": "3vPy49voZ3KDaAefxkI8RY"
+        "album": "TEKTIME",
+        "album_art_url": "https://i.scdn.co/image/ab67616d0000b273478554d576be90480d9d36b4",
+        "artist": "Lancey Foux",
+        "song": "TEKTIME",
+        "track_id": "6YkhFMoq5oAFFkShLhkuOx"
       },
-      "last_updated": 1749382555658
+      "last_updated": 1749382565607
     }
   }
 }
