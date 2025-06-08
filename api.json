@@ -33,23 +33,23 @@
           "id": null,
           "name": "Spotify",
           "type": 2,
-          "state": "Steven Joseph",
-          "details": "WE AIN'T DONE / iNSYNC",
-          "created_at": 1749383627310,
+          "state": "Consequence; Kanye West",
+          "details": "Don't Forget 'Em (Remix) [feat. Kanye West]",
+          "created_at": 1749383809675,
           "timestamps": {
-            "start": "2025-06-08T11:53:47.150Z",
-            "end": "2025-06-08T11:56:49.250Z"
+            "start": "2025-06-08T11:56:49.511Z",
+            "end": "2025-06-08T12:01:05.171Z"
           },
           "assets": {
-            "large_image": "spotify:ab67616d0000b27353733496dc193b1a5b2e39ce",
-            "large_text": "CHANNEL 95",
+            "large_image": "spotify:ab67616d0000b273c37e7a7c974a576a0899586f",
+            "large_text": "Don't Forget 'Em (Remix) [feat. Kanye West]",
             "small_image": null,
             "small_text": null
           },
           "party": {
             "id": "spotify:1380957320745320581"
           },
-          "sync_id": "73I7cNg9omT6nhXxEWMhXe",
+          "sync_id": "0iV249pmrKatl4dJdRxOwz",
           "session_id": null,
           "flags": 48,
           "instance": null,
@@ -63,16 +63,16 @@
       "listening_to_spotify": true,
       "spotify": {
         "timestamps": {
-          "start": "2025-06-08T11:53:47.150Z",
-          "end": "2025-06-08T11:56:49.250Z"
+          "start": "2025-06-08T11:56:49.511Z",
+          "end": "2025-06-08T12:01:05.171Z"
         },
-        "album": "WE AIN'T DONE / iNSYNC",
-        "album_art_url": "https://i.scdn.co/image/ab67616d0000b27353733496dc193b1a5b2e39ce",
-        "artist": "Steven Joseph",
-        "song": "WE AIN'T DONE / iNSYNC",
-        "track_id": "73I7cNg9omT6nhXxEWMhXe"
+        "album": "Don't Forget 'Em (Remix) [feat. Kanye West]",
+        "album_art_url": "https://i.scdn.co/image/ab67616d0000b273c37e7a7c974a576a0899586f",
+        "artist": "Consequence; Kanye West",
+        "song": "Don't Forget 'Em (Remix) [feat. Kanye West]",
+        "track_id": "0iV249pmrKatl4dJdRxOwz"
       },
-      "last_updated": 1749383627369
+      "last_updated": 1749383809752
     }
   }
 }
