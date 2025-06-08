@@ -1,9 +1,9 @@
 {
-  "discord_status": "offline",
-  "online_since": null,
-  "offline_since": 1749397170110,
+  "discord_status": "dnd",
+  "online_since": 1749401036930,
+  "offline_since": null,
   "total_online_ms": 887538,
-  "total_offline_ms": 54061,
+  "total_offline_ms": 3920881,
   "online_time": {
     "years": 0,
     "days": 0,
@@ -16,7 +16,7 @@
     "days": 0,
     "hours": 1,
     "minutes": 5,
-    "seconds": 19
+    "seconds": 20
   },
-  "last_updated": 1749397170110
+  "last_updated": 1749401036930
 }
