@@ -33,23 +33,23 @@
           "id": null,
           "name": "Spotify",
           "type": 2,
-          "state": "ian",
-          "details": "On the Floor",
-          "created_at": 1749384873979,
+          "state": "Lancey Foux; BNYX®",
+          "details": "Enter The Dragon",
+          "created_at": 1749385016530,
           "timestamps": {
-            "start": "2025-06-08T12:14:33.832Z",
-            "end": "2025-06-08T12:16:56.176Z"
+            "start": "2025-06-08T12:16:56.225Z",
+            "end": "2025-06-08T12:18:47.653Z"
           },
           "assets": {
-            "large_image": "spotify:ab67616d0000b273c213d06355de005be245b29c",
-            "large_text": "Goodbye Horses",
+            "large_image": "spotify:ab67616d0000b273478554d576be90480d9d36b4",
+            "large_text": "Enter The Dragon / TEKTIME",
             "small_image": null,
             "small_text": null
           },
           "party": {
             "id": "spotify:1380957320745320581"
           },
-          "sync_id": "0hgARBhvrkhFM1FYdZsehb",
+          "sync_id": "6VN45skJHnnZ2oFIHA6wwQ",
           "session_id": null,
           "flags": 48,
           "instance": null,
@@ -63,16 +63,16 @@
       "listening_to_spotify": true,
       "spotify": {
         "timestamps": {
-          "start": "2025-06-08T12:14:33.832Z",
-          "end": "2025-06-08T12:16:56.176Z"
+          "start": "2025-06-08T12:16:56.225Z",
+          "end": "2025-06-08T12:18:47.653Z"
         },
-        "album": "On the Floor",
-        "album_art_url": "https://i.scdn.co/image/ab67616d0000b273c213d06355de005be245b29c",
-        "artist": "ian",
-        "song": "On the Floor",
-        "track_id": "0hgARBhvrkhFM1FYdZsehb"
+        "album": "Enter The Dragon",
+        "album_art_url": "https://i.scdn.co/image/ab67616d0000b273478554d576be90480d9d36b4",
+        "artist": "Lancey Foux; BNYX®",
+        "song": "Enter The Dragon",
+        "track_id": "6VN45skJHnnZ2oFIHA6wwQ"
       },
-      "last_updated": 1749384874044
+      "last_updated": 1749385016589
     }
   }
 }
