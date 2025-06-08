@@ -33,23 +33,23 @@
           "id": null,
           "name": "Spotify",
           "type": 2,
-          "state": "Consequence; Kanye West",
-          "details": "Don't Forget 'Em (Remix) [feat. Kanye West]",
-          "created_at": 1749383809675,
+          "state": "Nilson's; Keharo; 1600 Vault",
+          "details": "PICTURE ME (trav)",
+          "created_at": 1749384065550,
           "timestamps": {
-            "start": "2025-06-08T11:56:49.511Z",
-            "end": "2025-06-08T12:01:05.171Z"
+            "start": "2025-06-08T12:01:05.263Z",
+            "end": "2025-06-08T12:04:23.838Z"
           },
           "assets": {
-            "large_image": "spotify:ab67616d0000b273c37e7a7c974a576a0899586f",
-            "large_text": "Don't Forget 'Em (Remix) [feat. Kanye West]",
+            "large_image": "spotify:ab67616d0000b2734fb1d1309d7ec2c82c0f9550",
+            "large_text": "PICTURE ME (trav)",
             "small_image": null,
             "small_text": null
           },
           "party": {
             "id": "spotify:1380957320745320581"
           },
-          "sync_id": "0iV249pmrKatl4dJdRxOwz",
+          "sync_id": "5RJDxl60XWcSUafnjuHcc8",
           "session_id": null,
           "flags": 48,
           "instance": null,
@@ -63,16 +63,16 @@
       "listening_to_spotify": true,
       "spotify": {
         "timestamps": {
-          "start": "2025-06-08T11:56:49.511Z",
-          "end": "2025-06-08T12:01:05.171Z"
+          "start": "2025-06-08T12:01:05.263Z",
+          "end": "2025-06-08T12:04:23.838Z"
         },
-        "album": "Don't Forget 'Em (Remix) [feat. Kanye West]",
-        "album_art_url": "https://i.scdn.co/image/ab67616d0000b273c37e7a7c974a576a0899586f",
-        "artist": "Consequence; Kanye West",
-        "song": "Don't Forget 'Em (Remix) [feat. Kanye West]",
-        "track_id": "0iV249pmrKatl4dJdRxOwz"
+        "album": "PICTURE ME (trav)",
+        "album_art_url": "https://i.scdn.co/image/ab67616d0000b2734fb1d1309d7ec2c82c0f9550",
+        "artist": "Nilson's; Keharo; 1600 Vault",
+        "song": "PICTURE ME (trav)",
+        "track_id": "5RJDxl60XWcSUafnjuHcc8"
       },
-      "last_updated": 1749383809752
+      "last_updated": 1749384065616
     }
   }
 }
