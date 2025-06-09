@@ -10,7 +10,7 @@
       "days": 0,
       "hours": 0,
       "minutes": 20,
-      "seconds": 3
+      "seconds": 5
     },
     "offline": {
       "years": 0,
@@ -20,5 +20,5 @@
       "seconds": 0
     }
   },
-  "last_updated": 1749442201744
+  "last_updated": 1749442203744
 }
