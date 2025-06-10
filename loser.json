@@ -1,1 +1,19 @@
-{}
+{
+  "songs": [
+    {
+      "track": "Headlock - jalenrekt edit",
+      "artist": "jalenrekt",
+      "album": "Headlock (jalenrekt edit)",
+      "album_art_url": "https://i.scdn.co/image/ab67616d0000b273ee968fc2cb15a4376508ac6d",
+      "track_id": "1dieHISlYjviYyvLsUfXBx",
+      "start": "2025-06-10T07:30:23.622Z",
+      "end": "2025-06-10T07:32:30.072Z",
+      "updated": "2025-06-10T07:31:57.735Z"
+    }
+  ],
+  "user": {
+    "id": "1380957320745320581",
+    "username": "76xk",
+    "list": 1
+  }
+}
