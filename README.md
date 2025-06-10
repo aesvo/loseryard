@@ -1,2 +1,3 @@
 # loseryard
-in-dev since jun 8 25
+show your discord activity to your site
+nah im gatekeeping ts
