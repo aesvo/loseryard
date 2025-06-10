@@ -1,6 +1,16 @@
 {
   "songs": [
     {
+      "track": "Just Score It",
+      "artist": "dxvidaway",
+      "album": "Just Score It",
+      "album_art_url": "https://i.scdn.co/image/ab67616d0000b273a63ccb8bfd036a7425d1e3cf",
+      "track_id": "6JlWXE9MZM0NCs2qHe8mK0",
+      "start": "2025-06-10T08:18:42.858Z",
+      "end": "2025-06-10T08:20:28.127Z",
+      "updated": "2025-06-10T08:18:43.427Z"
+    },
+    {
       "track": "Headlock - Jersey Remix",
       "artist": "MXTrk",
       "album": "Headlock (Jersey Remix)",
@@ -284,6 +294,6 @@
   "user": {
     "id": "1380957320745320581",
     "username": "76xk",
-    "list": 28
+    "list": 29
   }
 }
