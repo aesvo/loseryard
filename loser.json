@@ -6,6 +6,16 @@
       "album": "Last Friday Night (Hoodtrap / Jerk)",
       "album_art_url": "https://i.scdn.co/image/ab67616d0000b273625f4c094bbb2e966dd13f7f",
       "track_id": "27IScNdQJAk0HCnJ8OHIp2",
+      "start": "2025-06-10T16:13:05.364Z",
+      "end": "2025-06-10T16:15:29.739Z",
+      "updated": "2025-06-10T16:13:11.733Z"
+    },
+    {
+      "track": "Last Friday Night - Hoodtrap / Jerk",
+      "artist": "HoodTrapJerk; ecentral; fvvk",
+      "album": "Last Friday Night (Hoodtrap / Jerk)",
+      "album_art_url": "https://i.scdn.co/image/ab67616d0000b273625f4c094bbb2e966dd13f7f",
+      "track_id": "27IScNdQJAk0HCnJ8OHIp2",
       "start": "2025-06-10T14:18:22.645Z",
       "end": "2025-06-10T14:20:47.020Z",
       "updated": "2025-06-10T14:18:24.764Z"
@@ -824,6 +834,6 @@
   "user": {
     "id": "1380957320745320581",
     "username": "76xk",
-    "list": 82
+    "list": 83
   }
 }
