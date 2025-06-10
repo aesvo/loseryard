@@ -6,6 +6,16 @@
       "album": "To be popular",
       "album_art_url": "https://i.scdn.co/image/ab67616d0000b273bf8705dbfb7bdf37dffee400",
       "track_id": "5ZshrAMHKMBd9MyF4YVgPb",
+      "start": "2025-06-10T08:46:26.809Z",
+      "end": "2025-06-10T08:48:54.074Z",
+      "updated": "2025-06-10T08:47:19.974Z"
+    },
+    {
+      "track": "To be popular",
+      "artist": "POODEE",
+      "album": "To be popular",
+      "album_art_url": "https://i.scdn.co/image/ab67616d0000b273bf8705dbfb7bdf37dffee400",
+      "track_id": "5ZshrAMHKMBd9MyF4YVgPb",
       "start": "2025-06-10T08:46:26.181Z",
       "end": "2025-06-10T08:48:53.446Z",
       "updated": "2025-06-10T08:46:26.701Z"
@@ -454,6 +464,6 @@
   "user": {
     "id": "1380957320745320581",
     "username": "76xk",
-    "list": 45
+    "list": 46
   }
 }
