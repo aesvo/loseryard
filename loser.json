@@ -1,1 +1,19 @@
-{}
+{
+  "songs": [
+    {
+      "track": "Fallin in Luv",
+      "artist": "W4ddles",
+      "album": "Jerkvault",
+      "album_art_url": "https://i.scdn.co/image/ab67616d0000b273157c43a88b3228aa14343548",
+      "track_id": "3NRNURLHx5TyE0vhPe0896",
+      "start": "2025-06-10T07:27:40.751Z",
+      "end": "2025-06-10T07:29:45.959Z",
+      "updated": "2025-06-10T07:28:00.586Z"
+    }
+  ],
+  "user": {
+    "id": "1380957320745320581",
+    "username": "76xk",
+    "list": 1
+  }
+}
