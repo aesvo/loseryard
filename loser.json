@@ -1,6 +1,16 @@
 {
   "songs": [
     {
+      "track": "Jus Chattin",
+      "artist": "so so archive; len333; fangmadesoso",
+      "album": "Jus Chattin",
+      "album_art_url": "https://i.scdn.co/image/ab67616d0000b2731589e81060d5fd81e33c9be2",
+      "track_id": "2s71KI4XuK7BJMF4vAZrix",
+      "start": "2025-06-10T07:48:05.980Z",
+      "end": "2025-06-10T07:50:08.649Z",
+      "updated": "2025-06-10T07:48:06.564Z"
+    },
+    {
       "track": "Walls Could Talk - Hoodtrap",
       "artist": "hoodjerk",
       "album": "Walls Could Talk (Hoodtrap)",
@@ -104,6 +114,6 @@
   "user": {
     "id": "1380957320745320581",
     "username": "76xk",
-    "list": 10
+    "list": 11
   }
 }
