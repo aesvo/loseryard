@@ -1,6 +1,16 @@
 {
   "songs": [
     {
+      "track": "FUZZ - Slowed",
+      "artist": "clvst",
+      "album": "FUZZ",
+      "album_art_url": "https://i.scdn.co/image/ab67616d0000b27391de5b89fedec8bb09306457",
+      "track_id": "1sAkLDCpcLsaBxlb2ZtzkJ",
+      "start": "2025-06-10T08:27:01.572Z",
+      "end": "2025-06-10T08:28:37.696Z",
+      "updated": "2025-06-10T08:27:02.052Z"
+    },
+    {
       "track": "LIKE HIM IN BRAZIL",
       "artist": "DJ DAVI FXP",
       "album": "LIKE HIM IN BRAZIL",
@@ -324,6 +334,6 @@
   "user": {
     "id": "1380957320745320581",
     "username": "76xk",
-    "list": 32
+    "list": 33
   }
 }
