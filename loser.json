@@ -1,6 +1,16 @@
 {
   "songs": [
     {
+      "track": "tears of ketamine",
+      "artist": "streety",
+      "album": "tears of ketamine",
+      "album_art_url": "https://i.scdn.co/image/ab67616d0000b273b85d94152ae5147ee5b5af2d",
+      "track_id": "1qYMzgE6m38av7aRZYOwAT",
+      "start": "2025-06-10T08:12:22.903Z",
+      "end": "2025-06-10T08:14:00.451Z",
+      "updated": "2025-06-10T08:12:23.433Z"
+    },
+    {
       "track": "School Rooftop Flip",
       "artist": "prodbyven",
       "album": "School Rooftop Flip",
@@ -244,6 +254,6 @@
   "user": {
     "id": "1380957320745320581",
     "username": "76xk",
-    "list": 24
+    "list": 25
   }
 }
