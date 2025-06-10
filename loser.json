@@ -1,6 +1,16 @@
 {
   "songs": [
     {
+      "track": "heads will roll - hoodtrap",
+      "artist": "grindgwap",
+      "album": "heads will roll (hoodtrap)",
+      "album_art_url": "https://i.scdn.co/image/ab67616d0000b273408183c22f473c758511f49a",
+      "track_id": "0JEF6emaMyzJChACUFQNm4",
+      "start": "2025-06-10T16:33:22.119Z",
+      "end": "2025-06-10T16:35:04.285Z",
+      "updated": "2025-06-10T16:33:54.723Z"
+    },
+    {
       "track": "505 - Hoodtrap",
       "artist": "hood trapppa",
       "album": "505 (Hoodtrap)",
@@ -964,6 +974,6 @@
   "user": {
     "id": "1380957320745320581",
     "username": "76xk",
-    "list": 96
+    "list": 97
   }
 }
