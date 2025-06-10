@@ -1,6 +1,16 @@
 {
   "songs": [
     {
+      "track": "A New Kind Of Love - hoodtrap flip",
+      "artist": "Egy",
+      "album": "A New Kind Of Love",
+      "album_art_url": "https://i.scdn.co/image/ab67616d0000b27319f7649565bf0509d248cca4",
+      "track_id": "46vTUiKuNSJGBflnH6Ud2L",
+      "start": "2025-06-10T08:58:38.190Z",
+      "end": "2025-06-10T08:59:57.758Z",
+      "updated": "2025-06-10T08:58:38.860Z"
+    },
+    {
       "track": "PAIN JERSEY",
       "artist": "725",
       "album": "PAIN JERSEY",
@@ -534,6 +544,6 @@
   "user": {
     "id": "1380957320745320581",
     "username": "76xk",
-    "list": 53
+    "list": 54
   }
 }
