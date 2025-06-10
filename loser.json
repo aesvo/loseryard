@@ -1,6 +1,16 @@
 {
   "songs": [
     {
+      "track": "Hide - hoodtrap flip",
+      "artist": "Egy",
+      "album": "Hide (hoodtrap flip)",
+      "album_art_url": "https://i.scdn.co/image/ab67616d0000b2737770ff428dca7bdb7bfae774",
+      "track_id": "1EFOVe5QJmbINuKuEmXOVu",
+      "start": "2025-06-10T08:23:15.093Z",
+      "end": "2025-06-10T08:25:10.580Z",
+      "updated": "2025-06-10T08:23:15.651Z"
+    },
+    {
       "track": "the things you say to me",
       "artist": "POODEE",
       "album": "the things you say to me",
@@ -304,6 +314,6 @@
   "user": {
     "id": "1380957320745320581",
     "username": "76xk",
-    "list": 30
+    "list": 31
   }
 }
