@@ -6,6 +6,16 @@
       "album": "Patek - Mixxx",
       "album_art_url": "https://i.scdn.co/image/ab67616d0000b273272504b0c1288c3674614c80",
       "track_id": "1V8S0VUkIN1YuIG3EXaIHG",
+      "start": "2025-06-10T09:04:10.261Z",
+      "end": "2025-06-10T09:08:50.333Z",
+      "updated": "2025-06-10T09:07:45.182Z"
+    },
+    {
+      "track": "Patek - Mixxx",
+      "artist": "tokold",
+      "album": "Patek - Mixxx",
+      "album_art_url": "https://i.scdn.co/image/ab67616d0000b273272504b0c1288c3674614c80",
+      "track_id": "1V8S0VUkIN1YuIG3EXaIHG",
       "start": "2025-06-10T09:04:09.946Z",
       "end": "2025-06-10T09:08:50.018Z",
       "updated": "2025-06-10T09:04:39.030Z"
@@ -664,6 +674,6 @@
   "user": {
     "id": "1380957320745320581",
     "username": "76xk",
-    "list": 66
+    "list": 67
   }
 }
