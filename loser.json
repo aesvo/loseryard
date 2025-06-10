@@ -1,6 +1,16 @@
 {
   "songs": [
     {
+      "track": "Hard Times (Hoodtrap)",
+      "artist": "zeph.og; archangel",
+      "album": "Hard Times - Hoodtrap",
+      "album_art_url": "https://i.scdn.co/image/ab67616d0000b273e668408ee814dc76d3ccabf6",
+      "track_id": "2mZc4bskpM6ul18lQuMdOn",
+      "start": "2025-06-10T08:02:44.294Z",
+      "end": "2025-06-10T08:04:05.463Z",
+      "updated": "2025-06-10T08:02:45.010Z"
+    },
+    {
       "track": "Sometimes - hoodtrap flip",
       "artist": "Egy",
       "album": "Sometimes (hoodtrap flip)",
@@ -184,6 +194,6 @@
   "user": {
     "id": "1380957320745320581",
     "username": "76xk",
-    "list": 18
+    "list": 19
   }
 }
