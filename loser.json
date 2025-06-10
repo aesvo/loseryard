@@ -1,6 +1,16 @@
 {
   "songs": [
     {
+      "track": "YOSEMITE",
+      "artist": "Travis Scott",
+      "album": "ASTROWORLD",
+      "album_art_url": "https://i.scdn.co/image/ab67616d0000b273072e9faef2ef7b6db63834a3",
+      "track_id": "7lAK3oHbfEnvUQWosrMMpR",
+      "start": "2025-06-10T09:34:03.760Z",
+      "end": "2025-06-10T09:36:33.803Z",
+      "updated": "2025-06-10T09:34:04.473Z"
+    },
+    {
       "track": "luther (with sza)",
       "artist": "Kendrick Lamar; SZA",
       "album": "GNX",
@@ -734,6 +744,6 @@
   "user": {
     "id": "1380957320745320581",
     "username": "76xk",
-    "list": 73
+    "list": 74
   }
 }
