@@ -1,6 +1,16 @@
 {
   "songs": [
     {
+      "track": "505 - Hoodtrap",
+      "artist": "hood trapppa",
+      "album": "505 (Hoodtrap)",
+      "album_art_url": "https://i.scdn.co/image/ab67616d0000b2738538a357b42d80c107fb3e0a",
+      "track_id": "6xe64jiCsdrDZRp82Hateu",
+      "start": "2025-06-10T16:31:50.380Z",
+      "end": "2025-06-10T16:33:21.361Z",
+      "updated": "2025-06-10T16:31:52.167Z"
+    },
+    {
       "track": "Save Me - Bass Boosted",
       "artist": "miztery",
       "album": "Save Me - Bass Boosted",
@@ -954,6 +964,6 @@
   "user": {
     "id": "1380957320745320581",
     "username": "76xk",
-    "list": 95
+    "list": 96
   }
 }
