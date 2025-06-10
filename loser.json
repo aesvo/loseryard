@@ -6,6 +6,16 @@
       "album": "A New Kind Of Love",
       "album_art_url": "https://i.scdn.co/image/ab67616d0000b27319f7649565bf0509d248cca4",
       "track_id": "46vTUiKuNSJGBflnH6Ud2L",
+      "start": "2025-06-10T08:56:16.950Z",
+      "end": "2025-06-10T08:57:36.518Z",
+      "updated": "2025-06-10T08:57:03.960Z"
+    },
+    {
+      "track": "A New Kind Of Love - hoodtrap flip",
+      "artist": "Egy",
+      "album": "A New Kind Of Love",
+      "album_art_url": "https://i.scdn.co/image/ab67616d0000b27319f7649565bf0509d248cca4",
+      "track_id": "46vTUiKuNSJGBflnH6Ud2L",
       "start": "2025-06-10T08:56:16.994Z",
       "end": "2025-06-10T08:57:36.562Z",
       "updated": "2025-06-10T08:56:17.555Z"
@@ -514,6 +524,6 @@
   "user": {
     "id": "1380957320745320581",
     "username": "76xk",
-    "list": 51
+    "list": 52
   }
 }
