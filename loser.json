@@ -1,6 +1,16 @@
 {
   "songs": [
     {
+      "track": "heard you bad",
+      "artist": "TXKUMOON",
+      "album": "heard you bad",
+      "album_art_url": "https://i.scdn.co/image/ab67616d0000b2737c29e9576ee3004eac7a9474",
+      "track_id": "2NOgDaxdn1aWkk4lLbUN5N",
+      "start": "2025-06-10T09:02:43.133Z",
+      "end": "2025-06-10T09:04:09.546Z",
+      "updated": "2025-06-10T09:02:43.860Z"
+    },
+    {
       "track": "lonely",
       "artist": "bloomcr4zy",
       "album": "lonely",
@@ -634,6 +644,6 @@
   "user": {
     "id": "1380957320745320581",
     "username": "76xk",
-    "list": 63
+    "list": 64
   }
 }
