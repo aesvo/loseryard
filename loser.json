@@ -1,6 +1,16 @@
 {
   "songs": [
     {
+      "track": "Duvet Mix",
+      "artist": "buijy",
+      "album": "Duvet Mix",
+      "album_art_url": "https://i.scdn.co/image/ab67616d0000b273b943bb4bc5be15d2f3d20b21",
+      "track_id": "4ww9toZyjKQjyH1opFl2fk",
+      "start": "2025-06-10T08:40:56.211Z",
+      "end": "2025-06-10T08:43:13.562Z",
+      "updated": "2025-06-10T08:40:56.880Z"
+    },
+    {
       "track": "fall in drugs (bloomcr4zy) - Instrumental",
       "artist": "syncsv; bloomcr4zy",
       "album": "fall in drugs (Versions)",
@@ -414,6 +424,6 @@
   "user": {
     "id": "1380957320745320581",
     "username": "76xk",
-    "list": 41
+    "list": 42
   }
 }
