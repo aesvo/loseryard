@@ -1,6 +1,16 @@
 {
   "songs": [
     {
+      "track": "One Of The Girls (with JENNIE, Lily Rose Depp)",
+      "artist": "The Weeknd; JENNIE; Lily-Rose Depp",
+      "album": "The Idol Episode 4 (Music from the HBO Original Series)",
+      "album_art_url": "https://i.scdn.co/image/ab67616d0000b273b0dd6a5cd1dec96c4119c262",
+      "track_id": "7CyPwkp0oE8Ro9Dd5CUDjW",
+      "start": "2025-06-10T09:34:58.820Z",
+      "end": "2025-06-10T09:39:03.504Z",
+      "updated": "2025-06-10T09:34:59.514Z"
+    },
+    {
       "track": "YOSEMITE",
       "artist": "Travis Scott",
       "album": "ASTROWORLD",
@@ -744,6 +754,6 @@
   "user": {
     "id": "1380957320745320581",
     "username": "76xk",
-    "list": 74
+    "list": 75
   }
 }
