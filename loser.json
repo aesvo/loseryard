@@ -1,6 +1,16 @@
 {
   "songs": [
     {
+      "track": "the things you say to me",
+      "artist": "POODEE",
+      "album": "the things you say to me",
+      "album_art_url": "https://i.scdn.co/image/ab67616d0000b273fffab89e38549134780b9611",
+      "track_id": "08EGznCKtrUmPiZ8c7aQjs",
+      "start": "2025-06-10T08:20:28.351Z",
+      "end": "2025-06-10T08:23:14.897Z",
+      "updated": "2025-06-10T08:20:28.877Z"
+    },
+    {
       "track": "Just Score It",
       "artist": "dxvidaway",
       "album": "Just Score It",
@@ -294,6 +304,6 @@
   "user": {
     "id": "1380957320745320581",
     "username": "76xk",
-    "list": 29
+    "list": 30
   }
 }
