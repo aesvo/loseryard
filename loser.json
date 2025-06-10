@@ -1,6 +1,16 @@
 {
   "songs": [
     {
+      "track": "Poison - Hoodtrap - Slowed & Reverb",
+      "artist": "hood trapppa",
+      "album": "Poison (Hoodtrap)",
+      "album_art_url": "https://i.scdn.co/image/ab67616d0000b2731579532676071d6f6308f316",
+      "track_id": "6Zz29lBS5ON2Lq1u7AA7ZU",
+      "start": "2025-06-10T08:08:59.706Z",
+      "end": "2025-06-10T08:10:43.706Z",
+      "updated": "2025-06-10T08:09:00.352Z"
+    },
+    {
       "track": "heads will roll - hoodtrap",
       "artist": "grindgwap",
       "album": "heads will roll (hoodtrap)",
@@ -224,6 +234,6 @@
   "user": {
     "id": "1380957320745320581",
     "username": "76xk",
-    "list": 22
+    "list": 23
   }
 }
