@@ -1,6 +1,16 @@
 {
   "songs": [
     {
+      "track": "Sometimes - hoodtrap flip",
+      "artist": "Egy",
+      "album": "Sometimes (hoodtrap flip)",
+      "album_art_url": "https://i.scdn.co/image/ab67616d0000b273b365cd45128575dd8b1b2aba",
+      "track_id": "38F3GKtkns0DP1l4dso6ko",
+      "start": "2025-06-10T08:00:48.552Z",
+      "end": "2025-06-10T08:02:44.091Z",
+      "updated": "2025-06-10T08:00:49.135Z"
+    },
+    {
       "track": "The Rain (Can You Remember)",
       "artist": "IzRosh",
       "album": "The Rain (Can You Remember)",
@@ -174,6 +184,6 @@
   "user": {
     "id": "1380957320745320581",
     "username": "76xk",
-    "list": 17
+    "list": 18
   }
 }
