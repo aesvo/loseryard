@@ -1,6 +1,16 @@
 {
   "songs": [
     {
+      "track": "LIKE HIM IN BRAZIL",
+      "artist": "DJ DAVI FXP",
+      "album": "LIKE HIM IN BRAZIL",
+      "album_art_url": "https://i.scdn.co/image/ab67616d0000b273a08484a2c11cf5eb11bf547e",
+      "track_id": "29HcO00w3Rt1vKxblKGxX0",
+      "start": "2025-06-10T08:25:10.774Z",
+      "end": "2025-06-10T08:27:01.062Z",
+      "updated": "2025-06-10T08:25:11.291Z"
+    },
+    {
       "track": "Hide - hoodtrap flip",
       "artist": "Egy",
       "album": "Hide (hoodtrap flip)",
@@ -314,6 +324,6 @@
   "user": {
     "id": "1380957320745320581",
     "username": "76xk",
-    "list": 31
+    "list": 32
   }
 }
