@@ -1,6 +1,16 @@
 {
   "songs": [
     {
+      "track": "fall in drugs (Instrumental) - sped up",
+      "artist": "syncsv; bloomcr4zy",
+      "album": "fall in drugs (bloomcr4zy) - sped up",
+      "album_art_url": "https://i.scdn.co/image/ab67616d0000b273bcc7b2afce20f4868d6a97a5",
+      "track_id": "00F03yHab3ZiiB48smPGdm",
+      "start": "2025-06-10T16:21:16.484Z",
+      "end": "2025-06-10T16:22:47.111Z",
+      "updated": "2025-06-10T16:21:18.577Z"
+    },
+    {
       "track": "Glitch",
       "artist": "knive ♱; Known Hated",
       "album": "Glitch",
@@ -884,6 +894,6 @@
   "user": {
     "id": "1380957320745320581",
     "username": "76xk",
-    "list": 88
+    "list": 89
   }
 }
