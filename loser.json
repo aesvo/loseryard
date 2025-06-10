@@ -1,6 +1,16 @@
 {
   "songs": [
     {
+      "track": "tears of ketamine",
+      "artist": "streety",
+      "album": "tears of ketamine",
+      "album_art_url": "https://i.scdn.co/image/ab67616d0000b2731058fb637211c0166677b006",
+      "track_id": "1M5qJI1SGTo0j84BWEsWc5",
+      "start": "2025-06-10T16:17:09.251Z",
+      "end": "2025-06-10T16:18:46.799Z",
+      "updated": "2025-06-10T16:17:11.109Z"
+    },
+    {
       "track": "Limerence - Jerk Remix",
       "artist": "Known Hated",
       "album": "Limerence (Jerk Remix)",
@@ -854,6 +864,6 @@
   "user": {
     "id": "1380957320745320581",
     "username": "76xk",
-    "list": 85
+    "list": 86
   }
 }
