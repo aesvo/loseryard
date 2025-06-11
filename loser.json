@@ -7,6 +7,17 @@
       "album_art_url": "https://i.scdn.co/image/ab67616d0000b27345901f3ed078e6268b00cf49",
       "track_id": "1vClLW2RWtNw2KV0wt1MML",
       "track_url": "https://open.spotify.com/track/1vClLW2RWtNw2KV0wt1MML",
+      "start": "2025-06-11T16:31:59.042Z",
+      "end": "2025-06-11T16:34:40.428Z",
+      "updated": "2025-06-11T16:33:34.694Z"
+    },
+    {
+      "track": "i'm scared to close my eyes",
+      "artist": "Aspen Forest",
+      "album": "i'm scared to close my eyes",
+      "album_art_url": "https://i.scdn.co/image/ab67616d0000b27345901f3ed078e6268b00cf49",
+      "track_id": "1vClLW2RWtNw2KV0wt1MML",
+      "track_url": "https://open.spotify.com/track/1vClLW2RWtNw2KV0wt1MML",
       "start": "2025-06-11T16:31:57.322Z",
       "end": "2025-06-11T16:34:38.708Z",
       "updated": "2025-06-11T16:32:00.110Z"
@@ -2055,6 +2066,6 @@
   "user": {
     "id": "1380957320745320581",
     "username": "76xk",
-    "list": 196
+    "list": 197
   }
 }
