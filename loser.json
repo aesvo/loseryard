@@ -7,6 +7,17 @@
       "album_art_url": "https://i.scdn.co/image/ab67616d0000b2730077f5e59288bb22032ae704",
       "track_id": "2CiJH4kFVfEmFke2bmEqj5",
       "track_url": "https://open.spotify.com/track/2CiJH4kFVfEmFke2bmEqj5",
+      "start": "2025-06-11T13:11:22.596Z",
+      "end": "2025-06-11T13:14:30.585Z",
+      "updated": "2025-06-11T13:12:11.986Z"
+    },
+    {
+      "track": "Drive, Don't Talk",
+      "artist": "Makeout Reef",
+      "album": "Star Power",
+      "album_art_url": "https://i.scdn.co/image/ab67616d0000b2730077f5e59288bb22032ae704",
+      "track_id": "2CiJH4kFVfEmFke2bmEqj5",
+      "track_url": "https://open.spotify.com/track/2CiJH4kFVfEmFke2bmEqj5",
       "start": "2025-06-11T12:38:26.755Z",
       "end": "2025-06-11T12:41:34.744Z",
       "updated": "2025-06-11T12:38:29.042Z"
@@ -1450,6 +1461,6 @@
   "user": {
     "id": "1380957320745320581",
     "username": "76xk",
-    "list": 141
+    "list": 142
   }
 }
