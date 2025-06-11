@@ -1,6 +1,17 @@
 {
   "songs": [
     {
+      "track": "i love and i hate u.",
+      "artist": "Spazi; Paycheck",
+      "album": "i love and i hate u.",
+      "album_art_url": "https://i.scdn.co/image/ab67616d0000b273ae33c5357849263840fc6cfc",
+      "track_id": "6L72mghfasg2v85QYwS6tI",
+      "track_url": "https://open.spotify.com/track/6L72mghfasg2v85QYwS6tI",
+      "start": "2025-06-11T13:49:08.665Z",
+      "end": "2025-06-11T13:52:09.857Z",
+      "updated": "2025-06-11T13:50:13.071Z"
+    },
+    {
       "track": "Self-Obsessed",
       "artist": "ORION 224",
       "album": "Take My Hand",
@@ -1582,6 +1593,6 @@
   "user": {
     "id": "1380957320745320581",
     "username": "76xk",
-    "list": 153
+    "list": 154
   }
 }
