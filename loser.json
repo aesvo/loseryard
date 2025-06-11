@@ -1,6 +1,17 @@
 {
   "songs": [
     {
+      "track": "School Rooftop Flip",
+      "artist": "prodbyven",
+      "album": "School Rooftop Flip",
+      "album_art_url": "https://i.scdn.co/image/ab67616d0000b2738110beda3b42683d239ec787",
+      "track_id": "2Z0u5Q1dbtkyy3jb8wvmre",
+      "track_url": "https://open.spotify.com/track/2Z0u5Q1dbtkyy3jb8wvmre",
+      "start": "2025-06-11T06:06:26.275Z",
+      "end": "2025-06-11T06:08:05.130Z",
+      "updated": "2025-06-11T06:06:28.396Z"
+    },
+    {
       "track": "clairvoyant",
       "artist": "prodbyven",
       "album": "clairvoyant",
@@ -1219,6 +1230,6 @@
   "user": {
     "id": "1380957320745320581",
     "username": "76xk",
-    "list": 120
+    "list": 121
   }
 }
