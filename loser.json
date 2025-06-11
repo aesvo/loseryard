@@ -1,6 +1,17 @@
 {
   "songs": [
     {
+      "track": "lonely",
+      "artist": "bloomcr4zy",
+      "album": "lonely",
+      "album_art_url": "https://i.scdn.co/image/ab67616d0000b273f99c1aa13f6771c36c5d523d",
+      "track_id": "3v36hnbZ6xIMT9lynjUuNL",
+      "track_url": "https://open.spotify.com/track/3v36hnbZ6xIMT9lynjUuNL",
+      "start": "2025-06-11T04:02:00.370Z",
+      "end": "2025-06-11T04:03:24.850Z",
+      "updated": "2025-06-11T04:02:01.449Z"
+    },
+    {
       "track": "505 hoodtrap - sped up",
       "artist": "Sims",
       "album": "505 hoodtrap",
@@ -1153,6 +1164,6 @@
   "user": {
     "id": "1380957320745320581",
     "username": "76xk",
-    "list": 114
+    "list": 115
   }
 }
