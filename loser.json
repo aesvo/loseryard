@@ -1,6 +1,17 @@
 {
   "songs": [
     {
+      "track": "Drama",
+      "artist": "Shooks",
+      "album": "Drama",
+      "album_art_url": "https://i.scdn.co/image/ab67616d0000b273e4b0ac1c9195abb0022f5305",
+      "track_id": "3vqIflFYYZ4oP8tjRqcgVl",
+      "track_url": "https://open.spotify.com/track/3vqIflFYYZ4oP8tjRqcgVl",
+      "start": "2025-06-11T15:07:03.530Z",
+      "end": "2025-06-11T15:11:13.659Z",
+      "updated": "2025-06-11T15:07:05.764Z"
+    },
+    {
       "track": "kind",
       "artist": "High Sunn",
       "album": "welcome to life",
@@ -1824,6 +1835,6 @@
   "user": {
     "id": "1380957320745320581",
     "username": "76xk",
-    "list": 175
+    "list": 176
   }
 }
