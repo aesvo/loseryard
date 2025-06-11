@@ -1,6 +1,17 @@
 {
   "songs": [
     {
+      "track": "to hell with it",
+      "artist": "sally",
+      "album": "underdogs",
+      "album_art_url": "https://i.scdn.co/image/ab67616d0000b273faed590c1506322f8a5c4c3d",
+      "track_id": "2wXZT0A2U8of0ijk8pN0uK",
+      "track_url": "https://open.spotify.com/track/2wXZT0A2U8of0ijk8pN0uK",
+      "start": "2025-06-11T14:24:42.606Z",
+      "end": "2025-06-11T14:28:29.976Z",
+      "updated": "2025-06-11T14:24:44.608Z"
+    },
+    {
       "track": "complicated",
       "artist": "wenszy",
       "album": "complicated",
@@ -1703,6 +1714,6 @@
   "user": {
     "id": "1380957320745320581",
     "username": "76xk",
-    "list": 164
+    "list": 165
   }
 }
