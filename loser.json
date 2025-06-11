@@ -1,6 +1,17 @@
 {
   "songs": [
     {
+      "track": "my dear",
+      "artist": "ølin",
+      "album": "do u rmbr?",
+      "album_art_url": "https://i.scdn.co/image/ab67616d0000b273da5964eea6763a7fdafa1e57",
+      "track_id": "4j3NhKNauvxlsNdzQMN03k",
+      "track_url": "https://open.spotify.com/track/4j3NhKNauvxlsNdzQMN03k",
+      "start": "2025-06-11T08:32:36.466Z",
+      "end": "2025-06-11T08:35:36.466Z",
+      "updated": "2025-06-11T08:32:41.472Z"
+    },
+    {
       "track": "Common Sense",
       "artist": "benches",
       "album": "Wishful Thinking (At Its Best)",
@@ -1329,6 +1340,6 @@
   "user": {
     "id": "1380957320745320581",
     "username": "76xk",
-    "list": 130
+    "list": 131
   }
 }
