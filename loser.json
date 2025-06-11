@@ -1,6 +1,17 @@
 {
   "songs": [
     {
+      "track": "Rotary",
+      "artist": "Archer Oh",
+      "album": "Gradients",
+      "album_art_url": "https://i.scdn.co/image/ab67616d0000b2737dce2135b6348dde3e504014",
+      "track_id": "6kLhVxWGlfKEsfXfQQBBoP",
+      "track_url": "https://open.spotify.com/track/6kLhVxWGlfKEsfXfQQBBoP",
+      "start": "2025-06-11T14:09:45.472Z",
+      "end": "2025-06-11T14:13:44.664Z",
+      "updated": "2025-06-11T14:10:46.507Z"
+    },
+    {
       "track": "Sliding Doors",
       "artist": "DALE",
       "album": "Sliding Doors",
@@ -1659,6 +1670,6 @@
   "user": {
     "id": "1380957320745320581",
     "username": "76xk",
-    "list": 160
+    "list": 161
   }
 }
