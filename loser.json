@@ -1,6 +1,17 @@
 {
   "songs": [
     {
+      "track": "clairvoyant",
+      "artist": "prodbyven",
+      "album": "clairvoyant",
+      "album_art_url": "https://i.scdn.co/image/ab67616d0000b2734c6e76fcd70e6d834c99d2f6",
+      "track_id": "6pgShk7BExOHjNwQG9TFEb",
+      "track_url": "https://open.spotify.com/track/6pgShk7BExOHjNwQG9TFEb",
+      "start": "2025-06-11T06:05:02.067Z",
+      "end": "2025-06-11T06:06:25.841Z",
+      "updated": "2025-06-11T06:05:04.288Z"
+    },
+    {
       "track": "Void in Blue - hoodtrap flip",
       "artist": "Egy",
       "album": "Void in Blue (hoodtrap flip)",
@@ -1208,6 +1219,6 @@
   "user": {
     "id": "1380957320745320581",
     "username": "76xk",
-    "list": 119
+    "list": 120
   }
 }
