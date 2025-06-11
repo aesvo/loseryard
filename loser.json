@@ -1,6 +1,17 @@
 {
   "songs": [
     {
+      "track": "Sometimes - hoodtrap flip",
+      "artist": "Egy",
+      "album": "Sometimes (hoodtrap flip)",
+      "album_art_url": "https://i.scdn.co/image/ab67616d0000b273b365cd45128575dd8b1b2aba",
+      "track_id": "38F3GKtkns0DP1l4dso6ko",
+      "track_url": "https://open.spotify.com/track/38F3GKtkns0DP1l4dso6ko",
+      "start": "2025-06-11T06:16:00.122Z",
+      "end": "2025-06-11T06:17:55.661Z",
+      "updated": "2025-06-11T06:16:02.149Z"
+    },
+    {
       "track": "Money - Jerk Remix",
       "artist": "Elliot Norlander; Bankai; NovaX",
       "album": "Money (Jerk Remix)",
@@ -1274,6 +1285,6 @@
   "user": {
     "id": "1380957320745320581",
     "username": "76xk",
-    "list": 125
+    "list": 126
   }
 }
