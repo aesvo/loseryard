@@ -1,6 +1,17 @@
 {
   "songs": [
     {
+      "track": "bedrot",
+      "artist": "Camp Blu; MOGY",
+      "album": "bedrot",
+      "album_art_url": "https://i.scdn.co/image/ab67616d0000b273264c2be7eaa5b215ccdb7bec",
+      "track_id": "0MnQrwoVcspUR2oLI20mIg",
+      "track_url": "https://open.spotify.com/track/0MnQrwoVcspUR2oLI20mIg",
+      "start": "2025-06-11T15:00:32.787Z",
+      "end": "2025-06-11T15:03:02.261Z",
+      "updated": "2025-06-11T15:00:34.969Z"
+    },
+    {
       "track": "Tied",
       "artist": "Makeout Reef",
       "album": "Star Power",
@@ -1802,6 +1813,6 @@
   "user": {
     "id": "1380957320745320581",
     "username": "76xk",
-    "list": 173
+    "list": 174
   }
 }
