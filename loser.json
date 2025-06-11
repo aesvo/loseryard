@@ -7,6 +7,17 @@
       "album_art_url": "https://i.scdn.co/image/ab67616d0000b2739488725905fff341c042f6a1",
       "track_id": "0tAKZW1HjDi1yKTIyHKBBp",
       "track_url": "https://open.spotify.com/track/0tAKZW1HjDi1yKTIyHKBBp",
+      "start": "2025-06-11T12:33:13.057Z",
+      "end": "2025-06-11T12:34:46.274Z",
+      "updated": "2025-06-11T12:33:26.155Z"
+    },
+    {
+      "track": "505 hoodtrap - sped up",
+      "artist": "Sims",
+      "album": "505 hoodtrap",
+      "album_art_url": "https://i.scdn.co/image/ab67616d0000b2739488725905fff341c042f6a1",
+      "track_id": "0tAKZW1HjDi1yKTIyHKBBp",
+      "track_url": "https://open.spotify.com/track/0tAKZW1HjDi1yKTIyHKBBp",
       "start": "2025-06-11T12:17:50.128Z",
       "end": "2025-06-11T12:19:23.345Z",
       "updated": "2025-06-11T12:17:54.336Z"
@@ -1373,6 +1384,6 @@
   "user": {
     "id": "1380957320745320581",
     "username": "76xk",
-    "list": 134
+    "list": 135
   }
 }
