@@ -1,6 +1,17 @@
 {
   "songs": [
     {
+      "track": "Spleen",
+      "artist": "EVNTYD",
+      "album": "Spleen / Ever Left",
+      "album_art_url": "https://i.scdn.co/image/ab67616d0000b273f4546cf59b8d758f8ee02085",
+      "track_id": "0SRLyqWl027JnCuzX24gjc",
+      "track_url": "https://open.spotify.com/track/0SRLyqWl027JnCuzX24gjc",
+      "start": "2025-06-11T14:36:48.470Z",
+      "end": "2025-06-11T14:40:06.158Z",
+      "updated": "2025-06-11T14:37:24.894Z"
+    },
+    {
       "track": "settle4tonight",
       "artist": "El!jah",
       "album": "settle4tonight",
@@ -1725,6 +1736,6 @@
   "user": {
     "id": "1380957320745320581",
     "username": "76xk",
-    "list": 166
+    "list": 167
   }
 }
