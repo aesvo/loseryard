@@ -1,6 +1,17 @@
 {
   "songs": [
     {
+      "track": "kind",
+      "artist": "High Sunn",
+      "album": "welcome to life",
+      "album_art_url": "https://i.scdn.co/image/ab67616d0000b273ea5f18d3d46cf58a220890d4",
+      "track_id": "4At8Ra2GgzQpQe4wydHQDp",
+      "track_url": "https://open.spotify.com/track/4At8Ra2GgzQpQe4wydHQDp",
+      "start": "2025-06-11T15:03:03.053Z",
+      "end": "2025-06-11T15:07:01.962Z",
+      "updated": "2025-06-11T15:03:05.315Z"
+    },
+    {
       "track": "bedrot",
       "artist": "Camp Blu; MOGY",
       "album": "bedrot",
@@ -1813,6 +1824,6 @@
   "user": {
     "id": "1380957320745320581",
     "username": "76xk",
-    "list": 174
+    "list": 175
   }
 }
