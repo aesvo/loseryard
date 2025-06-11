@@ -1,6 +1,17 @@
 {
   "songs": [
     {
+      "track": "magnolia",
+      "artist": "HOAX",
+      "album": "magnolia",
+      "album_art_url": "https://i.scdn.co/image/ab67616d0000b2736b9a65b5dc7580df8c6410ba",
+      "track_id": "363FV2Me9mNC46Vm0SVQJg",
+      "track_url": "https://open.spotify.com/track/363FV2Me9mNC46Vm0SVQJg",
+      "start": "2025-06-11T14:44:38.319Z",
+      "end": "2025-06-11T14:47:54.872Z",
+      "updated": "2025-06-11T14:44:40.442Z"
+    },
+    {
       "track": "she made eyes at me",
       "artist": "Israel's Arcade",
       "album": "she made eyes at me",
@@ -1747,6 +1758,6 @@
   "user": {
     "id": "1380957320745320581",
     "username": "76xk",
-    "list": 168
+    "list": 169
   }
 }
