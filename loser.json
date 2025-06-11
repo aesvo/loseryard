@@ -7,6 +7,17 @@
       "album_art_url": "https://i.scdn.co/image/ab67616d0000b27354dbbd095c73e3549bba72b7",
       "track_id": "7EMVQKBomkx9uUKGfpigOf",
       "track_url": "https://open.spotify.com/track/7EMVQKBomkx9uUKGfpigOf",
+      "start": "2025-06-11T12:34:33.392Z",
+      "end": "2025-06-11T12:38:24.712Z",
+      "updated": "2025-06-11T12:34:58.941Z"
+    },
+    {
+      "track": "porcelain slightly",
+      "artist": "Lil Ugly Mane",
+      "album": "volcanic bird enemy and the voiced concern",
+      "album_art_url": "https://i.scdn.co/image/ab67616d0000b27354dbbd095c73e3549bba72b7",
+      "track_id": "7EMVQKBomkx9uUKGfpigOf",
+      "track_url": "https://open.spotify.com/track/7EMVQKBomkx9uUKGfpigOf",
       "start": "2025-06-11T12:34:33.212Z",
       "end": "2025-06-11T12:38:24.532Z",
       "updated": "2025-06-11T12:34:37.424Z"
@@ -1417,6 +1428,6 @@
   "user": {
     "id": "1380957320745320581",
     "username": "76xk",
-    "list": 138
+    "list": 139
   }
 }
