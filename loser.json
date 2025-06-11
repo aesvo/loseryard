@@ -1,6 +1,17 @@
 {
   "songs": [
     {
+      "track": "HIDE",
+      "artist": "ølin",
+      "album": "HIDE",
+      "album_art_url": "https://i.scdn.co/image/ab67616d0000b273c6ddf191ae8fe4d3b28dd449",
+      "track_id": "2Mb9WwIQP0mD8U4T3a0Ctx",
+      "track_url": "https://open.spotify.com/track/2Mb9WwIQP0mD8U4T3a0Ctx",
+      "start": "2025-06-11T13:23:39.134Z",
+      "end": "2025-06-11T13:26:28.397Z",
+      "updated": "2025-06-11T13:23:41.241Z"
+    },
+    {
       "track": "the comedown",
       "artist": "HOAX",
       "album": "the comedown",
@@ -1494,6 +1505,6 @@
   "user": {
     "id": "1380957320745320581",
     "username": "76xk",
-    "list": 145
+    "list": 146
   }
 }
