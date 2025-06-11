@@ -1,6 +1,17 @@
 {
   "songs": [
     {
+      "track": "Duvet Mix",
+      "artist": "buijy",
+      "album": "Duvet Mix",
+      "album_art_url": "https://i.scdn.co/image/ab67616d0000b273b943bb4bc5be15d2f3d20b21",
+      "track_id": "4ww9toZyjKQjyH1opFl2fk",
+      "track_url": "https://open.spotify.com/track/4ww9toZyjKQjyH1opFl2fk",
+      "start": "2025-06-11T06:08:05.531Z",
+      "end": "2025-06-11T06:10:22.882Z",
+      "updated": "2025-06-11T06:08:07.779Z"
+    },
+    {
       "track": "School Rooftop Flip",
       "artist": "prodbyven",
       "album": "School Rooftop Flip",
@@ -1230,6 +1241,6 @@
   "user": {
     "id": "1380957320745320581",
     "username": "76xk",
-    "list": 121
+    "list": 122
   }
 }
