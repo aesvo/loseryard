@@ -1,6 +1,17 @@
 {
   "songs": [
     {
+      "track": "acai",
+      "artist": "ølin",
+      "album": "acai",
+      "album_art_url": "https://i.scdn.co/image/ab67616d0000b273cd67d85619f149c207e93c15",
+      "track_id": "2zKZS6rH94SRBJH6B6kbn0",
+      "track_url": "https://open.spotify.com/track/2zKZS6rH94SRBJH6B6kbn0",
+      "start": "2025-06-11T12:08:27.272Z",
+      "end": "2025-06-11T12:11:43.445Z",
+      "updated": "2025-06-11T12:08:30.009Z"
+    },
+    {
       "track": "the comedown",
       "artist": "HOAX",
       "album": "the comedown",
@@ -1351,6 +1362,6 @@
   "user": {
     "id": "1380957320745320581",
     "username": "76xk",
-    "list": 132
+    "list": 133
   }
 }
