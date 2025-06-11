@@ -7,6 +7,17 @@
       "album_art_url": "https://i.scdn.co/image/ab67616d0000b273e057a1883830685b74cbfaac",
       "track_id": "6jYk46oSc16JrL78Lx21hR",
       "track_url": "https://open.spotify.com/track/6jYk46oSc16JrL78Lx21hR",
+      "start": "2025-06-11T13:37:42.595Z",
+      "end": "2025-06-11T13:41:29.716Z",
+      "updated": "2025-06-11T13:38:10.193Z"
+    },
+    {
+      "track": "Queen of Hearts",
+      "artist": "benches",
+      "album": "Wishful Thinking (At Its Best)",
+      "album_art_url": "https://i.scdn.co/image/ab67616d0000b273e057a1883830685b74cbfaac",
+      "track_id": "6jYk46oSc16JrL78Lx21hR",
+      "track_url": "https://open.spotify.com/track/6jYk46oSc16JrL78Lx21hR",
       "start": "2025-06-11T13:37:31.453Z",
       "end": "2025-06-11T13:41:18.574Z",
       "updated": "2025-06-11T13:37:33.619Z"
@@ -1560,6 +1571,6 @@
   "user": {
     "id": "1380957320745320581",
     "username": "76xk",
-    "list": 151
+    "list": 152
   }
 }
