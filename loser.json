@@ -1,6 +1,17 @@
 {
   "songs": [
     {
+      "track": "she made eyes at me",
+      "artist": "Israel's Arcade",
+      "album": "she made eyes at me",
+      "album_art_url": "https://i.scdn.co/image/ab67616d0000b27346fc57999ffb77d4aa510175",
+      "track_id": "2vbfxO01g6vHZ9YaDxeMcw",
+      "track_url": "https://open.spotify.com/track/2vbfxO01g6vHZ9YaDxeMcw",
+      "start": "2025-06-11T14:40:06.825Z",
+      "end": "2025-06-11T14:44:37.996Z",
+      "updated": "2025-06-11T14:40:09.383Z"
+    },
+    {
       "track": "Spleen",
       "artist": "EVNTYD",
       "album": "Spleen / Ever Left",
@@ -1736,6 +1747,6 @@
   "user": {
     "id": "1380957320745320581",
     "username": "76xk",
-    "list": 167
+    "list": 168
   }
 }
