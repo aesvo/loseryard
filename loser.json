@@ -1,6 +1,17 @@
 {
   "songs": [
     {
+      "track": "Poetry in Motion",
+      "artist": "Johnny & the Man Kids",
+      "album": "Home, Wherever That May Be",
+      "album_art_url": "https://i.scdn.co/image/ab67616d0000b27377ed982953bc2e0cf81f8fae",
+      "track_id": "2QvLlMz770glxVo5M55uGi",
+      "track_url": "https://open.spotify.com/track/2QvLlMz770glxVo5M55uGi",
+      "start": "2025-06-11T14:47:55.681Z",
+      "end": "2025-06-11T14:50:00.694Z",
+      "updated": "2025-06-11T14:47:57.716Z"
+    },
+    {
       "track": "magnolia",
       "artist": "HOAX",
       "album": "magnolia",
@@ -1758,6 +1769,6 @@
   "user": {
     "id": "1380957320745320581",
     "username": "76xk",
-    "list": 169
+    "list": 170
   }
 }
