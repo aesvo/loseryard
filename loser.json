@@ -1,6 +1,17 @@
 {
   "songs": [
     {
+      "track": "Deep End",
+      "artist": "Spazi",
+      "album": "Deep End",
+      "album_art_url": "https://i.scdn.co/image/ab67616d0000b273aa19f2808c11571fb4ff0166",
+      "track_id": "3Wa45r0JNz2N3q4hcscVYO",
+      "track_url": "https://open.spotify.com/track/3Wa45r0JNz2N3q4hcscVYO",
+      "start": "2025-06-11T15:31:58.383Z",
+      "end": "2025-06-11T15:34:52.958Z",
+      "updated": "2025-06-11T15:32:08.460Z"
+    },
+    {
       "track": "Dial Tone",
       "artist": "Couch Dog",
       "album": "How To Ruin Your Life Fast",
@@ -1912,6 +1923,6 @@
   "user": {
     "id": "1380957320745320581",
     "username": "76xk",
-    "list": 183
+    "list": 184
   }
 }
