@@ -1,6 +1,17 @@
 {
   "songs": [
     {
+      "track": "c i g a r e t t e s",
+      "artist": "VARIATION; Cbarrgs",
+      "album": "c i g a r e t t e s",
+      "album_art_url": "https://i.scdn.co/image/ab67616d0000b273e5ccbb3129af49c01b147d2e",
+      "track_id": "0ggyHVzhfF06KrOc7z2kPO",
+      "track_url": "https://open.spotify.com/track/0ggyHVzhfF06KrOc7z2kPO",
+      "start": "2025-06-11T13:52:07.681Z",
+      "end": "2025-06-11T13:55:41.965Z",
+      "updated": "2025-06-11T13:52:10.159Z"
+    },
+    {
       "track": "i love and i hate u.",
       "artist": "Spazi; Paycheck",
       "album": "i love and i hate u.",
@@ -1593,6 +1604,6 @@
   "user": {
     "id": "1380957320745320581",
     "username": "76xk",
-    "list": 154
+    "list": 155
   }
 }
