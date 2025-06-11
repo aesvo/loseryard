@@ -1,6 +1,17 @@
 {
   "songs": [
     {
+      "track": "Self-Obsessed",
+      "artist": "ORION 224",
+      "album": "Take My Hand",
+      "album_art_url": "https://i.scdn.co/image/ab67616d0000b273866bf325b4338fd4ce3d8fc7",
+      "track_id": "6mvLFuMCCekAB9LBdVhpAG",
+      "track_url": "https://open.spotify.com/track/6mvLFuMCCekAB9LBdVhpAG",
+      "start": "2025-06-11T03:46:23.657Z",
+      "end": "2025-06-11T03:51:52.053Z",
+      "updated": "2025-06-11T03:46:24.839Z"
+    },
+    {
       "track": "Queen of Hearts",
       "artist": "benches",
       "album": "Wishful Thinking (At Its Best)",
@@ -1087,6 +1098,6 @@
   "user": {
     "id": "1380957320745320581",
     "username": "76xk",
-    "list": 108
+    "list": 109
   }
 }
