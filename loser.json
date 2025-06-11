@@ -1,6 +1,17 @@
 {
   "songs": [
     {
+      "track": "formulate",
+      "artist": "HOAX",
+      "album": "b?",
+      "album_art_url": "https://i.scdn.co/image/ab67616d0000b273690aada2e0ea06c7282e925a",
+      "track_id": "5MiskqXC5IjaenAVxScWzY",
+      "track_url": "https://open.spotify.com/track/5MiskqXC5IjaenAVxScWzY",
+      "start": "2025-06-11T16:34:39.739Z",
+      "end": "2025-06-11T16:36:36.142Z",
+      "updated": "2025-06-11T16:34:42.590Z"
+    },
+    {
       "track": "i'm scared to close my eyes",
       "artist": "Aspen Forest",
       "album": "i'm scared to close my eyes",
@@ -2066,6 +2077,6 @@
   "user": {
     "id": "1380957320745320581",
     "username": "76xk",
-    "list": 197
+    "list": 198
   }
 }
