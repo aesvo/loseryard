@@ -1,6 +1,17 @@
 {
   "songs": [
     {
+      "track": "Poison Tree",
+      "artist": "Grouper",
+      "album": "Inca Ore / Grouper",
+      "album_art_url": "https://i.scdn.co/image/ab67616d0000b273a243710aee39180ca475ed39",
+      "track_id": "6Q5uDNuuFYa8ToL3CCoHPC",
+      "track_url": "https://open.spotify.com/track/6Q5uDNuuFYa8ToL3CCoHPC",
+      "start": "2025-06-12T17:00:06.209Z",
+      "end": "2025-06-12T17:03:23.102Z",
+      "updated": "2025-06-12T17:00:08.487Z"
+    },
+    {
       "track": "4 Morant (Better Luck Next Time)",
       "artist": "Com Truise",
       "album": "Brokendate",
@@ -2198,6 +2209,6 @@
   "user": {
     "id": "1380957320745320581",
     "username": "76xk",
-    "list": 209
+    "list": 210
   }
 }
