@@ -1,6 +1,17 @@
 {
   "songs": [
     {
+      "track": "4 Morant (Better Luck Next Time)",
+      "artist": "Com Truise",
+      "album": "Brokendate",
+      "album_art_url": "https://i.scdn.co/image/ab67616d0000b27352a83a48c7a11f2091ee3e43",
+      "track_id": "3XOmSRuEEq7rK4XNzWQdyT",
+      "track_url": "https://open.spotify.com/track/3XOmSRuEEq7rK4XNzWQdyT",
+      "start": "2025-06-12T16:57:16.973Z",
+      "end": "2025-06-12T17:00:07.973Z",
+      "updated": "2025-06-12T16:58:12.155Z"
+    },
+    {
       "track": "505 hoodtrap - sped up",
       "artist": "Sims",
       "album": "505 hoodtrap",
@@ -2187,6 +2198,6 @@
   "user": {
     "id": "1380957320745320581",
     "username": "76xk",
-    "list": 208
+    "list": 209
   }
 }
