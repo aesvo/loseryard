@@ -7,6 +7,17 @@
       "album_art_url": "https://i.scdn.co/image/ab67616d0000b273b13b4a434585f484548e42c9",
       "track_id": "2i2gDpKKWjvnRTOZRhaPh2",
       "track_url": "https://open.spotify.com/track/2i2gDpKKWjvnRTOZRhaPh2",
+      "start": "2025-06-12T17:23:54.395Z",
+      "end": "2025-06-12T17:27:01.952Z",
+      "updated": "2025-06-12T17:26:41.111Z"
+    },
+    {
+      "track": "Moonlight",
+      "artist": "Kali Uchis",
+      "album": "Moonlight",
+      "album_art_url": "https://i.scdn.co/image/ab67616d0000b273b13b4a434585f484548e42c9",
+      "track_id": "2i2gDpKKWjvnRTOZRhaPh2",
+      "track_url": "https://open.spotify.com/track/2i2gDpKKWjvnRTOZRhaPh2",
       "start": "2025-06-12T17:23:48.605Z",
       "end": "2025-06-12T17:26:56.162Z",
       "updated": "2025-06-12T17:23:50.893Z"
@@ -2319,6 +2330,6 @@
   "user": {
     "id": "1380957320745320581",
     "username": "76xk",
-    "list": 220
+    "list": 221
   }
 }
