@@ -7,6 +7,17 @@
       "album_art_url": "https://i.scdn.co/image/ab67616d0000b2732241587c8ce3d9051f4d4f74",
       "track_id": "6sEqGYDoVKk88agceDbYGk",
       "track_url": "https://open.spotify.com/track/6sEqGYDoVKk88agceDbYGk",
+      "start": "2025-06-12T17:10:18.756Z",
+      "end": "2025-06-12T17:17:16.289Z",
+      "updated": "2025-06-12T17:12:40.228Z"
+    },
+    {
+      "track": "Stratosphere",
+      "artist": "Duster",
+      "album": "Stratosphere",
+      "album_art_url": "https://i.scdn.co/image/ab67616d0000b2732241587c8ce3d9051f4d4f74",
+      "track_id": "6sEqGYDoVKk88agceDbYGk",
+      "track_url": "https://open.spotify.com/track/6sEqGYDoVKk88agceDbYGk",
       "start": "2025-06-12T17:10:17.637Z",
       "end": "2025-06-12T17:17:15.170Z",
       "updated": "2025-06-12T17:10:20.098Z"
@@ -2264,6 +2275,6 @@
   "user": {
     "id": "1380957320745320581",
     "username": "76xk",
-    "list": 215
+    "list": 216
   }
 }
