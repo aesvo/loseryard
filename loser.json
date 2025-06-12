@@ -1,6 +1,17 @@
 {
   "songs": [
     {
+      "track": "One Of The Girls (with JENNIE, Lily Rose Depp)",
+      "artist": "The Weeknd; JENNIE; Lily-Rose Depp",
+      "album": "The Idol Episode 4 (Music from the HBO Original Series)",
+      "album_art_url": "https://i.scdn.co/image/ab67616d0000b273b0dd6a5cd1dec96c4119c262",
+      "track_id": "7CyPwkp0oE8Ro9Dd5CUDjW",
+      "track_url": "https://open.spotify.com/track/7CyPwkp0oE8Ro9Dd5CUDjW",
+      "start": "2025-06-12T17:19:44.705Z",
+      "end": "2025-06-12T17:23:49.389Z",
+      "updated": "2025-06-12T17:20:11.093Z"
+    },
+    {
       "track": "Common Sense",
       "artist": "benches",
       "album": "Wishful Thinking (At Its Best)",
@@ -2297,6 +2308,6 @@
   "user": {
     "id": "1380957320745320581",
     "username": "76xk",
-    "list": 218
+    "list": 219
   }
 }
