@@ -1,6 +1,17 @@
 {
   "songs": [
     {
+      "track": "WASTE",
+      "artist": "KXLLSWXTCH",
+      "album": "DISORDER",
+      "album_art_url": "https://i.scdn.co/image/ab67616d0000b273933ae980d2d8a06b53226231",
+      "track_id": "4NgherJDfCXWBZBYheM4jK",
+      "track_url": "https://open.spotify.com/track/4NgherJDfCXWBZBYheM4jK",
+      "start": "2025-06-12T17:06:05.754Z",
+      "end": "2025-06-12T17:08:06.182Z",
+      "updated": "2025-06-12T17:06:07.971Z"
+    },
+    {
       "track": "i was all over her",
       "artist": "salvia palth",
       "album": "melanchole",
@@ -2231,6 +2242,6 @@
   "user": {
     "id": "1380957320745320581",
     "username": "76xk",
-    "list": 212
+    "list": 213
   }
 }
