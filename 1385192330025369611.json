@@ -2,9 +2,20 @@
   "user": {
     "id": "1385192330025369611",
     "username": "awkward84",
-    "list": 32
+    "list": 33
   },
   "songs": [
+    {
+      "track": "Love Game - Slowed",
+      "artist": "Bread Beatz",
+      "album": "Love Game (Slowed)",
+      "album_art_url": "https://i.scdn.co/image/ab67616d0000b273e37b7b997ab914dc2baf99ad",
+      "track_id": "2PUKF7oK4yIONZfu5XQ14t",
+      "track_url": "https://open.spotify.com/track/2PUKF7oK4yIONZfu5XQ14t",
+      "start": "2025-06-19T14:33:52.184Z",
+      "end": "2025-06-19T14:36:29.395Z",
+      "updated": "2025-06-19T14:33:53.136Z"
+    },
     {
       "track": "5ORROW - INSTRUMENTAL/SLOWED",
       "artist": "prodbytiaan",
