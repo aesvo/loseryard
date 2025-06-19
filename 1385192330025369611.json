@@ -2,9 +2,20 @@
   "user": {
     "id": "1385192330025369611",
     "username": "awkward84",
-    "list": 28
+    "list": 29
   },
   "songs": [
+    {
+      "track": "505 - Hoodtrap",
+      "artist": "hood trapppa",
+      "album": "505 (Hoodtrap)",
+      "album_art_url": "https://i.scdn.co/image/ab67616d0000b2738538a357b42d80c107fb3e0a",
+      "track_id": "6xe64jiCsdrDZRp82Hateu",
+      "track_url": "https://open.spotify.com/track/6xe64jiCsdrDZRp82Hateu",
+      "start": "2025-06-19T14:25:58.509Z",
+      "end": "2025-06-19T14:27:29.490Z",
+      "updated": "2025-06-19T14:25:59.375Z"
+    },
     {
       "track": "Save Me - Bass Boosted",
       "artist": "miztery",
