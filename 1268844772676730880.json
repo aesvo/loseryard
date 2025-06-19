@@ -1,0 +1,20 @@
+{
+  "user": {
+    "id": "1268844772676730880",
+    "username": "mobiledataskeleton",
+    "list": 1
+  },
+  "songs": [
+    {
+      "track": "Baby Powder",
+      "artist": "Jenevieve",
+      "album": "Division",
+      "album_art_url": "https://i.scdn.co/image/ab67616d0000b2735039ba5ca4d71c1965bfb6d1",
+      "track_id": "4Nw7kywWurWS6ceinn1cHK",
+      "track_url": "https://open.spotify.com/track/4Nw7kywWurWS6ceinn1cHK",
+      "start": "2025-06-19T09:25:20.340Z",
+      "end": "2025-06-19T09:28:17.100Z",
+      "updated": "2025-06-19T09:26:45.016Z"
+    }
+  ]
+}
