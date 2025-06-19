@@ -2,9 +2,20 @@
   "user": {
     "id": "1385192330025369611",
     "username": "awkward84",
-    "list": 30
+    "list": 31
   },
   "songs": [
+    {
+      "track": "WHERE U AT",
+      "artist": "0to8",
+      "album": "WHERE U AT",
+      "album_art_url": "https://i.scdn.co/image/ab67616d0000b273addf05f060ca25de5f0ea7ec",
+      "track_id": "7fbfYBTiTDKIq7QGJPJhPA",
+      "track_url": "https://open.spotify.com/track/7fbfYBTiTDKIq7QGJPJhPA",
+      "start": "2025-06-19T14:29:11.935Z",
+      "end": "2025-06-19T14:31:29.086Z",
+      "updated": "2025-06-19T14:29:13.250Z"
+    },
     {
       "track": "heads will roll - hoodtrap",
       "artist": "grindgwap",
