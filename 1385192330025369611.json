@@ -2,9 +2,20 @@
   "user": {
     "id": "1385192330025369611",
     "username": "awkward84",
-    "list": 4
+    "list": 5
   },
   "songs": [
+    {
+      "track": "lonely",
+      "artist": "bloomcr4zy",
+      "album": "lonely",
+      "album_art_url": "https://i.scdn.co/image/ab67616d0000b273f99c1aa13f6771c36c5d523d",
+      "track_id": "3v36hnbZ6xIMT9lynjUuNL",
+      "track_url": "https://open.spotify.com/track/3v36hnbZ6xIMT9lynjUuNL",
+      "start": "2025-06-19T14:02:46.036Z",
+      "end": "2025-06-19T14:04:10.516Z",
+      "updated": "2025-06-19T14:02:46.834Z"
+    },
     {
       "track": "505 hoodtrap - sped up",
       "artist": "Sims",
