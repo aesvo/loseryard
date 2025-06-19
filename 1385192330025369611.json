@@ -2,9 +2,20 @@
   "user": {
     "id": "1385192330025369611",
     "username": "awkward84",
-    "list": 13
+    "list": 14
   },
   "songs": [
+    {
+      "track": "tears of ketamine",
+      "artist": "streety",
+      "album": "tears of ketamine",
+      "album_art_url": "https://i.scdn.co/image/ab67616d0000b2731058fb637211c0166677b006",
+      "track_id": "1M5qJI1SGTo0j84BWEsWc5",
+      "track_url": "https://open.spotify.com/track/1M5qJI1SGTo0j84BWEsWc5",
+      "start": "2025-06-19T14:10:53.677Z",
+      "end": "2025-06-19T14:12:31.225Z",
+      "updated": "2025-06-19T14:10:54.537Z"
+    },
     {
       "track": "Limerence - Jerk Flip",
       "artist": "Known Hated",
