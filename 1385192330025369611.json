@@ -2,9 +2,20 @@
   "user": {
     "id": "1385192330025369611",
     "username": "awkward84",
-    "list": 16
+    "list": 17
   },
   "songs": [
+    {
+      "track": "Here - Hoodtrap",
+      "artist": "hood trapppa",
+      "album": "Here (Hoodtrap)",
+      "album_art_url": "https://i.scdn.co/image/ab67616d0000b273ac8d04615489fd02016d3631",
+      "track_id": "3TV8Ik12q8dyTYxxmVubC7",
+      "track_url": "https://open.spotify.com/track/3TV8Ik12q8dyTYxxmVubC7",
+      "start": "2025-06-19T14:12:32.127Z",
+      "end": "2025-06-19T14:14:00.127Z",
+      "updated": "2025-06-19T14:13:38.363Z"
+    },
     {
       "track": "Here - Hoodtrap",
       "artist": "hood trapppa",
