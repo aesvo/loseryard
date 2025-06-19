@@ -2,9 +2,20 @@
   "user": {
     "id": "1385192330025369611",
     "username": "awkward84",
-    "list": 29
+    "list": 30
   },
   "songs": [
+    {
+      "track": "heads will roll - hoodtrap",
+      "artist": "grindgwap",
+      "album": "heads will roll (hoodtrap)",
+      "album_art_url": "https://i.scdn.co/image/ab67616d0000b273408183c22f473c758511f49a",
+      "track_id": "0JEF6emaMyzJChACUFQNm4",
+      "track_url": "https://open.spotify.com/track/0JEF6emaMyzJChACUFQNm4",
+      "start": "2025-06-19T14:27:29.930Z",
+      "end": "2025-06-19T14:29:12.096Z",
+      "updated": "2025-06-19T14:27:30.655Z"
+    },
     {
       "track": "505 - Hoodtrap",
       "artist": "hood trapppa",
