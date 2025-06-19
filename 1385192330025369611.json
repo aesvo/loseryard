@@ -2,9 +2,20 @@
   "user": {
     "id": "1385192330025369611",
     "username": "awkward84",
-    "list": 34
+    "list": 35
   },
   "songs": [
+    {
+      "track": "Limerence - Jerk Flip",
+      "artist": "Known Hated",
+      "album": "Limerence (Jerk Remix)",
+      "album_art_url": "https://i.scdn.co/image/ab67616d0000b273fbe3cf826932caf708593b9e",
+      "track_id": "45e9xCTrEjkHrQjjydurUf",
+      "track_url": "https://open.spotify.com/track/45e9xCTrEjkHrQjjydurUf",
+      "start": "2025-06-19T14:38:55.174Z",
+      "end": "2025-06-19T14:40:35.803Z",
+      "updated": "2025-06-19T14:38:56.185Z"
+    },
     {
       "track": "Last Friday Night - Hoodtrap / Jerk",
       "artist": "HoodTrapJerk; ecentral; fvvk",
