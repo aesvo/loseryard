@@ -2,9 +2,20 @@
   "user": {
     "id": "1385192330025369611",
     "username": "awkward84",
-    "list": 11
+    "list": 12
   },
   "songs": [
+    {
+      "track": "Limerence - Jerk Remix",
+      "artist": "Known Hated",
+      "album": "Limerence (Jerk Remix)",
+      "album_art_url": "https://i.scdn.co/image/ab67616d0000b273fbe3cf826932caf708593b9e",
+      "track_id": "45e9xCTrEjkHrQjjydurUf",
+      "track_url": "https://open.spotify.com/track/45e9xCTrEjkHrQjjydurUf",
+      "start": "2025-06-19T14:09:13.581Z",
+      "end": "2025-06-19T14:10:55.301Z",
+      "updated": "2025-06-19T14:10:18.132Z"
+    },
     {
       "track": "Limerence - Jerk Flip",
       "artist": "Known Hated",
