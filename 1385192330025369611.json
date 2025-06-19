@@ -2,9 +2,20 @@
   "user": {
     "id": "1385192330025369611",
     "username": "awkward84",
-    "list": 18
+    "list": 19
   },
   "songs": [
+    {
+      "track": "glitch",
+      "artist": "knive ♱; Known Hated",
+      "album": "Glitch",
+      "album_art_url": "https://i.scdn.co/image/ab67616d0000b2734d37754bed345e942edc9c96",
+      "track_id": "6IWfcrToOltsSxJXS9d89s",
+      "track_url": "https://open.spotify.com/track/6IWfcrToOltsSxJXS9d89s",
+      "start": "2025-06-19T14:14:01.495Z",
+      "end": "2025-06-19T14:15:01.502Z",
+      "updated": "2025-06-19T14:14:33.066Z"
+    },
     {
       "track": "Glitch",
       "artist": "knive ♱; Known Hated",
