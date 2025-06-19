@@ -1,0 +1,20 @@
+{
+  "user": {
+    "id": "1385192330025369611",
+    "username": "awkward84",
+    "list": 1
+  },
+  "songs": [
+    {
+      "track": "I Was Never There",
+      "artist": "The Weeknd; Gesaffelstein",
+      "album": "My Dear Melancholy,",
+      "album_art_url": "https://i.scdn.co/image/ab67616d0000b2731f6a2a40bb692936879db730",
+      "track_id": "1cKHdTo9u0ZymJdPGSh6nq",
+      "track_url": "https://open.spotify.com/track/1cKHdTo9u0ZymJdPGSh6nq",
+      "start": "2025-06-19T13:50:27.421Z",
+      "end": "2025-06-19T13:54:28.487Z",
+      "updated": "2025-06-19T13:50:51.665Z"
+    }
+  ]
+}
