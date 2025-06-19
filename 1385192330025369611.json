@@ -2,9 +2,20 @@
   "user": {
     "id": "1385192330025369611",
     "username": "awkward84",
-    "list": 23
+    "list": 24
   },
   "songs": [
+    {
+      "track": "Far away",
+      "artist": "Actavis7_",
+      "album": "Far away",
+      "album_art_url": "https://i.scdn.co/image/ab67616d0000b273b1afa2f3c5d7a677fbb03ccb",
+      "track_id": "3B1HJB5W8mO1zsjqq5cYqk",
+      "track_url": "https://open.spotify.com/track/3B1HJB5W8mO1zsjqq5cYqk",
+      "start": "2025-06-19T14:16:57.665Z",
+      "end": "2025-06-19T14:19:20.162Z",
+      "updated": "2025-06-19T14:17:35.466Z"
+    },
     {
       "track": "Far away",
       "artist": "Actavis7_",
