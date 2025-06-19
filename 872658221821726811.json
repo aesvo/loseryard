@@ -2,9 +2,20 @@
   "user": {
     "id": "872658221821726811",
     "username": "m3.ech",
-    "list": 1
+    "list": 2
   },
   "songs": [
+    {
+      "track": "She Will",
+      "artist": "Lil Wayne; Drake",
+      "album": "Tha Carter IV (Complete Edition)",
+      "album_art_url": "https://i.scdn.co/image/ab67616d0000b273e80b258c7e0b318202870953",
+      "track_id": "0b4M7hd7mzLTm99MrMeZsp",
+      "track_url": "https://open.spotify.com/track/0b4M7hd7mzLTm99MrMeZsp",
+      "start": "2025-06-19T13:45:06.443Z",
+      "end": "2025-06-19T13:50:12.283Z",
+      "updated": "2025-06-19T13:48:59.049Z"
+    },
     {
       "track": "She Will",
       "artist": "Lil Wayne; Drake",
