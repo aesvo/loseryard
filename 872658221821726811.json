@@ -2,9 +2,20 @@
   "user": {
     "id": "872658221821726811",
     "username": "m3.ech",
-    "list": 2
+    "list": 3
   },
   "songs": [
+    {
+      "track": "drama queen",
+      "artist": "jaydes",
+      "album": "heartpacing",
+      "album_art_url": "https://i.scdn.co/image/ab67616d0000b27337a9e6f1702359be0df71c28",
+      "track_id": "39Q83U8EJjNU90MIQA1Wgh",
+      "track_url": "https://open.spotify.com/track/39Q83U8EJjNU90MIQA1Wgh",
+      "start": "2025-06-20T04:20:12.075Z",
+      "end": "2025-06-20T04:21:54.813Z",
+      "updated": "2025-06-20T04:20:18.311Z"
+    },
     {
       "track": "She Will",
       "artist": "Lil Wayne; Drake",
