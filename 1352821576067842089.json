@@ -2,9 +2,20 @@
   "user": {
     "id": "1352821576067842089",
     "username": "overfunds",
-    "list": 1
+    "list": 2
   },
   "songs": [
+    {
+      "track": "Sunflower",
+      "artist": "Rex Orange County",
+      "album": "Sunflower",
+      "album_art_url": "https://i.scdn.co/image/ab67616d0000b273e89fffbc825d52c018a2357e",
+      "track_id": "7h2nmmoWDi2UpfYKLKWLYB",
+      "track_url": "https://open.spotify.com/track/7h2nmmoWDi2UpfYKLKWLYB",
+      "start": "2025-06-21T05:51:41.508Z",
+      "end": "2025-06-21T05:55:53.738Z",
+      "updated": "2025-06-21T05:51:42.550Z"
+    },
     {
       "track": "Telephones",
       "artist": "Vacations",
