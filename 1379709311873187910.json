@@ -2,9 +2,20 @@
   "user": {
     "id": "1379709311873187910",
     "username": "81yb",
-    "list": 5
+    "list": 6
   },
   "songs": [
+    {
+      "track": "Sweater Weather",
+      "artist": "The Neighbourhood",
+      "album": "I Love You.",
+      "album_art_url": "https://i.scdn.co/image/ab67616d0000b273c91ed3bc3c8d484f532fab2f",
+      "track_id": "0cQVqPuHQP4KEwc7ZUQmj6",
+      "track_url": "https://open.spotify.com/track/0cQVqPuHQP4KEwc7ZUQmj6",
+      "start": "2025-06-21T06:07:33.913Z",
+      "end": "2025-06-21T06:11:34.313Z",
+      "updated": "2025-06-21T06:11:36.253Z"
+    },
     {
       "track": "Sweater Weather",
       "artist": "The Neighbourhood",
