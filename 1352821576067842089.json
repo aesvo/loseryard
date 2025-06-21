@@ -2,9 +2,20 @@
   "user": {
     "id": "1352821576067842089",
     "username": "overfunds",
-    "list": 3
+    "list": 4
   },
   "songs": [
+    {
+      "track": "Love Songs - Bonus",
+      "artist": "Kaash Paige",
+      "album": "Parked Car Convos",
+      "album_art_url": "https://i.scdn.co/image/ab67616d0000b27387a86b99f8dde9c7d7e3bf62",
+      "track_id": "6qL5UWxRSQYml9O99ozoLv",
+      "track_url": "https://open.spotify.com/track/6qL5UWxRSQYml9O99ozoLv",
+      "start": "2025-06-21T05:55:47.203Z",
+      "end": "2025-06-21T05:58:15.843Z",
+      "updated": "2025-06-21T05:55:48.290Z"
+    },
     {
       "track": "My Love Mine All Mine",
       "artist": "Mitski",
