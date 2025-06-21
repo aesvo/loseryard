@@ -2,9 +2,20 @@
   "user": {
     "id": "872658221821726811",
     "username": "m3.ech",
-    "list": 6
+    "list": 7
   },
   "songs": [
+    {
+      "track": "Dive In",
+      "artist": "Pierce The Veil",
+      "album": "Misadventures",
+      "album_art_url": "https://i.scdn.co/image/ab67616d0000b273feef5b9537d7b52555a42f17",
+      "track_id": "6LhGzSZlIGxZpyIXXZn9ZV",
+      "track_url": "https://open.spotify.com/track/6LhGzSZlIGxZpyIXXZn9ZV",
+      "start": "2025-06-21T05:49:30.029Z",
+      "end": "2025-06-21T05:54:22.389Z",
+      "updated": "2025-06-21T05:49:30.690Z"
+    },
     {
       "track": "Be Quiet and Drive (Far Away)",
       "artist": "Deftones",
