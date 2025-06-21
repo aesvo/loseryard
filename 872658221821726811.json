@@ -2,9 +2,20 @@
   "user": {
     "id": "872658221821726811",
     "username": "m3.ech",
-    "list": 11
+    "list": 12
   },
   "songs": [
+    {
+      "track": "Covet",
+      "artist": "Basement",
+      "album": "Colourmeinkindness",
+      "album_art_url": "https://i.scdn.co/image/ab67616d0000b273fb5759dc6a1d9eb96dadde10",
+      "track_id": "1AMADyXgIWayh5vXLZo2qF",
+      "track_url": "https://open.spotify.com/track/1AMADyXgIWayh5vXLZo2qF",
+      "start": "2025-06-21T05:55:18.821Z",
+      "end": "2025-06-21T05:59:06.161Z",
+      "updated": "2025-06-21T05:55:19.338Z"
+    },
     {
       "track": "Everybody's Fool",
       "artist": "Evanescence",
