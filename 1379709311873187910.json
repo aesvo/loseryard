@@ -2,9 +2,20 @@
   "user": {
     "id": "1379709311873187910",
     "username": "81yb",
-    "list": 10
+    "list": 11
   },
   "songs": [
+    {
+      "track": "Heart To Heart",
+      "artist": "Mac DeMarco",
+      "album": "Here Comes The Cowboy",
+      "album_art_url": "https://i.scdn.co/image/ab67616d0000b273fa1323bb50728c7489980672",
+      "track_id": "7EAMXbLcL0qXmciM5SwMh2",
+      "track_url": "https://open.spotify.com/track/7EAMXbLcL0qXmciM5SwMh2",
+      "start": "2025-06-21T06:17:16.167Z",
+      "end": "2025-06-21T06:20:47.307Z",
+      "updated": "2025-06-21T06:19:47.953Z"
+    },
     {
       "track": "Heart To Heart",
       "artist": "Mac DeMarco",
