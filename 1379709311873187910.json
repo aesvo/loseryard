@@ -2,9 +2,20 @@
   "user": {
     "id": "1379709311873187910",
     "username": "81yb",
-    "list": 13
+    "list": 14
   },
   "songs": [
+    {
+      "track": "Die With A Smile",
+      "artist": "Lady Gaga; Bruno Mars",
+      "album": "MAYHEM",
+      "album_art_url": "https://i.scdn.co/image/ab67616d0000b273b0860cf0a98e09663c82290c",
+      "track_id": "7so0lgd0zP2Sbgs2d7a1SZ",
+      "track_url": "https://open.spotify.com/track/7so0lgd0zP2Sbgs2d7a1SZ",
+      "start": "2025-06-21T06:27:24.162Z",
+      "end": "2025-06-21T06:31:35.829Z",
+      "updated": "2025-06-21T06:27:25.281Z"
+    },
     {
       "track": "Here With Me",
       "artist": "d4vd",
