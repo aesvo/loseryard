@@ -2,9 +2,20 @@
   "user": {
     "id": "1352821576067842089",
     "username": "overfunds",
-    "list": 2
+    "list": 3
   },
   "songs": [
+    {
+      "track": "My Love Mine All Mine",
+      "artist": "Mitski",
+      "album": "The Land Is Inhospitable and So Are We",
+      "album_art_url": "https://i.scdn.co/image/ab67616d0000b27334f21d3047d85440dfa37f10",
+      "track_id": "3vkCueOmm7xQDoJ17W1Pm3",
+      "track_url": "https://open.spotify.com/track/3vkCueOmm7xQDoJ17W1Pm3",
+      "start": "2025-06-21T05:53:29.211Z",
+      "end": "2025-06-21T05:55:46.984Z",
+      "updated": "2025-06-21T05:53:30.281Z"
+    },
     {
       "track": "Sunflower",
       "artist": "Rex Orange County",
