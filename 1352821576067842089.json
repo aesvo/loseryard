@@ -2,9 +2,20 @@
   "user": {
     "id": "1352821576067842089",
     "username": "overfunds",
-    "list": 5
+    "list": 6
   },
   "songs": [
+    {
+      "track": "Superpowers",
+      "artist": "Daniel Caesar",
+      "album": "NEVER ENOUGH",
+      "album_art_url": "https://i.scdn.co/image/ab67616d0000b2737c68face1dc58127f3a7b1cc",
+      "track_id": "736PP5LTtREkDgktNmX3Gu",
+      "track_url": "https://open.spotify.com/track/736PP5LTtREkDgktNmX3Gu",
+      "start": "2025-06-21T05:58:21.881Z",
+      "end": "2025-06-21T06:01:16.393Z",
+      "updated": "2025-06-21T05:59:28.469Z"
+    },
     {
       "track": "Superpowers",
       "artist": "Daniel Caesar",
