@@ -2,9 +2,20 @@
   "user": {
     "id": "872658221821726811",
     "username": "m3.ech",
-    "list": 8
+    "list": 9
   },
   "songs": [
+    {
+      "track": "Aerials",
+      "artist": "System Of A Down",
+      "album": "Toxicity",
+      "album_art_url": "https://i.scdn.co/image/ab67616d0000b27307bc7d2a745636c356b4d0aa",
+      "track_id": "4e9eGQYsOiBcftrWXwsVco",
+      "track_url": "https://open.spotify.com/track/4e9eGQYsOiBcftrWXwsVco",
+      "start": "2025-06-21T05:54:31.380Z",
+      "end": "2025-06-21T05:58:26.433Z",
+      "updated": "2025-06-21T05:54:32.062Z"
+    },
     {
       "track": "Be Quiet and Drive (Far Away)",
       "artist": "Deftones",
