@@ -2,9 +2,20 @@
   "user": {
     "id": "1379709311873187910",
     "username": "81yb",
-    "list": 6
+    "list": 7
   },
   "songs": [
+    {
+      "track": "I Know You",
+      "artist": "Faye Webster",
+      "album": "Faye Webster",
+      "album_art_url": "https://i.scdn.co/image/ab67616d0000b273fc37e2e19b33d5705c251644",
+      "track_id": "71BWZa1liIRyUiuJ3MB66o",
+      "track_url": "https://open.spotify.com/track/71BWZa1liIRyUiuJ3MB66o",
+      "start": "2025-06-21T06:09:43.443Z",
+      "end": "2025-06-21T06:13:55.109Z",
+      "updated": "2025-06-21T06:13:54.896Z"
+    },
     {
       "track": "Sweater Weather",
       "artist": "The Neighbourhood",
