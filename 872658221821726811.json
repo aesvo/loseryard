@@ -2,9 +2,20 @@
   "user": {
     "id": "872658221821726811",
     "username": "m3.ech",
-    "list": 9
+    "list": 10
   },
   "songs": [
+    {
+      "track": "Be Quiet and Drive (Far Away)",
+      "artist": "Deftones",
+      "album": "Around the Fur",
+      "album_art_url": "https://i.scdn.co/image/ab67616d0000b2730b1129853982ea17845d4eb6",
+      "track_id": "4Uiw0Sl9yskBaC6P4DcdVD",
+      "track_url": "https://open.spotify.com/track/4Uiw0Sl9yskBaC6P4DcdVD",
+      "start": "2025-06-21T05:55:15.105Z",
+      "end": "2025-06-21T06:00:14.971Z",
+      "updated": "2025-06-21T05:55:15.745Z"
+    },
     {
       "track": "Aerials",
       "artist": "System Of A Down",
