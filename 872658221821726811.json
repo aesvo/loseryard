@@ -2,9 +2,20 @@
   "user": {
     "id": "872658221821726811",
     "username": "m3.ech",
-    "list": 13
+    "list": 14
   },
   "songs": [
+    {
+      "track": "Snake Eyes",
+      "artist": "Sworn In",
+      "album": "The Death Card",
+      "album_art_url": "https://i.scdn.co/image/ab67616d0000b273a024b907b20967094e02d8fc",
+      "track_id": "7C625yaxO0NonRklWLTDWg",
+      "track_url": "https://open.spotify.com/track/7C625yaxO0NonRklWLTDWg",
+      "start": "2025-06-21T06:02:44.863Z",
+      "end": "2025-06-21T06:06:16.036Z",
+      "updated": "2025-06-21T06:02:45.580Z"
+    },
     {
       "track": "Daylily",
       "artist": "Movements",
