@@ -2,9 +2,20 @@
   "user": {
     "id": "1379709311873187910",
     "username": "81yb",
-    "list": 12
+    "list": 13
   },
   "songs": [
+    {
+      "track": "Here With Me",
+      "artist": "d4vd",
+      "album": "Petals to Thorns",
+      "album_art_url": "https://i.scdn.co/image/ab67616d0000b27364fa1bda999f4fbd2b7c4bb7",
+      "track_id": "5LrN7yUQAzvthd4QujgPFr",
+      "track_url": "https://open.spotify.com/track/5LrN7yUQAzvthd4QujgPFr",
+      "start": "2025-06-21T06:23:21.116Z",
+      "end": "2025-06-21T06:27:23.600Z",
+      "updated": "2025-06-21T06:23:22.262Z"
+    },
     {
       "track": "Something About You",
       "artist": "Eyedress; Dent May",
