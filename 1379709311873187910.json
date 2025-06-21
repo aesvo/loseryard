@@ -2,9 +2,20 @@
   "user": {
     "id": "1379709311873187910",
     "username": "81yb",
-    "list": 11
+    "list": 12
   },
   "songs": [
+    {
+      "track": "Something About You",
+      "artist": "Eyedress; Dent May",
+      "album": "Mulholland Drive",
+      "album_art_url": "https://i.scdn.co/image/ab67616d0000b27316f48ac1e989d7acc028e9cf",
+      "track_id": "6RiiSy9GzSwiyDEJDiMuKe",
+      "track_url": "https://open.spotify.com/track/6RiiSy9GzSwiyDEJDiMuKe",
+      "start": "2025-06-21T06:20:47.201Z",
+      "end": "2025-06-21T06:23:20.513Z",
+      "updated": "2025-06-21T06:20:48.449Z"
+    },
     {
       "track": "Heart To Heart",
       "artist": "Mac DeMarco",
