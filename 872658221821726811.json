@@ -2,9 +2,20 @@
   "user": {
     "id": "872658221821726811",
     "username": "m3.ech",
-    "list": 14
+    "list": 15
   },
   "songs": [
+    {
+      "track": "Going Under",
+      "artist": "Evanescence",
+      "album": "Fallen",
+      "album_art_url": "https://i.scdn.co/image/ab67616d0000b27325f49ab23f0ec6332efef432",
+      "track_id": "3UygY7qW2cvG9Llkay6i1i",
+      "track_url": "https://open.spotify.com/track/3UygY7qW2cvG9Llkay6i1i",
+      "start": "2025-06-21T06:04:13.443Z",
+      "end": "2025-06-21T06:07:48.389Z",
+      "updated": "2025-06-21T06:04:14.182Z"
+    },
     {
       "track": "Snake Eyes",
       "artist": "Sworn In",
