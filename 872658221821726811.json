@@ -2,9 +2,20 @@
   "user": {
     "id": "872658221821726811",
     "username": "m3.ech",
-    "list": 15
+    "list": 16
   },
   "songs": [
+    {
+      "track": "OWA OWA",
+      "artist": "Lil Tecca",
+      "album": "DOPAMINE",
+      "album_art_url": "https://i.scdn.co/image/ab67616d0000b27332ff641b413d6846dfa2973b",
+      "track_id": "1lfO0bqThTLimzHsvk3LrN",
+      "track_url": "https://open.spotify.com/track/1lfO0bqThTLimzHsvk3LrN",
+      "start": "2025-06-23T16:45:15.035Z",
+      "end": "2025-06-23T16:47:27.415Z",
+      "updated": "2025-06-23T16:45:24.684Z"
+    },
     {
       "track": "Going Under",
       "artist": "Evanescence",
