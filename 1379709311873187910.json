@@ -2,9 +2,20 @@
   "user": {
     "id": "1379709311873187910",
     "username": "81yb",
-    "list": 19
+    "list": 20
   },
   "songs": [
+    {
+      "track": "Hypnotize - 2014 Remaster",
+      "artist": "The Notorious B.I.G.",
+      "album": "Life After Death (2014 Remastered Edition)",
+      "album_art_url": "https://i.scdn.co/image/ab67616d0000b273fde79b88e2a659c394c5ae30",
+      "track_id": "7KwZNVEaqikRSBSpyhXK2j",
+      "track_url": "https://open.spotify.com/track/7KwZNVEaqikRSBSpyhXK2j",
+      "start": "2025-06-23T07:27:34.460Z",
+      "end": "2025-06-23T07:31:24.286Z",
+      "updated": "2025-06-23T07:31:00.021Z"
+    },
     {
       "track": "Hypnotize - 2014 Remaster",
       "artist": "The Notorious B.I.G.",
