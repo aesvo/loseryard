@@ -2,9 +2,20 @@
   "user": {
     "id": "1379709311873187910",
     "username": "81yb",
-    "list": 17
+    "list": 18
   },
   "songs": [
+    {
+      "track": "Do For Love",
+      "artist": "2Pac",
+      "album": "R U Still Down? [Remember Me]",
+      "album_art_url": "https://i.scdn.co/image/ab67616d0000b2738e0ff34ad21955b6f4da9b86",
+      "track_id": "4AE7Lj39VnSZNOmGH2iZaq",
+      "track_url": "https://open.spotify.com/track/4AE7Lj39VnSZNOmGH2iZaq",
+      "start": "2025-06-23T07:22:43.074Z",
+      "end": "2025-06-23T07:27:24.674Z",
+      "updated": "2025-06-23T07:22:43.833Z"
+    },
     {
       "track": "My Boo",
       "artist": "USHER; Alicia Keys",
