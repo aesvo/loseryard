@@ -2,9 +2,20 @@
   "user": {
     "id": "1379709311873187910",
     "username": "81yb",
-    "list": 15
+    "list": 16
   },
   "songs": [
+    {
+      "track": "Poison",
+      "artist": "Bell Biv DeVoe",
+      "album": "Poison",
+      "album_art_url": "https://i.scdn.co/image/ab67616d0000b2730ce91190aaea70dd4fe020c4",
+      "track_id": "6m59VvDUi0UQsB2eZ9wVbH",
+      "track_url": "https://open.spotify.com/track/6m59VvDUi0UQsB2eZ9wVbH",
+      "start": "2025-06-23T07:14:36.580Z",
+      "end": "2025-06-23T07:18:58.433Z",
+      "updated": "2025-06-23T07:17:55.394Z"
+    },
     {
       "track": "Poison",
       "artist": "Bell Biv DeVoe",
