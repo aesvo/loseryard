@@ -2,9 +2,20 @@
   "user": {
     "id": "1379709311873187910",
     "username": "81yb",
-    "list": 16
+    "list": 17
   },
   "songs": [
+    {
+      "track": "My Boo",
+      "artist": "USHER; Alicia Keys",
+      "album": "Confessions (Expanded Edition)",
+      "album_art_url": "https://i.scdn.co/image/ab67616d0000b273365b3fb800c19f7ff72602da",
+      "track_id": "68vgtRHr7iZHpzGpon6Jlo",
+      "track_url": "https://open.spotify.com/track/68vgtRHr7iZHpzGpon6Jlo",
+      "start": "2025-06-23T07:18:59.536Z",
+      "end": "2025-06-23T07:22:42.976Z",
+      "updated": "2025-06-23T07:19:00.511Z"
+    },
     {
       "track": "Poison",
       "artist": "Bell Biv DeVoe",
