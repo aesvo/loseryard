@@ -14,6 +14,16 @@
         "created_at": 1750786653901
       },
       {
+        "name": "Spotify",
+        "type": 2,
+        "state": "Lil Tecca",
+        "timestamps": {
+          "start": "2025-06-24T20:26:50.151Z",
+          "end": "2025-06-24T20:29:33.488Z"
+        },
+        "created_at": 1750796946480
+      },
+      {
         "name": "Rainbow Six Siege",
         "type": 0,
         "state": null,
