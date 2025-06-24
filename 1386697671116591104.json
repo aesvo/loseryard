@@ -9,12 +9,12 @@
         "id": "custom",
         "name": "Custom Status",
         "type": 4,
-        "state": "bug",
+        "state": "bae",
         "timestamps": {
           "start": null,
           "end": "2025-06-24T16:00:00.000Z"
         },
-        "created_at": 1750760640687
+        "created_at": 1750760653826
       }
     ],
     "global_name": "lolser",
