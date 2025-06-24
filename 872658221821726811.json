@@ -9,9 +9,9 @@
         "id": "custom",
         "name": "Custom Status",
         "type": 4,
-        "state": "/blueribbon",
+        "state": "https://discord.gg/blueribbon",
         "timestamps": {},
-        "created_at": 1750786653901
+        "created_at": 1750797641484
       },
       {
         "name": "Spotify",
@@ -28,7 +28,7 @@
         "type": 0,
         "state": null,
         "timestamps": {},
-        "created_at": 1750797583457
+        "created_at": 1750797641484
       },
       {
         "name": "Tom Clancy's Rainbow Six Siege X",
