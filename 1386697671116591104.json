@@ -4,7 +4,19 @@
     "username": "idiot53",
     "avatar": "https://cdn.discordapp.com/avatars/1386697671116591104/159242db856bbf81dbc9e39b4de0b140.png",
     "discord_status": "idle",
-    "activities": [],
+    "activities": [
+      {
+        "id": "custom",
+        "name": "Custom Status",
+        "type": 4,
+        "state": "be",
+        "timestamps": {
+          "start": null,
+          "end": "2025-06-24T16:00:00.000Z"
+        },
+        "created_at": 1750762663521
+      }
+    ],
     "global_name": "lolser",
     "display_name": "lolser"
   }
