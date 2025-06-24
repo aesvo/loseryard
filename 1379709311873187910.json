@@ -3,17 +3,8 @@
     "id": "1379709311873187910",
     "username": "81yb",
     "avatar": "https://cdn.discordapp.com/avatars/1379709311873187910/7a613aaa5bc7f290652e560cbe991836.png",
-    "discord_status": "dnd",
-    "activities": [
-      {
-        "id": "custom",
-        "name": "Custom Status",
-        "type": 4,
-        "state": ".gg/gun",
-        "timestamps": {},
-        "created_at": 1750799081217
-      }
-    ],
+    "discord_status": "offline",
+    "activities": [],
     "global_name": "᲼",
     "display_name": "᲼"
   }
