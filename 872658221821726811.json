@@ -14,16 +14,6 @@
         "created_at": 1750797656175
       },
       {
-        "name": "Spotify",
-        "type": 2,
-        "state": "Deftones",
-        "timestamps": {
-          "start": "2025-06-24T20:43:37.015Z",
-          "end": "2025-06-24T20:48:36.881Z"
-        },
-        "created_at": 1750797840407
-      },
-      {
         "name": "Rainbow Six Siege",
         "type": 0,
         "state": null,
