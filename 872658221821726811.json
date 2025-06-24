@@ -12,16 +12,6 @@
         "state": "/blueribbon",
         "timestamps": {},
         "created_at": 1750786653901
-      },
-      {
-        "name": "Roblox",
-        "type": 0,
-        "state": null,
-        "timestamps": {
-          "start": "2025-06-24T17:37:14.087Z",
-          "end": null
-        },
-        "created_at": 1750787533062
       }
     ],
     "global_name": "3",
