@@ -9,12 +9,12 @@
         "id": "custom",
         "name": "Custom Status",
         "type": 4,
-        "state": "test",
+        "state": "fun",
         "timestamps": {
           "start": null,
           "end": "2025-06-24T16:00:00.000Z"
         },
-        "created_at": 1750760209894
+        "created_at": 1750760353654
       }
     ],
     "global_name": "lolser",
