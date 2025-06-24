@@ -9,9 +9,9 @@
         "id": "custom",
         "name": "Custom Status",
         "type": 4,
-        "state": "https://discord.gg/blueribbon",
+        "state": "discord.gg/blueribbon",
         "timestamps": {},
-        "created_at": 1750797641484
+        "created_at": 1750797656175
       },
       {
         "name": "Spotify",
