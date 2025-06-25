@@ -3,7 +3,7 @@
     "id": "872658221821726811",
     "username": "m3.ech",
     "avatar": "https://cdn.discordapp.com/avatars/872658221821726811/7fde561e368e7fe699f000074441c54c.png",
-    "discord_status": "dnd",
+    "discord_status": "online",
     "activities": [
       {
         "id": "custom",
@@ -28,7 +28,7 @@
         "type": 0,
         "state": null,
         "timestamps": {},
-        "created_at": 1750877699702
+        "created_at": 1750878581590
       }
     ],
     "global_name": "3",
