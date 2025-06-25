@@ -14,6 +14,16 @@
         "created_at": 1750872802391
       },
       {
+        "name": "Spotify",
+        "type": 2,
+        "state": "Bryson Tiller",
+        "timestamps": {
+          "start": "2025-06-25T22:27:24.345Z",
+          "end": "2025-06-25T22:31:46.225Z"
+        },
+        "created_at": 1750890468787
+      },
+      {
         "name": "Roblox",
         "type": 0,
         "state": null,
