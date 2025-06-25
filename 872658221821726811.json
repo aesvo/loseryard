@@ -14,6 +14,16 @@
         "created_at": 1750872802391
       },
       {
+        "name": "Spotify",
+        "type": 2,
+        "state": "Drake",
+        "timestamps": {
+          "start": "2025-06-25T19:49:17.232Z",
+          "end": "2025-06-25T19:53:02.592Z"
+        },
+        "created_at": 1750880981881
+      },
+      {
         "name": "Tom Clancy's Rainbow Six Siege X",
         "type": 0,
         "state": null,
