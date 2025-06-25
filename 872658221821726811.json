@@ -14,6 +14,16 @@
         "created_at": 1750809329605
       },
       {
+        "name": "Spotify",
+        "type": 2,
+        "state": "Diplo; Trippie Redd",
+        "timestamps": {
+          "start": "2025-06-25T00:17:52.329Z",
+          "end": "2025-06-25T00:20:49.203Z"
+        },
+        "created_at": 1750810695732
+      },
+      {
         "name": "Rainbow Six Siege",
         "type": 0,
         "state": null,
