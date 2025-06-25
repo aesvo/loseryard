@@ -16,12 +16,12 @@
       {
         "name": "Spotify",
         "type": 2,
-        "state": "Gunna",
+        "state": "LUCKI",
         "timestamps": {
-          "start": "2025-06-25T00:32:14.317Z",
-          "end": "2025-06-25T00:34:43.423Z"
+          "start": "2025-06-25T00:34:44.053Z",
+          "end": "2025-06-25T00:36:47.466Z"
         },
-        "created_at": 1750811557852
+        "created_at": 1750811707623
       },
       {
         "name": "Rainbow Six Siege",
