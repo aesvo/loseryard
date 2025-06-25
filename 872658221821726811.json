@@ -22,16 +22,6 @@
           "end": "2025-06-25T20:03:38.910Z"
         },
         "created_at": 1750881677908
-      },
-      {
-        "name": "Tom Clancy's Rainbow Six Siege X",
-        "type": 0,
-        "state": null,
-        "timestamps": {
-          "start": "2025-06-25T16:07:11.206Z",
-          "end": null
-        },
-        "created_at": 1750872802416
       }
     ],
     "global_name": "3",
