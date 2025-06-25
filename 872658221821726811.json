@@ -14,16 +14,6 @@
         "created_at": 1750809329605
       },
       {
-        "name": "Spotify",
-        "type": 2,
-        "state": "Lil Yachty",
-        "timestamps": {
-          "start": "2025-06-25T00:47:23.213Z",
-          "end": "2025-06-25T00:51:22.527Z"
-        },
-        "created_at": 1750812466695
-      },
-      {
         "name": "Rainbow Six Siege",
         "type": 0,
         "state": null,
