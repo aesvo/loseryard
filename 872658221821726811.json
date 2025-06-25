@@ -12,16 +12,6 @@
         "state": "discord.gg/blueribbon",
         "timestamps": {},
         "created_at": 1750872802391
-      },
-      {
-        "name": "Roblox",
-        "type": 0,
-        "state": null,
-        "timestamps": {
-          "start": "2025-06-25T20:20:45.378Z",
-          "end": null
-        },
-        "created_at": 1750882869494
       }
     ],
     "global_name": "3",
