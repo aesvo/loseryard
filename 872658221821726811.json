@@ -14,16 +14,6 @@
         "created_at": 1750809329605
       },
       {
-        "name": "Spotify",
-        "type": 2,
-        "state": "Trippie Redd; Reese LAFLARE; Young Thug",
-        "timestamps": {
-          "start": "2025-06-25T00:36:47.960Z",
-          "end": "2025-06-25T00:40:45.943Z"
-        },
-        "created_at": 1750811831496
-      },
-      {
         "name": "Rainbow Six Siege",
         "type": 0,
         "state": null,
