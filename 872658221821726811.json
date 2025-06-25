@@ -14,16 +14,6 @@
         "created_at": 1750872802391
       },
       {
-        "name": "Spotify",
-        "type": 2,
-        "state": "Lil Wayne; Bobby V.; Kidd Kidd",
-        "timestamps": {
-          "start": "2025-06-25T21:39:04.035Z",
-          "end": "2025-06-25T21:43:50.941Z"
-        },
-        "created_at": 1750887568421
-      },
-      {
         "name": "Roblox",
         "type": 0,
         "state": null,
