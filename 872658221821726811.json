@@ -14,16 +14,6 @@
         "created_at": 1750872802391
       },
       {
-        "name": "Spotify",
-        "type": 2,
-        "state": "Miguel; J. Cole",
-        "timestamps": {
-          "start": "2025-06-25T22:09:56.301Z",
-          "end": "2025-06-25T22:14:52.221Z"
-        },
-        "created_at": 1750889420668
-      },
-      {
         "name": "Roblox",
         "type": 0,
         "state": null,
