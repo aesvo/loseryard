@@ -14,16 +14,6 @@
         "created_at": 1750872802391
       },
       {
-        "name": "Spotify",
-        "type": 2,
-        "state": "T-Pain; Lil Wayne",
-        "timestamps": {
-          "start": "2025-06-25T20:43:28.383Z",
-          "end": "2025-06-25T20:48:02.209Z"
-        },
-        "created_at": 1750884232731
-      },
-      {
         "name": "Roblox",
         "type": 0,
         "state": null,
