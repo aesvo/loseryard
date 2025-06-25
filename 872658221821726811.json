@@ -14,21 +14,11 @@
         "created_at": 1750809329605
       },
       {
-        "name": "Spotify",
-        "type": 2,
-        "state": "Post Malone",
-        "timestamps": {
-          "start": "2025-06-25T00:56:01.848Z",
-          "end": "2025-06-25T00:59:53.114Z"
-        },
-        "created_at": 1750812985307
-      },
-      {
         "name": "Rainbow Six Siege",
         "type": 0,
         "state": null,
         "timestamps": {},
-        "created_at": 1750813115554
+        "created_at": 1750813213216
       },
       {
         "name": "Tom Clancy's Rainbow Six Siege X",
