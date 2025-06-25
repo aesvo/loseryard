@@ -14,16 +14,6 @@
         "created_at": 1750872802391
       },
       {
-        "name": "Spotify",
-        "type": 2,
-        "state": "Lloyd; Lil Wayne",
-        "timestamps": {
-          "start": "2025-06-25T21:45:23.905Z",
-          "end": "2025-06-25T21:49:57.038Z"
-        },
-        "created_at": 1750887948248
-      },
-      {
         "name": "Roblox",
         "type": 0,
         "state": null,
