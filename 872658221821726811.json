@@ -22,16 +22,6 @@
           "end": null
         },
         "created_at": 1750881803470
-      },
-      {
-        "name": "Spotify",
-        "type": 2,
-        "state": "Gunna; Drake",
-        "timestamps": {
-          "start": "2025-06-25T20:03:39.478Z",
-          "end": "2025-06-25T20:06:52.824Z"
-        },
-        "created_at": 1750881843825
       }
     ],
     "global_name": "3",
