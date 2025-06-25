@@ -14,16 +14,6 @@
         "created_at": 1750872802391
       },
       {
-        "name": "Spotify",
-        "type": 2,
-        "state": "Ken Carson",
-        "timestamps": {
-          "start": "2025-06-25T20:35:23.309Z",
-          "end": "2025-06-25T20:38:27.684Z"
-        },
-        "created_at": 1750883747640
-      },
-      {
         "name": "Roblox",
         "type": 0,
         "state": null,
