@@ -14,16 +14,6 @@
         "created_at": 1750872802391
       },
       {
-        "name": "Spotify",
-        "type": 2,
-        "state": "Kodak Black",
-        "timestamps": {
-          "start": "2025-06-25T22:21:24.557Z",
-          "end": "2025-06-25T22:25:52.743Z"
-        },
-        "created_at": 1750890108953
-      },
-      {
         "name": "Roblox",
         "type": 0,
         "state": null,
