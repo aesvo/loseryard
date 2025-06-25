@@ -14,6 +14,16 @@
         "created_at": 1750872802391
       },
       {
+        "name": "Spotify",
+        "type": 2,
+        "state": "YoungBoy Never Broke Again",
+        "timestamps": {
+          "start": "2025-06-25T20:32:22.125Z",
+          "end": "2025-06-25T20:35:22.830Z"
+        },
+        "created_at": 1750883566501
+      },
+      {
         "name": "Roblox",
         "type": 0,
         "state": null,
