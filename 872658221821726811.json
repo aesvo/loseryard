@@ -14,11 +14,21 @@
         "created_at": 1750867582355
       },
       {
+        "name": "Tom Clancy's Rainbow Six Siege X",
+        "type": 0,
+        "state": null,
+        "timestamps": {
+          "start": "2025-06-25T16:07:11.206Z",
+          "end": null
+        },
+        "created_at": 1750867655248
+      },
+      {
         "name": "Rainbow Six Siege",
         "type": 0,
         "state": null,
         "timestamps": {},
-        "created_at": 1750867619166
+        "created_at": 1750867647735
       }
     ],
     "global_name": "3",
