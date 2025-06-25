@@ -14,11 +14,21 @@
         "created_at": 1750809329605
       },
       {
+        "name": "Spotify",
+        "type": 2,
+        "state": "Thee Sacred Souls",
+        "timestamps": {
+          "start": "2025-06-25T00:28:12.983Z",
+          "end": "2025-06-25T00:32:13.636Z"
+        },
+        "created_at": 1750811316444
+      },
+      {
         "name": "Rainbow Six Siege",
         "type": 0,
         "state": null,
         "timestamps": {},
-        "created_at": 1750811287741
+        "created_at": 1750811288353
       },
       {
         "name": "Tom Clancy's Rainbow Six Siege X",
