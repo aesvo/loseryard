@@ -21,17 +21,17 @@
           "start": "2025-06-25T23:45:18.897Z",
           "end": null
         },
-        "created_at": 1750895219629
+        "created_at": 1750895385903
       },
       {
         "name": "Visual Studio Code",
         "type": 0,
-        "state": "Workspace: TEST",
+        "state": null,
         "timestamps": {
           "start": "2025-06-25T23:45:16.173Z",
           "end": null
         },
-        "created_at": 1750895366772
+        "created_at": 1750895385903
       }
     ],
     "global_name": "3",
