@@ -22,16 +22,6 @@
           "end": null
         },
         "created_at": 1750924840785
-      },
-      {
-        "name": "Spotify",
-        "type": 2,
-        "state": "Kevin Gates",
-        "timestamps": {
-          "start": "2025-06-26T07:57:29.062Z",
-          "end": "2025-06-26T08:01:21.155Z"
-        },
-        "created_at": 1750924649375
       }
     ],
     "global_name": "3",
