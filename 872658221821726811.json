@@ -12,16 +12,6 @@
         "state": "discord.gg/blueribbon",
         "timestamps": {},
         "created_at": 1750908086642
-      },
-      {
-        "name": "Spotify",
-        "type": 2,
-        "state": "Lil Baby; Drake",
-        "timestamps": {
-          "start": "2025-06-26T03:31:15.731Z",
-          "end": "2025-06-26T03:33:38.004Z"
-        },
-        "created_at": 1750908676026
       }
     ],
     "global_name": "3",
