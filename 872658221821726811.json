@@ -11,7 +11,17 @@
         "type": 4,
         "state": "discord.gg/blueribbon",
         "timestamps": {},
-        "created_at": 1750927774776
+        "created_at": 1750927775195
+      },
+      {
+        "name": "Spotify",
+        "type": 2,
+        "state": "Jhené Aiko",
+        "timestamps": {
+          "start": "2025-06-26T08:48:28.992Z",
+          "end": "2025-06-26T08:52:03.885Z"
+        },
+        "created_at": 1750927775309
       }
     ],
     "global_name": "3",
