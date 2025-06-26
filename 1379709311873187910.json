@@ -12,6 +12,16 @@
         "state": ".gg/gun",
         "timestamps": {},
         "created_at": 1750939553657
+      },
+      {
+        "name": "Spotify",
+        "type": 2,
+        "state": "Blu Cantrell; Sean Paul",
+        "timestamps": {
+          "start": "2025-06-26T12:15:17.749Z",
+          "end": "2025-06-26T12:19:05.749Z"
+        },
+        "created_at": 1750940122394
       }
     ],
     "global_name": "᲼",
