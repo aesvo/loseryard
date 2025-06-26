@@ -11,27 +11,7 @@
         "type": 4,
         "state": "discord.gg/blueribbon",
         "timestamps": {},
-        "created_at": 1750872802391
-      },
-      {
-        "name": "Code",
-        "type": 0,
-        "state": null,
-        "timestamps": {
-          "start": "2025-06-26T00:38:36.799Z",
-          "end": null
-        },
-        "created_at": 1750904110765
-      },
-      {
-        "name": "Visual Studio Code",
-        "type": 0,
-        "state": "Workspace: TEST",
-        "timestamps": {
-          "start": "2025-06-26T00:38:33.800Z",
-          "end": null
-        },
-        "created_at": 1750903895134
+        "created_at": 1750904292122
       }
     ],
     "global_name": "3",
