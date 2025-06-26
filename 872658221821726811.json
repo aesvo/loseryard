@@ -12,6 +12,16 @@
         "state": ".gg/blueribbon",
         "timestamps": {},
         "created_at": 1750971897364
+      },
+      {
+        "name": "Grand Theft Auto V",
+        "type": 0,
+        "state": null,
+        "timestamps": {
+          "start": "2025-06-26T21:57:51.287Z",
+          "end": null
+        },
+        "created_at": 1750975072590
       }
     ],
     "global_name": "3",
