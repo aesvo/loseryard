@@ -16,12 +16,12 @@
       {
         "name": "Spotify",
         "type": 2,
-        "state": "Trippie Redd",
+        "state": "NLE Choppa",
         "timestamps": {
-          "start": "2025-06-26T08:12:33.919Z",
-          "end": "2025-06-26T08:14:57.888Z"
+          "start": "2025-06-26T08:13:31.262Z",
+          "end": "2025-06-26T08:15:49.442Z"
         },
-        "created_at": 1750925554275
+        "created_at": 1750925611569
       },
       {
         "name": "Visual Studio Code",
