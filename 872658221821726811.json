@@ -16,12 +16,12 @@
       {
         "name": "Spotify",
         "type": 2,
-        "state": "NLE Choppa",
+        "state": "Childish Gambino",
         "timestamps": {
-          "start": "2025-06-26T08:13:31.262Z",
-          "end": "2025-06-26T08:15:49.442Z"
+          "start": "2025-06-26T08:15:49.501Z",
+          "end": "2025-06-26T08:20:19.341Z"
         },
-        "created_at": 1750925611569
+        "created_at": 1750925749839
       },
       {
         "name": "Visual Studio Code",
