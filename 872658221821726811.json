@@ -12,6 +12,16 @@
         "state": "discord.gg/blueribbon",
         "timestamps": {},
         "created_at": 1750872802391
+      },
+      {
+        "name": "Visual Studio Code",
+        "type": 0,
+        "state": "Workspace: TEST",
+        "timestamps": {
+          "start": "2025-06-26T00:38:33.800Z",
+          "end": null
+        },
+        "created_at": 1750898313848
       }
     ],
     "global_name": "3",
