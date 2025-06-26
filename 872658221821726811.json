@@ -16,12 +16,12 @@
       {
         "name": "Spotify",
         "type": 2,
-        "state": "Kendrick Lamar; Drake",
+        "state": "Future; Drake",
         "timestamps": {
-          "start": "2025-06-26T08:37:58.687Z",
-          "end": "2025-06-26T08:42:58.847Z"
+          "start": "2025-06-26T08:42:58.439Z",
+          "end": "2025-06-26T08:46:56.357Z"
         },
-        "created_at": 1750927293616
+        "created_at": 1750927378824
       }
     ],
     "global_name": "3",
