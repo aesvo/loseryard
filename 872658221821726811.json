@@ -12,6 +12,16 @@
         "state": "discord.gg/blueribbon",
         "timestamps": {},
         "created_at": 1750908086642
+      },
+      {
+        "name": "Spotify",
+        "type": 2,
+        "state": "Lil Wayne",
+        "timestamps": {
+          "start": "2025-06-26T03:35:10.449Z",
+          "end": "2025-06-26T03:40:26.641Z"
+        },
+        "created_at": 1750908910705
       }
     ],
     "global_name": "3",
