@@ -3,27 +3,8 @@
     "id": "1379709311873187910",
     "username": "81yb",
     "avatar": "https://cdn.discordapp.com/avatars/1379709311873187910/ec6760a1efcd8a786a7394d97094d04c.png",
-    "discord_status": "online",
-    "activities": [
-      {
-        "id": "custom",
-        "name": "Custom Status",
-        "type": 4,
-        "state": ".gg/gun",
-        "timestamps": {},
-        "created_at": 1750926998634
-      },
-      {
-        "name": "Spotify",
-        "type": 2,
-        "state": "Flo Rida; T-Pain",
-        "timestamps": {
-          "start": "2025-06-26T08:40:19.254Z",
-          "end": "2025-06-26T08:44:10.654Z"
-        },
-        "created_at": 1750927219714
-      }
-    ],
+    "discord_status": "offline",
+    "activities": [],
     "global_name": "᲼",
     "display_name": "᲼"
   }
