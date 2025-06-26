@@ -16,12 +16,12 @@
       {
         "name": "Spotify",
         "type": 2,
-        "state": "BigXthaPlug",
+        "state": "Trippie Redd",
         "timestamps": {
-          "start": "2025-06-26T08:09:56.383Z",
-          "end": "2025-06-26T08:12:33.760Z"
+          "start": "2025-06-26T08:12:33.919Z",
+          "end": "2025-06-26T08:14:57.888Z"
         },
-        "created_at": 1750925396759
+        "created_at": 1750925554275
       },
       {
         "name": "Visual Studio Code",
