@@ -12,6 +12,16 @@
         "state": ".gg/gun",
         "timestamps": {},
         "created_at": 1750942922479
+      },
+      {
+        "name": "Grand Theft Auto V",
+        "type": 0,
+        "state": null,
+        "timestamps": {
+          "start": "2025-06-26T13:04:31.138Z",
+          "end": null
+        },
+        "created_at": 1750943075598
       }
     ],
     "global_name": "᲼",
