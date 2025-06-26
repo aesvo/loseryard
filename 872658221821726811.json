@@ -12,6 +12,16 @@
         "state": "discord.gg/blueribbon",
         "timestamps": {},
         "created_at": 1750922662834
+      },
+      {
+        "name": "Spotify",
+        "type": 2,
+        "state": "Kendrick Lamar; Drake",
+        "timestamps": {
+          "start": "2025-06-26T08:37:58.034Z",
+          "end": "2025-06-26T08:42:58.194Z"
+        },
+        "created_at": 1750927078494
       }
     ],
     "global_name": "3",
