@@ -11,17 +11,17 @@
         "type": 4,
         "state": "discord.gg/blueribbon",
         "timestamps": {},
-        "created_at": 1750908086642
+        "created_at": 1750920514071
       },
       {
         "name": "Spotify",
         "type": 2,
-        "state": "Lil Wayne",
+        "state": "Shy Glizzy",
         "timestamps": {
-          "start": "2025-06-26T03:35:10.449Z",
-          "end": "2025-06-26T03:40:26.641Z"
+          "start": "2025-06-26T06:47:55.386Z",
+          "end": "2025-06-26T06:51:52.146Z"
         },
-        "created_at": 1750908910705
+        "created_at": 1750920514096
       }
     ],
     "global_name": "3",
