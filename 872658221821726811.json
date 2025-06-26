@@ -9,9 +9,9 @@
         "id": "custom",
         "name": "Custom Status",
         "type": 4,
-        "state": "/blueribbon",
+        "state": "discord.gg/blueribbon",
         "timestamps": {},
-        "created_at": 1750930425410
+        "created_at": 1750930429577
       }
     ],
     "global_name": "3",
