@@ -12,6 +12,16 @@
         "state": "discord.gg/blueribbon",
         "timestamps": {},
         "created_at": 1750922662834
+      },
+      {
+        "name": "Tom Clancy's Rainbow Six Siege X",
+        "type": 0,
+        "state": null,
+        "timestamps": {
+          "start": "2025-06-26T07:24:25.771Z",
+          "end": null
+        },
+        "created_at": 1750922665916
       }
     ],
     "global_name": "3",
