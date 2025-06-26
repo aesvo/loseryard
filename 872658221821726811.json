@@ -16,12 +16,12 @@
       {
         "name": "Spotify",
         "type": 2,
-        "state": "Lil Tecca",
+        "state": "ian",
         "timestamps": {
-          "start": "2025-06-26T08:31:12.571Z",
-          "end": "2025-06-26T08:33:36.961Z"
+          "start": "2025-06-26T08:33:37.586Z",
+          "end": "2025-06-26T08:36:14.030Z"
         },
-        "created_at": 1750926673014
+        "created_at": 1750926817949
       },
       {
         "name": "Visual Studio Code",
