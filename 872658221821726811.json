@@ -16,12 +16,12 @@
       {
         "name": "Spotify",
         "type": 2,
-        "state": "Ken Carson",
+        "state": "Kevin Gates",
         "timestamps": {
-          "start": "2025-06-26T07:53:37.909Z",
-          "end": "2025-06-26T07:57:28.832Z"
+          "start": "2025-06-26T07:57:29.062Z",
+          "end": "2025-06-26T08:01:21.155Z"
         },
-        "created_at": 1750924582892
+        "created_at": 1750924649375
       },
       {
         "name": "Visual Studio Code",
