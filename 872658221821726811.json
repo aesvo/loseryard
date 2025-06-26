@@ -14,6 +14,16 @@
         "created_at": 1750922662834
       },
       {
+        "name": "Spotify",
+        "type": 2,
+        "state": "Drake",
+        "timestamps": {
+          "start": "2025-06-26T08:21:44.535Z",
+          "end": "2025-06-26T08:24:01.677Z"
+        },
+        "created_at": 1750926104919
+      },
+      {
         "name": "Visual Studio Code",
         "type": 0,
         "state": "Workspace: mines",
