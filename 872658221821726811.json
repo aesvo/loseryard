@@ -12,6 +12,16 @@
         "state": "discord.gg/blueribbon",
         "timestamps": {},
         "created_at": 1750908086642
+      },
+      {
+        "name": "Spotify",
+        "type": 2,
+        "state": "Trippie Redd; PARTYNEXTDOOR",
+        "timestamps": {
+          "start": "2025-06-26T03:26:32.219Z",
+          "end": "2025-06-26T03:31:15.504Z"
+        },
+        "created_at": 1750908620906
       }
     ],
     "global_name": "3",
