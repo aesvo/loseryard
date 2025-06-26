@@ -12,16 +12,6 @@
         "state": "discord.gg/blueribbon",
         "timestamps": {},
         "created_at": 1750927775195
-      },
-      {
-        "name": "Spotify",
-        "type": 2,
-        "state": "Gucci Mane",
-        "timestamps": {
-          "start": "2025-06-26T09:20:27.433Z",
-          "end": "2025-06-26T09:23:39.219Z"
-        },
-        "created_at": 1750929627816
       }
     ],
     "global_name": "3",
