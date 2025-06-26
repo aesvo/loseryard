@@ -11,7 +11,17 @@
         "type": 4,
         "state": "discord.gg/blueribbon",
         "timestamps": {},
-        "created_at": 1750927546247
+        "created_at": 1750927546738
+      },
+      {
+        "name": "Spotify",
+        "type": 2,
+        "state": "Future; Drake",
+        "timestamps": {
+          "start": "2025-06-26T08:42:58.848Z",
+          "end": "2025-06-26T08:46:56.766Z"
+        },
+        "created_at": 1750927546767
       }
     ],
     "global_name": "3",
