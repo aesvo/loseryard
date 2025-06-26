@@ -16,12 +16,12 @@
       {
         "name": "Spotify",
         "type": 2,
-        "state": "Drake",
+        "state": "Lil Wayne; Detail",
         "timestamps": {
-          "start": "2025-06-26T08:02:53.658Z",
-          "end": "2025-06-26T08:06:54.681Z"
+          "start": "2025-06-26T08:06:55.202Z",
+          "end": "2025-06-26T08:10:38.068Z"
         },
-        "created_at": 1750924973963
+        "created_at": 1750925215550
       },
       {
         "name": "Visual Studio Code",
