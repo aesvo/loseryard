@@ -3,27 +3,8 @@
     "id": "872658221821726811",
     "username": "m3.ech",
     "avatar": "https://cdn.discordapp.com/avatars/872658221821726811/7fde561e368e7fe699f000074441c54c.png",
-    "discord_status": "online",
-    "activities": [
-      {
-        "id": "custom",
-        "name": "Custom Status",
-        "type": 4,
-        "state": "discord.gg/blueribbon",
-        "timestamps": {},
-        "created_at": 1750927775195
-      },
-      {
-        "name": "Spotify",
-        "type": 2,
-        "state": "Kendrick Lamar",
-        "timestamps": {
-          "start": "2025-06-26T09:30:51.284Z",
-          "end": "2025-06-26T09:36:02.004Z"
-        },
-        "created_at": 1750930251695
-      }
-    ],
+    "discord_status": "offline",
+    "activities": [],
     "global_name": "3",
     "display_name": "3"
   }
