@@ -33,12 +33,12 @@
       {
         "name": "Spotify",
         "type": 2,
-        "state": "Travis Scott",
+        "state": "Ken Carson",
         "timestamps": {
-          "start": "2025-06-26T06:57:33.865Z",
-          "end": "2025-06-26T07:00:52.273Z"
+          "start": "2025-06-26T07:00:52.861Z",
+          "end": "2025-06-26T07:04:43.784Z"
         },
-        "created_at": 1750921054184
+        "created_at": 1750921253190
       }
     ],
     "global_name": "3",
