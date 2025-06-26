@@ -16,12 +16,12 @@
       {
         "name": "Spotify",
         "type": 2,
-        "state": "Lil Wayne",
+        "state": "BigXthaPlug",
         "timestamps": {
-          "start": "2025-06-26T08:24:02.357Z",
-          "end": "2025-06-26T08:27:37.782Z"
+          "start": "2025-06-26T08:27:38.313Z",
+          "end": "2025-06-26T08:29:40.313Z"
         },
-        "created_at": 1750926242763
+        "created_at": 1750926458673
       },
       {
         "name": "Visual Studio Code",
