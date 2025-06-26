@@ -14,16 +14,6 @@
         "created_at": 1750922662834
       },
       {
-        "name": "Spotify",
-        "type": 2,
-        "state": "BigXthaPlug",
-        "timestamps": {
-          "start": "2025-06-26T08:27:38.313Z",
-          "end": "2025-06-26T08:29:40.313Z"
-        },
-        "created_at": 1750926458673
-      },
-      {
         "name": "Visual Studio Code",
         "type": 0,
         "state": null,
