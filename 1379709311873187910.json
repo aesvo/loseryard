@@ -14,6 +14,16 @@
         "created_at": 1751000276527
       },
       {
+        "name": "Spotify",
+        "type": 2,
+        "state": "Bobby V.",
+        "timestamps": {
+          "start": "2025-06-27T04:58:49.507Z",
+          "end": "2025-06-27T05:03:08.172Z"
+        },
+        "created_at": 1751000334098
+      },
+      {
         "name": "MiGhettoRZ",
         "type": 0,
         "state": "[122/200] Players",
