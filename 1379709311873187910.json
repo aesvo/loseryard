@@ -14,16 +14,6 @@
         "created_at": 1751010693458
       },
       {
-        "name": "Spotify",
-        "type": 2,
-        "state": "Nelly; Kelly Rowland",
-        "timestamps": {
-          "start": "2025-06-27T10:31:41.233Z",
-          "end": "2025-06-27T10:36:30.393Z"
-        },
-        "created_at": 1751020301927
-      },
-      {
         "name": "Grand Theft Auto V",
         "type": 0,
         "state": null,
