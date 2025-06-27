@@ -12,6 +12,16 @@
         "state": ".gg/gun",
         "timestamps": {},
         "created_at": 1751028629460
+      },
+      {
+        "name": "FiveM",
+        "type": 0,
+        "state": "In the menus",
+        "timestamps": {
+          "start": "2025-06-27T12:50:36.000Z",
+          "end": null
+        },
+        "created_at": 1751028646976
       }
     ],
     "global_name": "᲼",
