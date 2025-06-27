@@ -3,27 +3,8 @@
     "id": "1379709311873187910",
     "username": "81yb",
     "avatar": "https://cdn.discordapp.com/avatars/1379709311873187910/ec6760a1efcd8a786a7394d97094d04c.png",
-    "discord_status": "online",
-    "activities": [
-      {
-        "id": "custom",
-        "name": "Custom Status",
-        "type": 4,
-        "state": ".gg/gun",
-        "timestamps": {},
-        "created_at": 1750997103486
-      },
-      {
-        "name": "Spotify",
-        "type": 2,
-        "state": "SZA",
-        "timestamps": {
-          "start": "2025-06-27T04:36:17.892Z",
-          "end": "2025-06-27T04:39:39.692Z"
-        },
-        "created_at": 1750998982411
-      }
-    ],
+    "discord_status": "offline",
+    "activities": [],
     "global_name": "᲼",
     "display_name": "᲼"
   }
