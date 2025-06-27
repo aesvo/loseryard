@@ -12,6 +12,16 @@
         "state": ".gg/gun",
         "timestamps": {},
         "created_at": 1751028629460
+      },
+      {
+        "name": "TMFRZ",
+        "type": 0,
+        "state": "160 / 200 players",
+        "timestamps": {
+          "start": "2025-06-27T13:11:30.000Z",
+          "end": null
+        },
+        "created_at": 1751029922029
       }
     ],
     "global_name": "᲼",
