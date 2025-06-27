@@ -12,6 +12,16 @@
         "state": ".gg/gun",
         "timestamps": {},
         "created_at": 1750998730724
+      },
+      {
+        "name": "Spotify",
+        "type": 2,
+        "state": "Leon Thomas",
+        "timestamps": {
+          "start": "2025-06-27T04:33:04.043Z",
+          "end": "2025-06-27T04:36:17.376Z"
+        },
+        "created_at": 1750998788558
       }
     ],
     "global_name": "᲼",
