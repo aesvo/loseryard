@@ -14,6 +14,16 @@
         "created_at": 1751028629460
       },
       {
+        "name": "Spotify",
+        "type": 2,
+        "state": "T-Pain; B.o.B",
+        "timestamps": {
+          "start": "2025-06-27T13:00:38.965Z",
+          "end": "2025-06-27T13:04:30.058Z"
+        },
+        "created_at": 1751029339047
+      },
+      {
         "name": "TMFRZ",
         "type": 0,
         "state": "171 / 200 players",
