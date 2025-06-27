@@ -12,6 +12,16 @@
         "state": ".gg/gun",
         "timestamps": {},
         "created_at": 1750997103486
+      },
+      {
+        "name": "Spotify",
+        "type": 2,
+        "state": "T-Pain; B.o.B",
+        "timestamps": {
+          "start": "2025-06-27T04:05:29.441Z",
+          "end": "2025-06-27T04:09:20.534Z"
+        },
+        "created_at": 1750997133966
       }
     ],
     "global_name": "᲼",
