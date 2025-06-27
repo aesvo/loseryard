@@ -36,12 +36,12 @@
       {
         "name": "TMFRZ",
         "type": 0,
-        "state": "175 / 200 players",
+        "state": "174 / 200 players",
         "timestamps": {
           "start": "2025-06-27T12:51:25.000Z",
           "end": null
         },
-        "created_at": 1751029545855
+        "created_at": 1751029551149
       }
     ],
     "global_name": "᲼",
