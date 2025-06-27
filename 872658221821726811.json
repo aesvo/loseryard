@@ -14,6 +14,16 @@
         "created_at": 1751048996277
       },
       {
+        "name": "Content Warning",
+        "type": 0,
+        "state": null,
+        "timestamps": {
+          "start": null,
+          "end": null
+        },
+        "created_at": 1751056365758
+      },
+      {
         "name": "Rainbow Six Siege",
         "type": 0,
         "state": null,
