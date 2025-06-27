@@ -24,16 +24,6 @@
         "created_at": 1750999749660
       },
       {
-        "name": "Spotify",
-        "type": 2,
-        "state": "Kendrick Lamar",
-        "timestamps": {
-          "start": "2025-06-27T04:45:40.939Z",
-          "end": "2025-06-27T04:49:48.739Z"
-        },
-        "created_at": 1750999545429
-      },
-      {
         "name": "Grand Theft Auto V",
         "type": 0,
         "state": null,
