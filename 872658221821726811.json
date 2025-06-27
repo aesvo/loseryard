@@ -12,26 +12,6 @@
         "state": ".gg/blueribbon",
         "timestamps": {},
         "created_at": 1751002694964
-      },
-      {
-        "name": "Code",
-        "type": 0,
-        "state": "Working on index.html:901:8",
-        "timestamps": {
-          "start": "2025-06-27T06:27:53.689Z",
-          "end": null
-        },
-        "created_at": 1751007756479
-      },
-      {
-        "name": "Visual Studio Code",
-        "type": 0,
-        "state": "Workspace: mines",
-        "timestamps": {
-          "start": "2025-06-27T06:27:51.500Z",
-          "end": null
-        },
-        "created_at": 1751007743815
       }
     ],
     "global_name": "3",
