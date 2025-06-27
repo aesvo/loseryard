@@ -14,6 +14,16 @@
         "created_at": 1750999465747
       },
       {
+        "name": "MiGhettoRZ",
+        "type": 0,
+        "state": "[109/200] Players",
+        "timestamps": {
+          "start": "2025-06-27T04:46:47.000Z",
+          "end": null
+        },
+        "created_at": 1750999639811
+      },
+      {
         "name": "Spotify",
         "type": 2,
         "state": "Kendrick Lamar",
