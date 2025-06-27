@@ -12,6 +12,16 @@
         "state": ".gg/blueribbon",
         "timestamps": {},
         "created_at": 1751018195040
+      },
+      {
+        "name": "Chained Together",
+        "type": 0,
+        "state": null,
+        "timestamps": {
+          "start": "2025-06-27T09:58:21.171Z",
+          "end": null
+        },
+        "created_at": 1751018304319
       }
     ],
     "global_name": "3",
