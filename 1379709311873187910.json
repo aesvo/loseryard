@@ -11,7 +11,7 @@
         "type": 4,
         "state": ".gg/gun",
         "timestamps": {},
-        "created_at": 1751029597173
+        "created_at": 1751028629460
       },
       {
         "name": "FiveM",
@@ -22,16 +22,6 @@
           "end": null
         },
         "created_at": 1751029746650
-      },
-      {
-        "name": "Spotify",
-        "type": 2,
-        "state": "Kendrick Lamar",
-        "timestamps": {
-          "start": "2025-06-27T13:05:36.902Z",
-          "end": "2025-06-27T13:09:44.702Z"
-        },
-        "created_at": 1751029597690
       },
       {
         "name": "Crosshair V2",
