@@ -14,6 +14,16 @@
         "created_at": 1750999465747
       },
       {
+        "name": "Spotify",
+        "type": 2,
+        "state": "TLC",
+        "timestamps": {
+          "start": "2025-06-27T07:12:02.404Z",
+          "end": "2025-06-27T07:15:36.804Z"
+        },
+        "created_at": 1751008327200
+      },
+      {
         "name": "FiveM",
         "type": 0,
         "state": "In the menus",
