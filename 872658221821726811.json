@@ -18,10 +18,10 @@
         "type": 0,
         "state": null,
         "timestamps": {
-          "start": "2025-06-27T10:07:41.909Z",
+          "start": null,
           "end": null
         },
-        "created_at": 1751018865028
+        "created_at": 1751018868328
       }
     ],
     "global_name": "3",
