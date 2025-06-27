@@ -14,16 +14,6 @@
         "created_at": 1751010693458
       },
       {
-        "name": "Spotify",
-        "type": 2,
-        "state": "Lil Wayne; Bobby V.; Kidd Kidd",
-        "timestamps": {
-          "start": "2025-06-27T10:59:57.968Z",
-          "end": "2025-06-27T11:04:44.874Z"
-        },
-        "created_at": 1751021998609
-      },
-      {
         "name": "Grand Theft Auto V",
         "type": 0,
         "state": null,
