@@ -14,6 +14,16 @@
         "created_at": 1751010693458
       },
       {
+        "name": "Spotify",
+        "type": 2,
+        "state": "Fat Joe; Ashanti",
+        "timestamps": {
+          "start": "2025-06-27T10:24:55.794Z",
+          "end": "2025-06-27T10:28:46.194Z"
+        },
+        "created_at": 1751019896303
+      },
+      {
         "name": "Grand Theft Auto V",
         "type": 0,
         "state": null,
