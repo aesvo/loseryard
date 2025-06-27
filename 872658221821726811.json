@@ -16,22 +16,22 @@
       {
         "name": "Code",
         "type": 0,
-        "state": "Working on index.html:601:8",
+        "state": "Viewing index.html",
         "timestamps": {
           "start": "2025-06-27T06:27:53.689Z",
           "end": null
         },
-        "created_at": 1751005837476
+        "created_at": 1751005983847
       },
       {
         "name": "Visual Studio Code",
         "type": 0,
-        "state": null,
+        "state": "Workspace: mines",
         "timestamps": {
           "start": "2025-06-27T06:27:51.500Z",
           "end": null
         },
-        "created_at": 1751005839226
+        "created_at": 1751005983809
       }
     ],
     "global_name": "3",
