@@ -14,14 +14,24 @@
         "created_at": 1751029597173
       },
       {
+        "name": "FiveM",
+        "type": 0,
+        "state": "In the menus",
+        "timestamps": {
+          "start": "2025-06-27T13:06:40.000Z",
+          "end": null
+        },
+        "created_at": 1751029618948
+      },
+      {
         "name": "Spotify",
         "type": 2,
         "state": "Kendrick Lamar",
         "timestamps": {
-          "start": "2025-06-27T13:05:36.798Z",
-          "end": "2025-06-27T13:09:44.598Z"
+          "start": "2025-06-27T13:05:36.902Z",
+          "end": "2025-06-27T13:09:44.702Z"
         },
-        "created_at": 1751029537602
+        "created_at": 1751029597690
       },
       {
         "name": "Crosshair V2",
