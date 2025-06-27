@@ -12,6 +12,16 @@
         "state": ".gg/blueribbon",
         "timestamps": {},
         "created_at": 1751048996277
+      },
+      {
+        "name": "Raft",
+        "type": 0,
+        "state": null,
+        "timestamps": {
+          "start": "2025-06-27T23:04:05.663Z",
+          "end": null
+        },
+        "created_at": 1751065448619
       }
     ],
     "global_name": "3",
