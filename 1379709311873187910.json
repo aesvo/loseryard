@@ -14,16 +14,6 @@
         "created_at": 1751022606204
       },
       {
-        "name": "Spotify",
-        "type": 2,
-        "state": "Drake",
-        "timestamps": {
-          "start": "2025-06-27T11:23:04.793Z",
-          "end": "2025-06-27T11:27:22.483Z"
-        },
-        "created_at": 1751023385341
-      },
-      {
         "name": "Grand Theft Auto V",
         "type": 0,
         "state": null,
