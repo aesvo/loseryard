@@ -16,12 +16,12 @@
       {
         "name": "Content Warning",
         "type": 0,
-        "state": "In the old world",
+        "state": null,
         "timestamps": {
-          "start": null,
+          "start": "2025-06-27T20:32:51.662Z",
           "end": null
         },
-        "created_at": 1751056513879
+        "created_at": 1751056600321
       }
     ],
     "global_name": "3",
