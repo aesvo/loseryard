@@ -14,6 +14,16 @@
         "created_at": 1750999465747
       },
       {
+        "name": "Spotify",
+        "type": 2,
+        "state": "T-Pain; Akon",
+        "timestamps": {
+          "start": "2025-06-27T04:49:50.576Z",
+          "end": "2025-06-27T04:53:49.376Z"
+        },
+        "created_at": 1750999805057
+      },
+      {
         "name": "MiGhettoRZ",
         "type": 0,
         "state": "[114/200] Players",
