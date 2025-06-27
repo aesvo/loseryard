@@ -16,12 +16,12 @@
       {
         "name": "Content Warning",
         "type": 0,
-        "state": "In friends lobby",
+        "state": "At the house",
         "timestamps": {
           "start": null,
           "end": null
         },
-        "created_at": 1751060235014
+        "created_at": 1751060249996
       }
     ],
     "global_name": "3",
