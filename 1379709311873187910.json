@@ -12,6 +12,16 @@
         "state": ".gg/gun",
         "timestamps": {},
         "created_at": 1750999465747
+      },
+      {
+        "name": "Spotify",
+        "type": 2,
+        "state": "Ashanti",
+        "timestamps": {
+          "start": "2025-06-27T07:07:32.450Z",
+          "end": "2025-06-27T07:10:46.610Z"
+        },
+        "created_at": 1751008079873
       }
     ],
     "global_name": "᲼",
