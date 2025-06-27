@@ -14,6 +14,16 @@
         "created_at": 1751002694964
       },
       {
+        "name": "Code",
+        "type": 0,
+        "state": null,
+        "timestamps": {
+          "start": "2025-06-27T06:27:53.689Z",
+          "end": null
+        },
+        "created_at": 1751005676479
+      },
+      {
         "name": "Visual Studio Code",
         "type": 0,
         "state": null,
