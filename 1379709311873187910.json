@@ -26,12 +26,12 @@
       {
         "name": "Spotify",
         "type": 2,
-        "state": "TLC",
+        "state": "USHER",
         "timestamps": {
-          "start": "2025-06-27T07:12:02.582Z",
-          "end": "2025-06-27T07:15:36.982Z"
+          "start": "2025-06-27T07:15:37.232Z",
+          "end": "2025-06-27T07:19:21.325Z"
         },
-        "created_at": 1751008489015
+        "created_at": 1751008541934
       }
     ],
     "global_name": "᲼",
