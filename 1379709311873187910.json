@@ -14,16 +14,6 @@
         "created_at": 1750999465747
       },
       {
-        "name": "Spotify",
-        "type": 2,
-        "state": "USHER; Alicia Keys",
-        "timestamps": {
-          "start": "2025-06-27T04:53:48.423Z",
-          "end": "2025-06-27T04:57:31.863Z"
-        },
-        "created_at": 1751000032964
-      },
-      {
         "name": "MiGhettoRZ",
         "type": 0,
         "state": "[117/200] Players",
