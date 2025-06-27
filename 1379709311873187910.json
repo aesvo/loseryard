@@ -14,16 +14,6 @@
         "created_at": 1751008488273
       },
       {
-        "name": "Spotify",
-        "type": 2,
-        "state": "USHER; Jeezy",
-        "timestamps": {
-          "start": "2025-06-27T07:44:34.776Z",
-          "end": "2025-06-27T07:48:54.496Z"
-        },
-        "created_at": 1751010279479
-      },
-      {
         "name": "Grand Theft Auto V",
         "type": 0,
         "state": null,
