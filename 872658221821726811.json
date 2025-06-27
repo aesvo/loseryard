@@ -12,16 +12,6 @@
         "state": ".gg/blueribbon",
         "timestamps": {},
         "created_at": 1751048996277
-      },
-      {
-        "name": "R.E.P.O.",
-        "type": 0,
-        "state": null,
-        "timestamps": {
-          "start": "2025-06-27T21:57:54.249Z",
-          "end": null
-        },
-        "created_at": 1751061477161
       }
     ],
     "global_name": "3",
