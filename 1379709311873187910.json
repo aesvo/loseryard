@@ -3,47 +3,8 @@
     "id": "1379709311873187910",
     "username": "81yb",
     "avatar": "https://cdn.discordapp.com/avatars/1379709311873187910/ec6760a1efcd8a786a7394d97094d04c.png",
-    "discord_status": "online",
-    "activities": [
-      {
-        "id": "custom",
-        "name": "Custom Status",
-        "type": 4,
-        "state": ".gg/gun",
-        "timestamps": {},
-        "created_at": 1750999465747
-      },
-      {
-        "name": "Spotify",
-        "type": 2,
-        "state": "TLC",
-        "timestamps": {
-          "start": "2025-06-27T07:12:02.404Z",
-          "end": "2025-06-27T07:15:36.804Z"
-        },
-        "created_at": 1751008327200
-      },
-      {
-        "name": "FiveM",
-        "type": 0,
-        "state": "In the menus",
-        "timestamps": {
-          "start": "2025-06-27T07:09:45.000Z",
-          "end": null
-        },
-        "created_at": 1751008198486
-      },
-      {
-        "name": "Grand Theft Auto V",
-        "type": 0,
-        "state": null,
-        "timestamps": {
-          "start": "2025-06-27T07:09:52.764Z",
-          "end": null
-        },
-        "created_at": 1751008197110
-      }
-    ],
+    "discord_status": "offline",
+    "activities": [],
     "global_name": "᲼",
     "display_name": "᲼"
   }
