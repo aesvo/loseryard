@@ -3,17 +3,8 @@
     "id": "872658221821726811",
     "username": "m3.ech",
     "avatar": "https://cdn.discordapp.com/avatars/872658221821726811/29778ca7b4e41f1dad0566ff301af91d.png",
-    "discord_status": "online",
-    "activities": [
-      {
-        "id": "custom",
-        "name": "Custom Status",
-        "type": 4,
-        "state": ".gg/blueribbon",
-        "timestamps": {},
-        "created_at": 1751039239065
-      }
-    ],
+    "discord_status": "offline",
+    "activities": [],
     "global_name": "3",
     "display_name": "3"
   }
