@@ -11,17 +11,17 @@
         "type": 4,
         "state": ".gg/gun",
         "timestamps": {},
-        "created_at": 1750997103486
+        "created_at": 1750998120231
       },
       {
         "name": "Spotify",
         "type": 2,
         "state": "Snoh Aalegra",
         "timestamps": {
-          "start": "2025-06-27T04:19:52.033Z",
-          "end": "2025-06-27T04:23:26.486Z"
+          "start": "2025-06-27T04:19:56.033Z",
+          "end": "2025-06-27T04:23:30.486Z"
         },
-        "created_at": 1750997996569
+        "created_at": 1750998120231
       }
     ],
     "global_name": "᲼",
