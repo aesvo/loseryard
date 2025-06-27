@@ -6,6 +6,14 @@
     "discord_status": "online",
     "activities": [
       {
+        "id": "custom",
+        "name": "Custom Status",
+        "type": 4,
+        "state": ".gg/gun",
+        "timestamps": {},
+        "created_at": 1751010693458
+      },
+      {
         "name": "Grand Theft Auto V",
         "type": 0,
         "state": null,
