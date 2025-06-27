@@ -26,12 +26,12 @@
       {
         "name": "Visual Studio Code",
         "type": 0,
-        "state": null,
+        "state": "Workspace: mines",
         "timestamps": {
           "start": "2025-06-27T06:27:51.500Z",
           "end": null
         },
-        "created_at": 1751007672561
+        "created_at": 1751007716479
       }
     ],
     "global_name": "3",
