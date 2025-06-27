@@ -14,16 +14,6 @@
         "created_at": 1751028629460
       },
       {
-        "name": "FiveM",
-        "type": 0,
-        "state": "In the menus",
-        "timestamps": {
-          "start": "2025-06-27T13:09:05.000Z",
-          "end": null
-        },
-        "created_at": 1751029746650
-      },
-      {
         "name": "Crosshair V2",
         "type": 0,
         "state": null,
