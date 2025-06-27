@@ -4,7 +4,18 @@
     "username": "81yb",
     "avatar": "https://cdn.discordapp.com/avatars/1379709311873187910/ec6760a1efcd8a786a7394d97094d04c.png",
     "discord_status": "online",
-    "activities": [],
+    "activities": [
+      {
+        "name": "Grand Theft Auto V",
+        "type": 0,
+        "state": null,
+        "timestamps": {
+          "start": "2025-06-27T07:14:48.132Z",
+          "end": null
+        },
+        "created_at": 1751010692683
+      }
+    ],
     "global_name": "᲼",
     "display_name": "᲼"
   }
