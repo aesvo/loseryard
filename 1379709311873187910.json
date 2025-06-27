@@ -16,22 +16,12 @@
       {
         "name": "Spotify",
         "type": 2,
-        "state": "Baby Bash; Frankie J",
+        "state": "Ne-Yo",
         "timestamps": {
-          "start": "2025-06-27T11:41:09.568Z",
-          "end": "2025-06-27T11:45:08.594Z"
+          "start": "2025-06-27T11:42:05.446Z",
+          "end": "2025-06-27T11:45:57.446Z"
         },
-        "created_at": 1751024525098
-      },
-      {
-        "name": "Grand Theft Auto V",
-        "type": 0,
-        "state": null,
-        "timestamps": {
-          "start": "2025-06-27T11:10:09.595Z",
-          "end": null
-        },
-        "created_at": 1751022609808
+        "created_at": 1751024525936
       }
     ],
     "global_name": "᲼",
