@@ -14,16 +14,6 @@
         "created_at": 1751010693458
       },
       {
-        "name": "Spotify",
-        "type": 2,
-        "state": "Bryson Tiller",
-        "timestamps": {
-          "start": "2025-06-27T10:46:20.662Z",
-          "end": "2025-06-27T10:49:35.275Z"
-        },
-        "created_at": 1751021181331
-      },
-      {
         "name": "Grand Theft Auto V",
         "type": 0,
         "state": null,
