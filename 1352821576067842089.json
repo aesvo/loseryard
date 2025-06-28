@@ -4,26 +4,7 @@
     "username": "overfunds",
     "avatar": "https://cdn.discordapp.com/avatars/1352821576067842089/f532d39b62d3e643c711224fecb62033.png",
     "discord_status": "online",
-    "activities": [
-      {
-        "id": "custom",
-        "name": "Custom Status",
-        "type": 4,
-        "state": ".gg/lavishRP",
-        "timestamps": {},
-        "created_at": 1751094639444
-      },
-      {
-        "name": "Spotify",
-        "type": 2,
-        "state": "Justin Timberlake",
-        "timestamps": {
-          "start": "2025-06-28T07:09:37.833Z",
-          "end": "2025-06-28T07:13:50.806Z"
-        },
-        "created_at": 1751094639467
-      }
-    ],
+    "activities": [],
     "global_name": "ccccccc",
     "display_name": "ccccccc"
   }
