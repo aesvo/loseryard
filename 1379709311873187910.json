@@ -12,6 +12,16 @@
         "state": ".gg/gun",
         "timestamps": {},
         "created_at": 1751087802847
+      },
+      {
+        "name": "Spotify",
+        "type": 2,
+        "state": "Kendrick Lamar",
+        "timestamps": {
+          "start": "2025-06-28T05:24:05.702Z",
+          "end": "2025-06-28T05:28:13.502Z"
+        },
+        "created_at": 1751088373519
       }
     ],
     "global_name": "᲼",
