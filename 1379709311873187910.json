@@ -6,6 +6,14 @@
     "discord_status": "online",
     "activities": [
       {
+        "id": "custom",
+        "name": "Custom Status",
+        "type": 4,
+        "state": ".gg/gun",
+        "timestamps": {},
+        "created_at": 1751094864069
+      },
+      {
         "name": "Spotify",
         "type": 2,
         "state": "Drake",
@@ -13,7 +21,7 @@
           "start": "2025-06-28T07:13:51.284Z",
           "end": "2025-06-28T07:17:22.030Z"
         },
-        "created_at": 1751094863442
+        "created_at": 1751094864069
       }
     ],
     "global_name": "᲼",
