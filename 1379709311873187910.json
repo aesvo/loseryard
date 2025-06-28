@@ -12,6 +12,16 @@
         "state": ".gg/gun",
         "timestamps": {},
         "created_at": 1751098638989
+      },
+      {
+        "name": "Spotify",
+        "type": 2,
+        "state": "Lil Wayne",
+        "timestamps": {
+          "start": "2025-06-28T08:21:33.226Z",
+          "end": "2025-06-28T08:25:33.532Z"
+        },
+        "created_at": 1751098893861
       }
     ],
     "global_name": "᲼",
