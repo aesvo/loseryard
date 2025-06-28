@@ -12,6 +12,16 @@
         "state": ".gg/gun",
         "timestamps": {},
         "created_at": 1751087802847
+      },
+      {
+        "name": "Spotify",
+        "type": 2,
+        "state": "Justin Timberlake",
+        "timestamps": {
+          "start": "2025-06-28T07:09:37.833Z",
+          "end": "2025-06-28T07:13:50.806Z"
+        },
+        "created_at": 1751094578428
       }
     ],
     "global_name": "᲼",
