@@ -4,26 +4,7 @@
     "username": "81yb",
     "avatar": "https://cdn.discordapp.com/avatars/1379709311873187910/ec6760a1efcd8a786a7394d97094d04c.png",
     "discord_status": "online",
-    "activities": [
-      {
-        "id": "custom",
-        "name": "Custom Status",
-        "type": 4,
-        "state": ".gg/gun",
-        "timestamps": {},
-        "created_at": 1751094649688
-      },
-      {
-        "name": "Spotify",
-        "type": 2,
-        "state": "Justin Timberlake",
-        "timestamps": {
-          "start": "2025-06-28T07:09:37.833Z",
-          "end": "2025-06-28T07:13:50.806Z"
-        },
-        "created_at": 1751094649688
-      }
-    ],
+    "activities": [],
     "global_name": "᲼",
     "display_name": "᲼"
   }
