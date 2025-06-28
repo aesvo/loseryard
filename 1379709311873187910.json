@@ -14,6 +14,16 @@
         "created_at": 1751100799165
       },
       {
+        "name": "Grand Theft Auto V",
+        "type": 0,
+        "state": null,
+        "timestamps": {
+          "start": "2025-06-28T10:07:16.170Z",
+          "end": null
+        },
+        "created_at": 1751105236596
+      },
+      {
         "name": "Spotify",
         "type": 2,
         "state": "PinkPantheress",
