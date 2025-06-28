@@ -11,7 +11,17 @@
         "type": 4,
         "state": ".gg/gun",
         "timestamps": {},
-        "created_at": 1751100799165
+        "created_at": 1751107854685
+      },
+      {
+        "name": "Spotify",
+        "type": 2,
+        "state": "A$AP Rocky; Imogen Heap; Clams Casino",
+        "timestamps": {
+          "start": "2025-06-28T10:48:31.634Z",
+          "end": "2025-06-28T10:51:41.919Z"
+        },
+        "created_at": 1751107854842
       }
     ],
     "global_name": "᲼",
