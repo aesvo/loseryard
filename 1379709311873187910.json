@@ -11,17 +11,17 @@
         "type": 4,
         "state": ".gg/gun",
         "timestamps": {},
-        "created_at": 1751098232169
+        "created_at": 1751098638989
       },
       {
         "name": "Spotify",
         "type": 2,
         "state": "Jeremih",
         "timestamps": {
-          "start": "2025-06-28T08:16:59.430Z",
-          "end": "2025-06-28T08:20:45.936Z"
+          "start": "2025-06-28T08:17:15.803Z",
+          "end": "2025-06-28T08:21:02.309Z"
         },
-        "created_at": 1751098620180
+        "created_at": 1751098638989
       }
     ],
     "global_name": "᲼",
