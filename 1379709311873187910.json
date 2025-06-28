@@ -12,6 +12,16 @@
         "state": ".gg/gun",
         "timestamps": {},
         "created_at": 1751109236624
+      },
+      {
+        "name": "Spotify",
+        "type": 2,
+        "state": "Addison Rae",
+        "timestamps": {
+          "start": "2025-06-28T11:12:47.563Z",
+          "end": "2025-06-28T11:15:50.800Z"
+        },
+        "created_at": 1751109237146
       }
     ],
     "global_name": "᲼",
