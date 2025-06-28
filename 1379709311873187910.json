@@ -12,6 +12,16 @@
         "state": ".gg/gun",
         "timestamps": {},
         "created_at": 1751100799165
+      },
+      {
+        "name": "Spotify",
+        "type": 2,
+        "state": "Mac DeMarco",
+        "timestamps": {
+          "start": "2025-06-28T10:21:16.510Z",
+          "end": "2025-06-28T10:24:47.650Z"
+        },
+        "created_at": 1751106077274
       }
     ],
     "global_name": "᲼",
