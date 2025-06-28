@@ -12,6 +12,16 @@
         "state": ".gg/gun",
         "timestamps": {},
         "created_at": 1751096458545
+      },
+      {
+        "name": "Spotify",
+        "type": 2,
+        "state": "Ne-Yo",
+        "timestamps": {
+          "start": "2025-06-28T07:45:48.605Z",
+          "end": "2025-06-28T07:49:42.965Z"
+        },
+        "created_at": 1751096749315
       }
     ],
     "global_name": "᲼",
