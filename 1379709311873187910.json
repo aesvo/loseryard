@@ -14,16 +14,6 @@
         "created_at": 1751100799165
       },
       {
-        "name": "Cash RP | Status",
-        "type": 0,
-        "state": "1/5 Players",
-        "timestamps": {
-          "start": "2025-06-28T10:12:00.000Z",
-          "end": null
-        },
-        "created_at": 1751105642841
-      },
-      {
         "name": "Spotify",
         "type": 2,
         "state": "beabadoobee",
