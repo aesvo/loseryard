@@ -12,6 +12,16 @@
         "state": ".gg/gun",
         "timestamps": {},
         "created_at": 1751100799165
+      },
+      {
+        "name": "Spotify",
+        "type": 2,
+        "state": "PinkPantheress",
+        "timestamps": {
+          "start": "2025-06-28T11:04:27.418Z",
+          "end": "2025-06-28T11:06:03.551Z"
+        },
+        "created_at": 1751108668407
       }
     ],
     "global_name": "᲼",
