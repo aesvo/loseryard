@@ -12,6 +12,16 @@
         "state": ".gg/gun",
         "timestamps": {},
         "created_at": 1751089404203
+      },
+      {
+        "name": "Spotify",
+        "type": 2,
+        "state": "Chris Brown; T-Pain",
+        "timestamps": {
+          "start": "2025-06-28T06:55:57.300Z",
+          "end": "2025-06-28T07:00:07.966Z"
+        },
+        "created_at": 1751093757818
       }
     ],
     "global_name": "᲼",
