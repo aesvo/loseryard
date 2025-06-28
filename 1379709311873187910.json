@@ -11,17 +11,17 @@
         "type": 4,
         "state": ".gg/gun",
         "timestamps": {},
-        "created_at": 1751098146452
+        "created_at": 1751098232169
       },
       {
         "name": "Spotify",
         "type": 2,
         "state": "Drake",
         "timestamps": {
-          "start": "2025-06-28T08:09:16.726Z",
-          "end": "2025-06-28T08:13:17.749Z"
+          "start": "2025-06-28T08:09:16.922Z",
+          "end": "2025-06-28T08:13:17.945Z"
         },
-        "created_at": 1751098157148
+        "created_at": 1751098232885
       }
     ],
     "global_name": "᲼",
