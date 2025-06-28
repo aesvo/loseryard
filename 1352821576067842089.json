@@ -4,26 +4,7 @@
     "username": "overfunds",
     "avatar": "https://cdn.discordapp.com/avatars/1352821576067842089/f532d39b62d3e643c711224fecb62033.png",
     "discord_status": "online",
-    "activities": [
-      {
-        "id": "custom",
-        "name": "Custom Status",
-        "type": 4,
-        "state": ".gg/lavishRP",
-        "timestamps": {},
-        "created_at": 1751094855374
-      },
-      {
-        "name": "Spotify",
-        "type": 2,
-        "state": "Drake",
-        "timestamps": {
-          "start": "2025-06-28T07:13:51.284Z",
-          "end": "2025-06-28T07:17:22.030Z"
-        },
-        "created_at": 1751094855413
-      }
-    ],
+    "activities": [],
     "global_name": "ccccccc",
     "display_name": "ccccccc"
   }
