@@ -12,6 +12,16 @@
         "state": ".gg/gun",
         "timestamps": {},
         "created_at": 1751100799165
+      },
+      {
+        "name": "Spotify",
+        "type": 2,
+        "state": "Tyler, The Creator; Lola Young",
+        "timestamps": {
+          "start": "2025-06-28T09:53:11.076Z",
+          "end": "2025-06-28T09:57:49.090Z"
+        },
+        "created_at": 1751104391787
       }
     ],
     "global_name": "᲼",
