@@ -12,6 +12,16 @@
         "state": ".gg/gun",
         "timestamps": {},
         "created_at": 1751089404203
+      },
+      {
+        "name": "Spotify",
+        "type": 2,
+        "state": "Dem Franchize Boyz; Lloyd",
+        "timestamps": {
+          "start": "2025-06-28T06:46:52.319Z",
+          "end": "2025-06-28T06:51:12.639Z"
+        },
+        "created_at": 1751093386282
       }
     ],
     "global_name": "᲼",
