@@ -12,6 +12,16 @@
         "state": ".gg/gun",
         "timestamps": {},
         "created_at": 1751094864069
+      },
+      {
+        "name": "Spotify",
+        "type": 2,
+        "state": "USHER; Lil Jon; Ludacris",
+        "timestamps": {
+          "start": "2025-06-28T07:23:06.855Z",
+          "end": "2025-06-28T07:27:17.228Z"
+        },
+        "created_at": 1751095387420
       }
     ],
     "global_name": "᲼",
