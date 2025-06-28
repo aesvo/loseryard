@@ -12,6 +12,16 @@
         "state": ".gg/gun",
         "timestamps": {},
         "created_at": 1751100799165
+      },
+      {
+        "name": "Spotify",
+        "type": 2,
+        "state": "Frou Frou; Imogen Heap; Guy Sigsworth",
+        "timestamps": {
+          "start": "2025-06-28T10:02:35.527Z",
+          "end": "2025-06-28T10:06:54.598Z"
+        },
+        "created_at": 1751104956355
       }
     ],
     "global_name": "᲼",
