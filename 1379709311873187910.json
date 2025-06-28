@@ -6,6 +6,14 @@
     "discord_status": "online",
     "activities": [
       {
+        "id": "custom",
+        "name": "Custom Status",
+        "type": 4,
+        "state": ".gg/gun",
+        "timestamps": {},
+        "created_at": 1751094649688
+      },
+      {
         "name": "Spotify",
         "type": 2,
         "state": "Justin Timberlake",
@@ -13,7 +21,7 @@
           "start": "2025-06-28T07:09:37.833Z",
           "end": "2025-06-28T07:13:50.806Z"
         },
-        "created_at": 1751094649105
+        "created_at": 1751094649688
       }
     ],
     "global_name": "᲼",
