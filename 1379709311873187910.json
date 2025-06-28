@@ -12,16 +12,6 @@
         "state": ".gg/gun",
         "timestamps": {},
         "created_at": 1751100799165
-      },
-      {
-        "name": "Spotify",
-        "type": 2,
-        "state": "Black Eyed Peas",
-        "timestamps": {
-          "start": "2025-06-28T10:17:19.779Z",
-          "end": "2025-06-28T10:21:48.619Z"
-        },
-        "created_at": 1751105840495
       }
     ],
     "global_name": "᲼",
