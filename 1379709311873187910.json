@@ -14,6 +14,16 @@
         "created_at": 1751164928703
       },
       {
+        "name": "Grand Theft Auto V",
+        "type": 0,
+        "state": null,
+        "timestamps": {
+          "start": "2025-06-29T02:44:07.641Z",
+          "end": null
+        },
+        "created_at": 1751165048631
+      },
+      {
         "name": "Spotify",
         "type": 2,
         "state": "Kali Uchis",
@@ -22,16 +32,6 @@
           "end": "2025-06-29T02:46:52.330Z"
         },
         "created_at": 1751165025871
-      },
-      {
-        "name": "Grand Theft Auto V",
-        "type": 0,
-        "state": null,
-        "timestamps": {
-          "start": "2025-06-29T02:42:47.453Z",
-          "end": null
-        },
-        "created_at": 1751164968438
       }
     ],
     "global_name": "᲼",
