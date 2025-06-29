@@ -3,7 +3,7 @@
     "id": "1379709311873187910",
     "username": "81yb",
     "avatar": "https://cdn.discordapp.com/avatars/1379709311873187910/ec6760a1efcd8a786a7394d97094d04c.png",
-    "discord_status": "idle",
+    "discord_status": "online",
     "activities": [
       {
         "id": "custom",
@@ -12,6 +12,16 @@
         "state": ".gg/gun",
         "timestamps": {},
         "created_at": 1751154420948
+      },
+      {
+        "name": "Spotify",
+        "type": 2,
+        "state": "Ravyn Lenae; Rex Orange County",
+        "timestamps": {
+          "start": "2025-06-29T01:26:13.091Z",
+          "end": "2025-06-29T01:29:21.289Z"
+        },
+        "created_at": 1751160529507
       },
       {
         "name": "FiveM",
