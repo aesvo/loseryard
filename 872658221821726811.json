@@ -14,6 +14,16 @@
         "created_at": 1751155905084
       },
       {
+        "name": "Code",
+        "type": 0,
+        "state": "Working on index.html:1,211:8",
+        "timestamps": {
+          "start": "2025-06-29T06:27:09.327Z",
+          "end": null
+        },
+        "created_at": 1751178435216
+      },
+      {
         "name": "Visual Studio Code",
         "type": 0,
         "state": "Workspace: No workspace",
