@@ -21,7 +21,7 @@
           "start": "2025-06-29T02:44:35.000Z",
           "end": null
         },
-        "created_at": 1751165191376
+        "created_at": 1751165200876
       },
       {
         "name": "Grand Theft Auto V",
@@ -36,12 +36,12 @@
       {
         "name": "Spotify",
         "type": 2,
-        "state": "Kali Uchis",
+        "state": "TV Girl",
         "timestamps": {
-          "start": "2025-06-29T02:43:44.607Z",
-          "end": "2025-06-29T02:46:52.330Z"
+          "start": "2025-06-29T02:46:52.828Z",
+          "end": "2025-06-29T02:49:40.692Z"
         },
-        "created_at": 1751165025871
+        "created_at": 1751165214240
       }
     ],
     "global_name": "᲼",
