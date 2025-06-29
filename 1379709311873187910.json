@@ -14,16 +14,6 @@
         "created_at": 1751154420948
       },
       {
-        "name": "Spotify",
-        "type": 2,
-        "state": "Faye Webster",
-        "timestamps": {
-          "start": "2025-06-29T00:50:30.676Z",
-          "end": "2025-06-29T00:54:42.342Z"
-        },
-        "created_at": 1751158231844
-      },
-      {
         "name": "MiGhettoRZ",
         "type": 0,
         "state": "[143/200] Players",
