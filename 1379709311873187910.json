@@ -18,20 +18,20 @@
         "type": 2,
         "state": "Steve Lacy",
         "timestamps": {
-          "start": "2025-06-29T03:47:18.018Z",
-          "end": "2025-06-29T03:50:11.122Z"
+          "start": "2025-06-29T03:47:18.884Z",
+          "end": "2025-06-29T03:50:11.988Z"
         },
-        "created_at": 1751168839451
+        "created_at": 1751168839524
       },
       {
         "name": "MiGhettoRZ",
         "type": 0,
-        "state": "[101/200] Players",
+        "state": "[98/200] Players",
         "timestamps": {
           "start": "2025-06-29T02:44:35.000Z",
           "end": null
         },
-        "created_at": 1751168792794
+        "created_at": 1751168852803
       },
       {
         "name": "Grand Theft Auto V",
