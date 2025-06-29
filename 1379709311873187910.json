@@ -26,12 +26,12 @@
       {
         "name": "Spotify",
         "type": 2,
-        "state": "Cafuné",
+        "state": "Vacations",
         "timestamps": {
-          "start": "2025-06-29T00:17:18.522Z",
-          "end": "2025-06-29T00:20:30.345Z"
+          "start": "2025-06-29T00:20:30.813Z",
+          "end": "2025-06-29T00:24:03.245Z"
         },
-        "created_at": 1751156239729
+        "created_at": 1751156431994
       },
       {
         "name": "Grand Theft Auto V",
