@@ -14,16 +14,6 @@
         "created_at": 1751155905084
       },
       {
-        "name": "Spotify",
-        "type": 2,
-        "state": "wifiskeleton; jaydes",
-        "timestamps": {
-          "start": "2025-06-29T05:02:23.191Z",
-          "end": "2025-06-29T05:03:45.926Z"
-        },
-        "created_at": 1751173348800
-      },
-      {
         "name": "Code",
         "type": 0,
         "state": "Working on ​​​​:​​:​​",
