@@ -14,16 +14,6 @@
         "created_at": 1751154420948
       },
       {
-        "name": "Spotify",
-        "type": 2,
-        "state": "Childish Gambino",
-        "timestamps": {
-          "start": "2025-06-29T01:41:01.773Z",
-          "end": "2025-06-29T01:45:31.613Z"
-        },
-        "created_at": 1751161263013
-      },
-      {
         "name": "FiveM",
         "type": 0,
         "state": "In the menus",
