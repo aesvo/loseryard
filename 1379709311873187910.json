@@ -14,6 +14,16 @@
         "created_at": 1751154420948
       },
       {
+        "name": "Spotify",
+        "type": 2,
+        "state": "Alex G",
+        "timestamps": {
+          "start": "2025-06-29T01:46:49.704Z",
+          "end": "2025-06-29T01:48:16.797Z"
+        },
+        "created_at": 1751161611191
+      },
+      {
         "name": "FiveM",
         "type": 0,
         "state": "In the menus",
