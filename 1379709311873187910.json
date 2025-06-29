@@ -16,12 +16,12 @@
       {
         "name": "Spotify",
         "type": 2,
-        "state": "The Smiths",
+        "state": "Beach Bunny",
         "timestamps": {
-          "start": "2025-06-29T03:18:46.856Z",
-          "end": "2025-06-29T03:22:22.616Z"
+          "start": "2025-06-29T03:19:36.392Z",
+          "end": "2025-06-29T03:21:52.954Z"
         },
-        "created_at": 1751167129987
+        "created_at": 1751167177810
       },
       {
         "name": "MiGhettoRZ",
