@@ -11,17 +11,17 @@
         "type": 4,
         "state": ".gg/gun",
         "timestamps": {},
-        "created_at": 1751164928703
+        "created_at": 1751167129987
       },
       {
         "name": "Spotify",
         "type": 2,
         "state": "The Smiths",
         "timestamps": {
-          "start": "2025-06-29T03:16:00.613Z",
-          "end": "2025-06-29T03:19:36.373Z"
+          "start": "2025-06-29T03:18:46.856Z",
+          "end": "2025-06-29T03:22:22.616Z"
         },
-        "created_at": 1751166962043
+        "created_at": 1751167129987
       },
       {
         "name": "MiGhettoRZ",
