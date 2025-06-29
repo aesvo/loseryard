@@ -14,16 +14,6 @@
         "created_at": 1751154420948
       },
       {
-        "name": "Spotify",
-        "type": 2,
-        "state": "TV Girl",
-        "timestamps": {
-          "start": "2025-06-29T01:54:16.138Z",
-          "end": "2025-06-29T01:57:35.098Z"
-        },
-        "created_at": 1751162057604
-      },
-      {
         "name": "FiveM",
         "type": 0,
         "state": "In the menus",
