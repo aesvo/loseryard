@@ -36,12 +36,12 @@
       {
         "name": "Spotify",
         "type": 2,
-        "state": "The Neighbourhood",
+        "state": "Magdalena Bay",
         "timestamps": {
-          "start": "2025-06-29T02:49:41.212Z",
-          "end": "2025-06-29T02:54:01.385Z"
+          "start": "2025-06-29T02:54:01.848Z",
+          "end": "2025-06-29T02:58:39.922Z"
         },
-        "created_at": 1751165382571
+        "created_at": 1751165643232
       }
     ],
     "global_name": "᲼",
