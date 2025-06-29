@@ -16,12 +16,12 @@
       {
         "name": "Spotify",
         "type": 2,
-        "state": "Lily Allen",
+        "state": "Laufey",
         "timestamps": {
-          "start": "2025-06-29T03:56:22.079Z",
-          "end": "2025-06-29T03:59:38.972Z"
+          "start": "2025-06-29T03:59:39.400Z",
+          "end": "2025-06-29T04:03:33.666Z"
         },
-        "created_at": 1751169383556
+        "created_at": 1751169580895
       },
       {
         "name": "MiGhettoRZ",
