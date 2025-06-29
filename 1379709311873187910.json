@@ -14,16 +14,6 @@
         "created_at": 1751154420948
       },
       {
-        "name": "Spotify",
-        "type": 2,
-        "state": "Janet Jackson",
-        "timestamps": {
-          "start": "2025-06-29T00:26:54.267Z",
-          "end": "2025-06-29T00:31:26.627Z"
-        },
-        "created_at": 1751156815429
-      },
-      {
         "name": "MiGhettoRZ",
         "type": 0,
         "state": "[137/200] Players",
