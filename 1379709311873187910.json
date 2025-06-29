@@ -18,20 +18,20 @@
         "type": 2,
         "state": "Pinegrove",
         "timestamps": {
-          "start": "2025-06-29T03:21:53.437Z",
-          "end": "2025-06-29T03:25:05.233Z"
+          "start": "2025-06-29T03:21:54.223Z",
+          "end": "2025-06-29T03:25:06.019Z"
         },
-        "created_at": 1751167314823
+        "created_at": 1751167314881
       },
       {
         "name": "MiGhettoRZ",
         "type": 0,
-        "state": "[126/200] Players",
+        "state": "[123/200] Players",
         "timestamps": {
           "start": "2025-06-29T02:44:35.000Z",
           "end": null
         },
-        "created_at": 1751167292196
+        "created_at": 1751167352211
       },
       {
         "name": "Grand Theft Auto V",
