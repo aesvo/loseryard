@@ -14,16 +14,6 @@
         "created_at": 1751164928703
       },
       {
-        "name": "Spotify",
-        "type": 2,
-        "state": "yungatita",
-        "timestamps": {
-          "start": "2025-06-29T03:32:42.467Z",
-          "end": "2025-06-29T03:35:56.467Z"
-        },
-        "created_at": 1751167963890
-      },
-      {
         "name": "MiGhettoRZ",
         "type": 0,
         "state": "[105/200] Players",
