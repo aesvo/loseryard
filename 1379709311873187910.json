@@ -11,17 +11,17 @@
         "type": 4,
         "state": ".gg/gun",
         "timestamps": {},
-        "created_at": 1751164928703
+        "created_at": 1751168830905
       },
       {
         "name": "Spotify",
         "type": 2,
         "state": "Surf Curse",
         "timestamps": {
-          "start": "2025-06-29T03:44:44.801Z",
-          "end": "2025-06-29T03:47:17.561Z"
+          "start": "2025-06-29T03:44:45.575Z",
+          "end": "2025-06-29T03:47:18.335Z"
         },
-        "created_at": 1751168686245
+        "created_at": 1751168830905
       },
       {
         "name": "MiGhettoRZ",
