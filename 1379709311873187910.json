@@ -21,7 +21,7 @@
           "start": "2025-06-29T04:22:58.000Z",
           "end": null
         },
-        "created_at": 1751170980088
+        "created_at": 1751170980151
       },
       {
         "name": "Grand Theft Auto V",
@@ -32,16 +32,6 @@
           "end": null
         },
         "created_at": 1751170953470
-      },
-      {
-        "name": "Spotify",
-        "type": 2,
-        "state": "Cigarettes After Sex",
-        "timestamps": {
-          "start": "2025-06-29T04:21:51.815Z",
-          "end": "2025-06-29T04:25:26.455Z"
-        },
-        "created_at": 1751170913255
       }
     ],
     "global_name": "᲼",
