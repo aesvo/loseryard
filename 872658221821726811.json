@@ -14,6 +14,16 @@
         "created_at": 1751155905084
       },
       {
+        "name": "Spotify",
+        "type": 2,
+        "state": "Chuckyy",
+        "timestamps": {
+          "start": "2025-06-29T04:37:58.708Z",
+          "end": "2025-06-29T04:40:36.687Z"
+        },
+        "created_at": 1751171884375
+      },
+      {
         "name": "Code",
         "type": 0,
         "state": null,
@@ -21,7 +31,7 @@
           "start": "2025-06-29T04:25:30.481Z",
           "end": null
         },
-        "created_at": 1751171615174
+        "created_at": 1751171869838
       },
       {
         "name": "Visual Studio Code",
@@ -31,7 +41,7 @@
           "start": "2025-06-29T04:25:27.599Z",
           "end": null
         },
-        "created_at": 1751171597017
+        "created_at": 1751171628344
       }
     ],
     "global_name": "3",
