@@ -16,12 +16,12 @@
       {
         "name": "Spotify",
         "type": 2,
-        "state": "Beach Bunny",
+        "state": "Pinegrove",
         "timestamps": {
-          "start": "2025-06-29T03:19:37.181Z",
-          "end": "2025-06-29T03:21:53.743Z"
+          "start": "2025-06-29T03:21:53.437Z",
+          "end": "2025-06-29T03:25:05.233Z"
         },
-        "created_at": 1751167177869
+        "created_at": 1751167314823
       },
       {
         "name": "MiGhettoRZ",
