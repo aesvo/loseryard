@@ -16,12 +16,12 @@
       {
         "name": "Spotify",
         "type": 2,
-        "state": "Clairo",
+        "state": "Current Joys",
         "timestamps": {
-          "start": "2025-06-29T04:08:10.166Z",
-          "end": "2025-06-29T04:11:08.518Z"
+          "start": "2025-06-29T04:11:09.057Z",
+          "end": "2025-06-29T04:15:38.199Z"
         },
-        "created_at": 1751170091619
+        "created_at": 1751170270576
       },
       {
         "name": "MiGhettoRZ",
