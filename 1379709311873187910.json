@@ -14,6 +14,16 @@
         "created_at": 1751164928703
       },
       {
+        "name": "Spotify",
+        "type": 2,
+        "state": "Lily Allen",
+        "timestamps": {
+          "start": "2025-06-29T03:56:22.079Z",
+          "end": "2025-06-29T03:59:38.972Z"
+        },
+        "created_at": 1751169383556
+      },
+      {
         "name": "MiGhettoRZ",
         "type": 0,
         "state": "[99/200] Players",
