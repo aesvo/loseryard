@@ -16,12 +16,12 @@
       {
         "name": "Spotify",
         "type": 2,
-        "state": "Eyedress",
+        "state": "The Neighbourhood",
         "timestamps": {
-          "start": "2025-06-29T02:22:07.692Z",
-          "end": "2025-06-29T02:23:34.431Z"
+          "start": "2025-06-29T02:23:33.477Z",
+          "end": "2025-06-29T02:26:06.477Z"
         },
-        "created_at": 1751163729087
+        "created_at": 1751163814948
       },
       {
         "name": "MiGhettoRZ",
