@@ -16,12 +16,12 @@
       {
         "name": "Spotify",
         "type": 2,
-        "state": "LOVELI LORI; ovg!",
+        "state": "Alex G",
         "timestamps": {
-          "start": "2025-06-29T00:56:00.243Z",
-          "end": "2025-06-29T00:59:20.399Z"
+          "start": "2025-06-29T00:59:20.960Z",
+          "end": "2025-06-29T01:02:17.106Z"
         },
-        "created_at": 1751158561439
+        "created_at": 1751158762206
       },
       {
         "name": "MiGhettoRZ",
@@ -31,7 +31,7 @@
           "start": "2025-06-29T00:14:40.000Z",
           "end": null
         },
-        "created_at": 1751158708480
+        "created_at": 1751158729845
       },
       {
         "name": "Grand Theft Auto V",
