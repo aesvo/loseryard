@@ -14,16 +14,6 @@
         "created_at": 1751155905084
       },
       {
-        "name": "Spotify",
-        "type": 2,
-        "state": "Pimmie; PARTYNEXTDOOR; Drake",
-        "timestamps": {
-          "start": "2025-06-29T05:05:04.350Z",
-          "end": "2025-06-29T05:07:02.503Z"
-        },
-        "created_at": 1751173509939
-      },
-      {
         "name": "Code",
         "type": 0,
         "state": "Working on index.html:934:13",
