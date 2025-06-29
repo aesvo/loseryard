@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Roblox Profile Card</title>
+  <style>
+    body {
+      font-family: sans-serif;
+      background: #f2f2f2;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 100vh;
+      margin: 0;
+    }
+    .card {
+      background: white;
+      border-radius: 10px;
+      box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+      width: 300px;
+      padding: 20px;
+      text-align: center;
+    }
+    .avatar {
+      border-radius: 50%;
+      width: 150px;
+      height: 150px;
+      margin-bottom: 15px;
+    }
+    .username {
+      color: gray;
+      margin: 0;
+    }
+  </style>
+</head>
+<body>
+
+<div class="card" id="profileCard">
+  <img id="avatar" class="avatar" src="" alt="Avatar">
+  <h2 id="displayName">Loading...</h2>
+  <p class="username" id="userName">@loading</p>
+</div>
+
+<script>
+  const userId = 7318927972;
+
+  fetch(`https://corsproxy.io/?https://users.roblox.com/v1/users/${userId}`)
+    .then(res => res.json())
+    .then(user => {
+      document.getElementById('displayName').textContent = user.displayName;
+      document.getElementById('userName').textContent = '@' + user.name;
+    });
+
+  fetch(`https://corsproxy.io/?https://thumbnails.roblox.com/v1/users/avatar-headshot?userIds=${userId}&size=150x150&format=Png&isCircular=true`)
+    .then(res => res.json())
+    .then(data => {
+      const imgUrl = data.data[0].imageUrl;
+      document.getElementById('avatar').src = imgUrl;
+    });
+</script>
+
+</body>
+</html>
