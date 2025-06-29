@@ -14,16 +14,6 @@
         "created_at": 1751154420948
       },
       {
-        "name": "Spotify",
-        "type": 2,
-        "state": "bôa",
-        "timestamps": {
-          "start": "2025-06-29T01:29:22.454Z",
-          "end": "2025-06-29T01:32:25.246Z"
-        },
-        "created_at": 1751160563700
-      },
-      {
         "name": "FiveM",
         "type": 0,
         "state": "In the menus",
