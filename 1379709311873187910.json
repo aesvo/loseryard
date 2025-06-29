@@ -14,16 +14,6 @@
         "created_at": 1751154420948
       },
       {
-        "name": "Spotify",
-        "type": 2,
-        "state": "Faye Webster",
-        "timestamps": {
-          "start": "2025-06-29T01:14:24.768Z",
-          "end": "2025-06-29T01:18:09.448Z"
-        },
-        "created_at": 1751159665972
-      },
-      {
         "name": "FiveM",
         "type": 0,
         "state": "In the menus",
