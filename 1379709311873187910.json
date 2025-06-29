@@ -11,17 +11,17 @@
         "type": 4,
         "state": ".gg/gun",
         "timestamps": {},
-        "created_at": 1751164928703
+        "created_at": 1751165312167
       },
       {
         "name": "MiGhettoRZ",
         "type": 0,
-        "state": "[123/200] Players",
+        "state": "[126/200] Players",
         "timestamps": {
           "start": "2025-06-29T02:44:35.000Z",
           "end": null
         },
-        "created_at": 1751165311396
+        "created_at": 1751165371420
       },
       {
         "name": "Grand Theft Auto V",
@@ -38,10 +38,10 @@
         "type": 2,
         "state": "TV Girl",
         "timestamps": {
-          "start": "2025-06-29T02:46:52.828Z",
-          "end": "2025-06-29T02:49:40.692Z"
+          "start": "2025-06-29T02:46:53.614Z",
+          "end": "2025-06-29T02:49:41.478Z"
         },
-        "created_at": 1751165214240
+        "created_at": 1751165312368
       }
     ],
     "global_name": "᲼",
