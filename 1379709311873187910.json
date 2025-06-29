@@ -11,17 +11,17 @@
         "type": 4,
         "state": ".gg/gun",
         "timestamps": {},
-        "created_at": 1751164928703
+        "created_at": 1751166292897
       },
       {
         "name": "Spotify",
         "type": 2,
         "state": "Childish Gambino",
         "timestamps": {
-          "start": "2025-06-29T02:59:56.570Z",
-          "end": "2025-06-29T03:06:15.796Z"
+          "start": "2025-06-29T02:59:57.332Z",
+          "end": "2025-06-29T03:06:16.558Z"
         },
-        "created_at": 1751165998019
+        "created_at": 1751166292897
       },
       {
         "name": "MiGhettoRZ",
