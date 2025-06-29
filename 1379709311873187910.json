@@ -14,6 +14,16 @@
         "created_at": 1751154420948
       },
       {
+        "name": "Spotify",
+        "type": 2,
+        "state": "Laufey",
+        "timestamps": {
+          "start": "2025-06-29T00:40:17.246Z",
+          "end": "2025-06-29T00:43:10.886Z"
+        },
+        "created_at": 1751157618376
+      },
+      {
         "name": "MiGhettoRZ",
         "type": 0,
         "state": "[143/200] Players",
