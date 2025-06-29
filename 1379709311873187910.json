@@ -14,16 +14,6 @@
         "created_at": 1751164928703
       },
       {
-        "name": "Spotify",
-        "type": 2,
-        "state": "The Cardigans",
-        "timestamps": {
-          "start": "2025-06-29T02:39:14.701Z",
-          "end": "2025-06-29T02:42:28.654Z"
-        },
-        "created_at": 1751164940581
-      },
-      {
         "name": "FiveM",
         "type": 0,
         "state": "In the menus",
