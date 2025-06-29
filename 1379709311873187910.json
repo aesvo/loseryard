@@ -18,20 +18,20 @@
         "type": 2,
         "state": "Gigi Perez",
         "timestamps": {
-          "start": "2025-06-29T03:40:12.120Z",
-          "end": "2025-06-29T03:43:44.098Z"
+          "start": "2025-06-29T03:40:11.347Z",
+          "end": "2025-06-29T03:43:43.325Z"
         },
-        "created_at": 1751168412928
+        "created_at": 1751168412936
       },
       {
         "name": "MiGhettoRZ",
         "type": 0,
-        "state": "[101/200] Players",
+        "state": "[98/200] Players",
         "timestamps": {
           "start": "2025-06-29T02:44:35.000Z",
           "end": null
         },
-        "created_at": 1751168372617
+        "created_at": 1751168432647
       },
       {
         "name": "Grand Theft Auto V",
