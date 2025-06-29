@@ -14,6 +14,16 @@
         "created_at": 1751154420948
       },
       {
+        "name": "Spotify",
+        "type": 2,
+        "state": "Julie Doiron",
+        "timestamps": {
+          "start": "2025-06-29T00:32:43.999Z",
+          "end": "2025-06-29T00:35:41.999Z"
+        },
+        "created_at": 1751157165228
+      },
+      {
         "name": "MiGhettoRZ",
         "type": 0,
         "state": "[137/200] Players",
