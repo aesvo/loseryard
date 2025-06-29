@@ -14,16 +14,6 @@
         "created_at": 1751164928703
       },
       {
-        "name": "Spotify",
-        "type": 2,
-        "state": "Mitski",
-        "timestamps": {
-          "start": "2025-06-29T03:52:55.570Z",
-          "end": "2025-06-29T03:55:13.343Z"
-        },
-        "created_at": 1751169177178
-      },
-      {
         "name": "MiGhettoRZ",
         "type": 0,
         "state": "[97/200] Players",
