@@ -14,16 +14,6 @@
         "created_at": 1751164928703
       },
       {
-        "name": "Spotify",
-        "type": 2,
-        "state": "Suki Waterhouse",
-        "timestamps": {
-          "start": "2025-06-29T04:03:34.137Z",
-          "end": "2025-06-29T04:07:08.937Z"
-        },
-        "created_at": 1751169815639
-      },
-      {
         "name": "MiGhettoRZ",
         "type": 0,
         "state": "[110/200] Players",
