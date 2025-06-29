@@ -14,6 +14,16 @@
         "created_at": 1751166534596
       },
       {
+        "name": "Spotify",
+        "type": 2,
+        "state": "Alex G",
+        "timestamps": {
+          "start": "2025-06-29T03:10:48.186Z",
+          "end": "2025-06-29T03:12:26.759Z"
+        },
+        "created_at": 1751166649652
+      },
+      {
         "name": "MiGhettoRZ",
         "type": 0,
         "state": "[132/200] Players",
