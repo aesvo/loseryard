@@ -14,6 +14,16 @@
         "created_at": 1751154420948
       },
       {
+        "name": "Spotify",
+        "type": 2,
+        "state": "Lady Gaga",
+        "timestamps": {
+          "start": "2025-06-29T01:33:27.561Z",
+          "end": "2025-06-29T01:37:40.107Z"
+        },
+        "created_at": 1751160808795
+      },
+      {
         "name": "FiveM",
         "type": 0,
         "state": "In the menus",
