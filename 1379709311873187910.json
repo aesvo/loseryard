@@ -3,7 +3,7 @@
     "id": "1379709311873187910",
     "username": "81yb",
     "avatar": "https://cdn.discordapp.com/avatars/1379709311873187910/ec6760a1efcd8a786a7394d97094d04c.png",
-    "discord_status": "online",
+    "discord_status": "idle",
     "activities": [
       {
         "id": "custom",
@@ -12,16 +12,6 @@
         "state": ".gg/gun",
         "timestamps": {},
         "created_at": 1751154420948
-      },
-      {
-        "name": "Spotify",
-        "type": 2,
-        "state": "Alex G; Emily Yacina",
-        "timestamps": {
-          "start": "2025-06-29T01:22:26.254Z",
-          "end": "2025-06-29T01:25:05.055Z"
-        },
-        "created_at": 1751160147473
       },
       {
         "name": "FiveM",
