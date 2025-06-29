@@ -32,16 +32,6 @@
           "end": null
         },
         "created_at": 1751163308855
-      },
-      {
-        "name": "Spotify",
-        "type": 2,
-        "state": "TV Girl",
-        "timestamps": {
-          "start": "2025-06-29T02:17:24.011Z",
-          "end": "2025-06-29T02:20:57.931Z"
-        },
-        "created_at": 1751163445411
       }
     ],
     "global_name": "᲼",
