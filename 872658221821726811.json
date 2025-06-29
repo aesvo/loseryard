@@ -14,16 +14,6 @@
         "created_at": 1751155905084
       },
       {
-        "name": "Spotify",
-        "type": 2,
-        "state": "The Goo Goo Dolls",
-        "timestamps": {
-          "start": "2025-06-29T04:52:16.108Z",
-          "end": "2025-06-29T04:57:05.641Z"
-        },
-        "created_at": 1751172751887
-      },
-      {
         "name": "Code",
         "type": 0,
         "state": null,
