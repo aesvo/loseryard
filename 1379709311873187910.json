@@ -24,16 +24,6 @@
         "created_at": 1751156427366
       },
       {
-        "name": "Spotify",
-        "type": 2,
-        "state": "Vacations",
-        "timestamps": {
-          "start": "2025-06-29T00:20:30.813Z",
-          "end": "2025-06-29T00:24:03.245Z"
-        },
-        "created_at": 1751156431994
-      },
-      {
         "name": "Grand Theft Auto V",
         "type": 0,
         "state": null,
