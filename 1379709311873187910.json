@@ -14,6 +14,16 @@
         "created_at": 1751168189658
       },
       {
+        "name": "Spotify",
+        "type": 2,
+        "state": "BJ Lips; princess paparazzi; BJ Lips HDD",
+        "timestamps": {
+          "start": "2025-06-29T03:36:43.279Z",
+          "end": "2025-06-29T03:40:10.846Z"
+        },
+        "created_at": 1751168204719
+      },
+      {
         "name": "MiGhettoRZ",
         "type": 0,
         "state": "[108/200] Players",
