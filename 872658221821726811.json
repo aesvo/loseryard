@@ -14,16 +14,6 @@
         "created_at": 1751155905084
       },
       {
-        "name": "Spotify",
-        "type": 2,
-        "state": "Chuckyy",
-        "timestamps": {
-          "start": "2025-06-29T04:37:58.708Z",
-          "end": "2025-06-29T04:40:36.687Z"
-        },
-        "created_at": 1751171884375
-      },
-      {
         "name": "Code",
         "type": 0,
         "state": null,
