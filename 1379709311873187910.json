@@ -14,6 +14,16 @@
         "created_at": 1751154420948
       },
       {
+        "name": "Spotify",
+        "type": 2,
+        "state": "Tame Impala",
+        "timestamps": {
+          "start": "2025-06-29T02:31:33.479Z",
+          "end": "2025-06-29T02:35:31.279Z"
+        },
+        "created_at": 1751164294881
+      },
+      {
         "name": "MiGhettoRZ",
         "type": 0,
         "state": "[104/200] Players",
