@@ -14,16 +14,6 @@
         "created_at": 1751166534596
       },
       {
-        "name": "Spotify",
-        "type": 2,
-        "state": "Tyler, The Creator",
-        "timestamps": {
-          "start": "2025-06-29T03:06:17.152Z",
-          "end": "2025-06-29T03:09:32.472Z"
-        },
-        "created_at": 1751166535467
-      },
-      {
         "name": "MiGhettoRZ",
         "type": 0,
         "state": "[130/200] Players",
