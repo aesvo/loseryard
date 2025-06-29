@@ -14,6 +14,16 @@
         "created_at": 1751154420948
       },
       {
+        "name": "Spotify",
+        "type": 2,
+        "state": "LOVELI LORI; ovg!",
+        "timestamps": {
+          "start": "2025-06-29T00:56:00.243Z",
+          "end": "2025-06-29T00:59:20.399Z"
+        },
+        "created_at": 1751158561439
+      },
+      {
         "name": "MiGhettoRZ",
         "type": 0,
         "state": "[144/200] Players",
