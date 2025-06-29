@@ -14,6 +14,16 @@
         "created_at": 1751155905084
       },
       {
+        "name": "Spotify",
+        "type": 2,
+        "state": "wifiskeleton; jaydes",
+        "timestamps": {
+          "start": "2025-06-29T05:02:23.191Z",
+          "end": "2025-06-29T05:03:45.926Z"
+        },
+        "created_at": 1751173348800
+      },
+      {
         "name": "Code",
         "type": 0,
         "state": "Working on ​​​​:​​:​​",
@@ -21,7 +31,7 @@
           "start": "2025-06-29T04:25:30.481Z",
           "end": null
         },
-        "created_at": 1751173272381
+        "created_at": 1751173346908
       },
       {
         "name": "Visual Studio Code",
@@ -31,7 +41,7 @@
           "start": "2025-06-29T04:25:27.599Z",
           "end": null
         },
-        "created_at": 1751173266229
+        "created_at": 1751173346908
       }
     ],
     "global_name": "3",
