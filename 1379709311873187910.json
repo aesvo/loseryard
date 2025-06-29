@@ -3,8 +3,37 @@
     "id": "1379709311873187910",
     "username": "81yb",
     "avatar": "https://cdn.discordapp.com/avatars/1379709311873187910/ec6760a1efcd8a786a7394d97094d04c.png",
-    "discord_status": "offline",
-    "activities": [],
+    "discord_status": "online",
+    "activities": [
+      {
+        "id": "custom",
+        "name": "Custom Status",
+        "type": 4,
+        "state": ".gg/gun",
+        "timestamps": {},
+        "created_at": 1751164928703
+      },
+      {
+        "name": "FiveM",
+        "type": 0,
+        "state": "In the menus",
+        "timestamps": {
+          "start": "2025-06-29T02:40:57.000Z",
+          "end": null
+        },
+        "created_at": 1751164928703
+      },
+      {
+        "name": "Grand Theft Auto V",
+        "type": 0,
+        "state": null,
+        "timestamps": {
+          "start": "2025-06-29T02:15:07.899Z",
+          "end": null
+        },
+        "created_at": 1751164928703
+      }
+    ],
     "global_name": "᲼",
     "display_name": "᲼"
   }
