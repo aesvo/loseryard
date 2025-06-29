@@ -16,12 +16,12 @@
       {
         "name": "Spotify",
         "type": 2,
-        "state": "Laufey",
+        "state": "Clams Casino; Imogen Heap",
         "timestamps": {
-          "start": "2025-06-29T00:40:17.246Z",
-          "end": "2025-06-29T00:43:10.886Z"
+          "start": "2025-06-29T00:43:11.400Z",
+          "end": "2025-06-29T00:47:49.110Z"
         },
-        "created_at": 1751157618376
+        "created_at": 1751157792544
       },
       {
         "name": "MiGhettoRZ",
@@ -31,7 +31,7 @@
           "start": "2025-06-29T00:14:40.000Z",
           "end": null
         },
-        "created_at": 1751157747998
+        "created_at": 1751157776053
       },
       {
         "name": "Grand Theft Auto V",
