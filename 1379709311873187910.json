@@ -14,16 +14,6 @@
         "created_at": 1751154420948
       },
       {
-        "name": "Spotify",
-        "type": 2,
-        "state": "mikeeysmind",
-        "timestamps": {
-          "start": "2025-06-29T00:10:32.800Z",
-          "end": "2025-06-29T00:13:35.854Z"
-        },
-        "created_at": 1751155960653
-      },
-      {
         "name": "FiveM",
         "type": 0,
         "state": "In the menus",
