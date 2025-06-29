@@ -14,6 +14,16 @@
         "created_at": 1751154420948
       },
       {
+        "name": "Spotify",
+        "type": 2,
+        "state": "The Marías",
+        "timestamps": {
+          "start": "2025-06-29T01:58:37.422Z",
+          "end": "2025-06-29T02:02:34.328Z"
+        },
+        "created_at": 1751162318684
+      },
+      {
         "name": "FiveM",
         "type": 0,
         "state": "In the menus",
