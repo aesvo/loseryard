@@ -14,16 +14,6 @@
         "created_at": 1751154420948
       },
       {
-        "name": "Spotify",
-        "type": 2,
-        "state": "The Neighbourhood",
-        "timestamps": {
-          "start": "2025-06-29T02:02:34.817Z",
-          "end": "2025-06-29T02:06:01.097Z"
-        },
-        "created_at": 1751162556100
-      },
-      {
         "name": "FiveM",
         "type": 0,
         "state": "In the menus",
