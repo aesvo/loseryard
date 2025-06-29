@@ -14,16 +14,6 @@
         "created_at": 1751154420948
       },
       {
-        "name": "Spotify",
-        "type": 2,
-        "state": "Tyler, The Creator; GloRilla; Sexyy Red; Lil Wayne",
-        "timestamps": {
-          "start": "2025-06-29T02:26:06.951Z",
-          "end": "2025-06-29T02:30:22.866Z"
-        },
-        "created_at": 1751163968398
-      },
-      {
         "name": "MiGhettoRZ",
         "type": 0,
         "state": "[106/200] Players",
