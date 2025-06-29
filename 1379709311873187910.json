@@ -16,12 +16,12 @@
       {
         "name": "𝗦𝗧𝗔𝗧𝗜𝗖 𝗙𝗜𝗩𝗘𝗣𝗗",
         "type": 0,
-        "state": "Going 1 MPH",
+        "state": "Going 2 MPH",
         "timestamps": {
           "start": "2025-06-29T08:13:08.000Z",
           "end": null
         },
-        "created_at": 1751185066117
+        "created_at": 1751185068547
       },
       {
         "name": "Grand Theft Auto V",
