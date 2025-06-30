@@ -3,8 +3,19 @@
     "id": "1352821576067842089",
     "username": "overfunds",
     "avatar": "https://cdn.discordapp.com/avatars/1352821576067842089/f532d39b62d3e643c711224fecb62033.png",
-    "discord_status": "dnd",
-    "activities": [],
+    "discord_status": "online",
+    "activities": [
+      {
+        "name": "Spotify",
+        "type": 2,
+        "state": "The Neighbourhood",
+        "timestamps": {
+          "start": "2025-06-30T09:15:33.883Z",
+          "end": "2025-06-30T09:19:34.283Z"
+        },
+        "created_at": 1751275143765
+      }
+    ],
     "global_name": "ccccccc",
     "display_name": "ccccccc"
   }
