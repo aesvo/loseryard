@@ -12,6 +12,16 @@
         "state": ".gg/guns",
         "timestamps": {},
         "created_at": 1751276013071
+      },
+      {
+        "name": "SilentRP",
+        "type": 0,
+        "state": "0/64 Players 😘",
+        "timestamps": {
+          "start": "2025-06-30T13:17:17.000Z",
+          "end": null
+        },
+        "created_at": 1751289535134
       }
     ],
     "global_name": "᲼",
