@@ -9,9 +9,9 @@
         "id": "custom",
         "name": "Custom Status",
         "type": 4,
-        "state": ".gg/killerrp",
+        "state": null,
         "timestamps": {},
-        "created_at": 1751275204238
+        "created_at": 1751275235590
       },
       {
         "name": "FiveM",
