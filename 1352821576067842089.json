@@ -6,6 +6,14 @@
     "discord_status": "online",
     "activities": [
       {
+        "id": "custom",
+        "name": "Custom Status",
+        "type": 4,
+        "state": ".gg/lavishRP",
+        "timestamps": {},
+        "created_at": 1751275144531
+      },
+      {
         "name": "Spotify",
         "type": 2,
         "state": "The Neighbourhood",
@@ -13,7 +21,7 @@
           "start": "2025-06-30T09:15:33.883Z",
           "end": "2025-06-30T09:19:34.283Z"
         },
-        "created_at": 1751275143765
+        "created_at": 1751275144571
       }
     ],
     "global_name": "ccccccc",
