@@ -12,6 +12,16 @@
         "state": ".gg/guns",
         "timestamps": {},
         "created_at": 1751276013071
+      },
+      {
+        "name": "Spotify",
+        "type": 2,
+        "state": "The Marías",
+        "timestamps": {
+          "start": "2025-06-30T11:01:55.311Z",
+          "end": "2025-06-30T11:05:40.151Z"
+        },
+        "created_at": 1751281493570
       }
     ],
     "global_name": "᲼",
