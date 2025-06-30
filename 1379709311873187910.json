@@ -12,6 +12,16 @@
         "state": ".gg/guns",
         "timestamps": {},
         "created_at": 1751276013071
+      },
+      {
+        "name": "Spotify",
+        "type": 2,
+        "state": "Rihanna",
+        "timestamps": {
+          "start": "2025-06-30T10:00:09.940Z",
+          "end": "2025-06-30T10:03:30.513Z"
+        },
+        "created_at": 1751277611081
       }
     ],
     "global_name": "᲼",
