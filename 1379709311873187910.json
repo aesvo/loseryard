@@ -3,7 +3,7 @@
     "id": "1379709311873187910",
     "username": "81yb",
     "avatar": "https://cdn.discordapp.com/avatars/1379709311873187910/ec6760a1efcd8a786a7394d97094d04c.png",
-    "discord_status": "online",
+    "discord_status": "dnd",
     "activities": [
       {
         "id": "custom",
@@ -26,12 +26,12 @@
       {
         "name": "Spotify",
         "type": 2,
-        "state": "A$AP Rocky",
+        "state": "Chezile",
         "timestamps": {
-          "start": "2025-06-30T08:58:16.863Z",
-          "end": "2025-06-30T09:00:55.068Z"
+          "start": "2025-06-30T09:00:55.578Z",
+          "end": "2025-06-30T09:03:07.738Z"
         },
-        "created_at": 1751273953187
+        "created_at": 1751274056842
       }
     ],
     "global_name": "᲼",
