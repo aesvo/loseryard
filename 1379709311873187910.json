@@ -12,6 +12,16 @@
         "state": ".gg/guns",
         "timestamps": {},
         "created_at": 1751279763302
+      },
+      {
+        "name": "Spotify",
+        "type": 2,
+        "state": "Billie Eilish",
+        "timestamps": {
+          "start": "2025-06-30T10:52:37.662Z",
+          "end": "2025-06-30T10:55:35.185Z"
+        },
+        "created_at": 1751280758885
       }
     ],
     "global_name": "᲼",
