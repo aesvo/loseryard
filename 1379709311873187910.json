@@ -6,6 +6,14 @@
     "discord_status": "dnd",
     "activities": [
       {
+        "id": "custom",
+        "name": "Custom Status",
+        "type": 4,
+        "state": ".gg/guns",
+        "timestamps": {},
+        "created_at": 1751275242233
+      },
+      {
         "name": "Spotify",
         "type": 2,
         "state": "wifiskeleton; i wanna be a jack-o-lantern",
@@ -13,7 +21,7 @@
           "start": "2025-06-30T09:20:36.503Z",
           "end": "2025-06-30T09:22:06.570Z"
         },
-        "created_at": 1751275241796
+        "created_at": 1751275242234
       }
     ],
     "global_name": "᲼",
