@@ -11,7 +11,17 @@
         "type": 4,
         "state": ".gg/gun",
         "timestamps": {},
-        "created_at": 1751185483764
+        "created_at": 1751271200603
+      },
+      {
+        "name": "Spotify",
+        "type": 2,
+        "state": "sombr",
+        "timestamps": {
+          "start": "2025-06-30T08:10:02.846Z",
+          "end": "2025-06-30T08:13:21.878Z"
+        },
+        "created_at": 1751271200603
       }
     ],
     "global_name": "᲼",
