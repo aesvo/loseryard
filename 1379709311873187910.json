@@ -11,17 +11,17 @@
         "type": 4,
         "state": ".gg/guns",
         "timestamps": {},
-        "created_at": 1751276013071
+        "created_at": 1751281203556
       },
       {
         "name": "Spotify",
         "type": 2,
-        "state": "Clairo",
+        "state": "The Marías",
         "timestamps": {
-          "start": "2025-06-30T10:58:11.672Z",
-          "end": "2025-06-30T11:01:20.058Z"
+          "start": "2025-06-30T11:01:50.689Z",
+          "end": "2025-06-30T11:05:35.529Z"
         },
-        "created_at": 1751281092934
+        "created_at": 1751281311919
       }
     ],
     "global_name": "᲼",
