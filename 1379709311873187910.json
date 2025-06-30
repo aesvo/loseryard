@@ -26,12 +26,12 @@
       {
         "name": "Spotify",
         "type": 2,
-        "state": "Billie Eilish",
+        "state": "SZA",
         "timestamps": {
-          "start": "2025-06-30T09:22:07.088Z",
-          "end": "2025-06-30T09:25:37.461Z"
+          "start": "2025-06-30T09:25:37.922Z",
+          "end": "2025-06-30T09:28:44.113Z"
         },
-        "created_at": 1751275328285
+        "created_at": 1751275539161
       }
     ],
     "global_name": "᲼",
