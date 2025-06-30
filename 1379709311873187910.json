@@ -11,7 +11,7 @@
         "type": 4,
         "state": ".gg/guns",
         "timestamps": {},
-        "created_at": 1751274392556
+        "created_at": 1751274581911
       },
       {
         "name": "FiveM",
@@ -26,12 +26,12 @@
       {
         "name": "Spotify",
         "type": 2,
-        "state": "Gwen Stefani",
+        "state": "The Walters",
         "timestamps": {
-          "start": "2025-06-30T09:05:53.337Z",
-          "end": "2025-06-30T09:10:18.257Z"
+          "start": "2025-06-30T09:11:16.572Z",
+          "end": "2025-06-30T09:13:56.811Z"
         },
-        "created_at": 1751274354621
+        "created_at": 1751274677653
       }
     ],
     "global_name": "᲼",
