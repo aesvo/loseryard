@@ -14,6 +14,16 @@
         "created_at": 1751276013071
       },
       {
+        "name": "Spotify",
+        "type": 2,
+        "state": "Imogen Heap",
+        "timestamps": {
+          "start": "2025-06-30T09:37:23.158Z",
+          "end": "2025-06-30T09:40:58.496Z"
+        },
+        "created_at": 1751276244333
+      },
+      {
         "name": "FiveM",
         "type": 0,
         "state": "In the menus",
