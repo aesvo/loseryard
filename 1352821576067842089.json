@@ -4,36 +4,7 @@
     "username": "overfunds",
     "avatar": "https://cdn.discordapp.com/avatars/1352821576067842089/f532d39b62d3e643c711224fecb62033.png",
     "discord_status": "online",
-    "activities": [
-      {
-        "id": "custom",
-        "name": "Custom Status",
-        "type": 4,
-        "state": null,
-        "timestamps": {},
-        "created_at": 1751275235590
-      },
-      {
-        "name": "Spotify",
-        "type": 2,
-        "state": "wifiskeleton; i wanna be a jack-o-lantern",
-        "timestamps": {
-          "start": "2025-06-30T09:20:36.503Z",
-          "end": "2025-06-30T09:22:06.570Z"
-        },
-        "created_at": 1751275237740
-      },
-      {
-        "name": "FiveM",
-        "type": 0,
-        "state": "In the menus",
-        "timestamps": {
-          "start": "2025-06-30T08:53:17.000Z",
-          "end": null
-        },
-        "created_at": 1751275204238
-      }
-    ],
+    "activities": [],
     "global_name": "ccccccc",
     "display_name": "ccccccc"
   }
