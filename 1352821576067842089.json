@@ -6,14 +6,6 @@
     "discord_status": "online",
     "activities": [
       {
-        "id": "custom",
-        "name": "Custom Status",
-        "type": 4,
-        "state": ".gg/killerrp",
-        "timestamps": {},
-        "created_at": 1751275553163
-      },
-      {
         "name": "FiveM",
         "type": 0,
         "state": "In the menus",
