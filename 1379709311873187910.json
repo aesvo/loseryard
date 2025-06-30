@@ -11,17 +11,27 @@
         "type": 4,
         "state": ".gg/gun",
         "timestamps": {},
-        "created_at": 1751271200603
+        "created_at": 1751271201148
+      },
+      {
+        "name": "SilentRP",
+        "type": 0,
+        "state": "0/64 Players 😘",
+        "timestamps": {
+          "start": "2025-06-30T07:56:11.000Z",
+          "end": null
+        },
+        "created_at": 1751271201148
       },
       {
         "name": "Spotify",
         "type": 2,
         "state": "sombr",
         "timestamps": {
-          "start": "2025-06-30T08:10:02.846Z",
-          "end": "2025-06-30T08:13:21.878Z"
+          "start": "2025-06-30T08:10:02.254Z",
+          "end": "2025-06-30T08:13:21.286Z"
         },
-        "created_at": 1751271200603
+        "created_at": 1751271201148
       }
     ],
     "global_name": "᲼",
