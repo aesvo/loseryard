@@ -14,6 +14,16 @@
         "created_at": 1751275235590
       },
       {
+        "name": "Spotify",
+        "type": 2,
+        "state": "wifiskeleton; i wanna be a jack-o-lantern",
+        "timestamps": {
+          "start": "2025-06-30T09:20:36.503Z",
+          "end": "2025-06-30T09:22:06.570Z"
+        },
+        "created_at": 1751275237740
+      },
+      {
         "name": "FiveM",
         "type": 0,
         "state": "In the menus",
