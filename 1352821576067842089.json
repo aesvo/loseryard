@@ -9,9 +9,9 @@
         "id": "custom",
         "name": "Custom Status",
         "type": 4,
-        "state": ".gg/lavishRP",
+        "state": ".gg/killerrp",
         "timestamps": {},
-        "created_at": 1751275181460
+        "created_at": 1751275204238
       },
       {
         "name": "FiveM",
@@ -21,7 +21,7 @@
           "start": "2025-06-30T08:53:17.000Z",
           "end": null
         },
-        "created_at": 1751275203446
+        "created_at": 1751275204238
       }
     ],
     "global_name": "ccccccc",
