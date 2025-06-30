@@ -26,12 +26,12 @@
       {
         "name": "Spotify",
         "type": 2,
-        "state": "Chezile",
+        "state": "Hotel Ugly",
         "timestamps": {
-          "start": "2025-06-30T09:00:55.578Z",
-          "end": "2025-06-30T09:03:07.738Z"
+          "start": "2025-06-30T09:03:08.234Z",
+          "end": "2025-06-30T09:05:52.805Z"
         },
-        "created_at": 1751274056842
+        "created_at": 1751274189515
       }
     ],
     "global_name": "᲼",
