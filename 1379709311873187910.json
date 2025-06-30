@@ -3,35 +3,25 @@
     "id": "1379709311873187910",
     "username": "81yb",
     "avatar": "https://cdn.discordapp.com/avatars/1379709311873187910/ec6760a1efcd8a786a7394d97094d04c.png",
-    "discord_status": "dnd",
+    "discord_status": "online",
     "activities": [
       {
         "id": "custom",
         "name": "Custom Status",
         "type": 4,
-        "state": ".gg/gun",
+        "state": ".gg/KillerRP",
         "timestamps": {},
-        "created_at": 1751271201148
-      },
-      {
-        "name": "SilentRP",
-        "type": 0,
-        "state": "0/64 Players 😘",
-        "timestamps": {
-          "start": "2025-06-30T07:56:11.000Z",
-          "end": null
-        },
-        "created_at": 1751271201148
+        "created_at": 1751273952668
       },
       {
         "name": "Spotify",
         "type": 2,
-        "state": "Kali Uchis; Tyler, The Creator; Bootsy Collins",
+        "state": "A$AP Rocky",
         "timestamps": {
-          "start": "2025-06-30T08:13:21.782Z",
-          "end": "2025-06-30T08:16:49.236Z"
+          "start": "2025-06-30T08:58:17.535Z",
+          "end": "2025-06-30T09:00:55.740Z"
         },
-        "created_at": 1751271202984
+        "created_at": 1751273952668
       }
     ],
     "global_name": "᲼",
