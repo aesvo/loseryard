@@ -14,6 +14,16 @@
         "created_at": 1751276013071
       },
       {
+        "name": "Spotify",
+        "type": 2,
+        "state": "Steve Lacy",
+        "timestamps": {
+          "start": "2025-06-30T09:46:41.557Z",
+          "end": "2025-06-30T09:50:33.623Z"
+        },
+        "created_at": 1751276802792
+      },
+      {
         "name": "FiveM",
         "type": 0,
         "state": "In the menus",
