@@ -4,7 +4,18 @@
     "username": "81yb",
     "avatar": "https://cdn.discordapp.com/avatars/1379709311873187910/ec6760a1efcd8a786a7394d97094d04c.png",
     "discord_status": "dnd",
-    "activities": [],
+    "activities": [
+      {
+        "name": "Spotify",
+        "type": 2,
+        "state": "The Neighbourhood",
+        "timestamps": {
+          "start": "2025-06-30T09:15:33.883Z",
+          "end": "2025-06-30T09:19:34.283Z"
+        },
+        "created_at": 1751275153247
+      }
+    ],
     "global_name": "᲼",
     "display_name": "᲼"
   }
