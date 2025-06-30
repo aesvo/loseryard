@@ -14,16 +14,6 @@
         "created_at": 1751276013071
       },
       {
-        "name": "Spotify",
-        "type": 2,
-        "state": "Tyler, The Creator",
-        "timestamps": {
-          "start": "2025-06-30T09:40:58.997Z",
-          "end": "2025-06-30T09:45:24.477Z"
-        },
-        "created_at": 1751276460216
-      },
-      {
         "name": "FiveM",
         "type": 0,
         "state": "In the menus",
