@@ -4,7 +4,18 @@
     "username": "overfunds",
     "avatar": "https://cdn.discordapp.com/avatars/1352821576067842089/f532d39b62d3e643c711224fecb62033.png",
     "discord_status": "online",
-    "activities": [],
+    "activities": [
+      {
+        "name": "Spotify",
+        "type": 2,
+        "state": "Kendrick Lamar",
+        "timestamps": {
+          "start": "2025-07-01T12:13:15.424Z",
+          "end": "2025-07-01T12:17:23.224Z"
+        },
+        "created_at": 1751371997944
+      }
+    ],
     "global_name": "ccccccc",
     "display_name": "ccccccc"
   }
