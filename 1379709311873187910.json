@@ -4,7 +4,16 @@
     "username": "81yb",
     "avatar": "https://cdn.discordapp.com/avatars/1379709311873187910/ec6760a1efcd8a786a7394d97094d04c.png",
     "discord_status": "online",
-    "activities": [],
+    "activities": [
+      {
+        "id": "custom",
+        "name": "Custom Status",
+        "type": 4,
+        "state": ".gg/gun",
+        "timestamps": {},
+        "created_at": 1751370705926
+      }
+    ],
     "global_name": "᲼",
     "display_name": "᲼"
   }
