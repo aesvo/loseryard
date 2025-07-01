@@ -4,18 +4,7 @@
     "username": "overfunds",
     "avatar": "https://cdn.discordapp.com/avatars/1352821576067842089/f532d39b62d3e643c711224fecb62033.png",
     "discord_status": "online",
-    "activities": [
-      {
-        "name": "Spotify",
-        "type": 2,
-        "state": "T-Pain; B.o.B",
-        "timestamps": {
-          "start": "2025-07-01T12:17:22.281Z",
-          "end": "2025-07-01T12:21:13.374Z"
-        },
-        "created_at": 1751372243373
-      }
-    ],
+    "activities": [],
     "global_name": "ccccccc",
     "display_name": "ccccccc"
   }
