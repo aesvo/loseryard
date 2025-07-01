@@ -8,12 +8,12 @@
       {
         "name": "Spotify",
         "type": 2,
-        "state": "Sade",
+        "state": "Cynthia Erivo",
         "timestamps": {
-          "start": "2025-07-01T12:22:00.789Z",
-          "end": "2025-07-01T12:26:12.122Z"
+          "start": "2025-07-01T12:26:12.557Z",
+          "end": "2025-07-01T12:31:16.034Z"
         },
-        "created_at": 1751372521783
+        "created_at": 1751372773533
       }
     ],
     "global_name": "ccccccc",
