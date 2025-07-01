@@ -4,18 +4,7 @@
     "username": "overfunds",
     "avatar": "https://cdn.discordapp.com/avatars/1352821576067842089/f532d39b62d3e643c711224fecb62033.png",
     "discord_status": "online",
-    "activities": [
-      {
-        "name": "Spotify",
-        "type": 2,
-        "state": "Cynthia Erivo",
-        "timestamps": {
-          "start": "2025-07-01T12:26:12.557Z",
-          "end": "2025-07-01T12:31:16.034Z"
-        },
-        "created_at": 1751372773533
-      }
-    ],
+    "activities": [],
     "global_name": "ccccccc",
     "display_name": "ccccccc"
   }
