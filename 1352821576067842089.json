@@ -8,12 +8,12 @@
       {
         "name": "Spotify",
         "type": 2,
-        "state": "Kendrick Lamar",
+        "state": "T-Pain; B.o.B",
         "timestamps": {
-          "start": "2025-07-01T12:13:15.424Z",
-          "end": "2025-07-01T12:17:23.224Z"
+          "start": "2025-07-01T12:17:22.281Z",
+          "end": "2025-07-01T12:21:13.374Z"
         },
-        "created_at": 1751371997944
+        "created_at": 1751372243373
       }
     ],
     "global_name": "ccccccc",
