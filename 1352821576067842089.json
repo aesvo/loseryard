@@ -6,6 +6,16 @@
     "discord_status": "online",
     "activities": [
       {
+        "name": "Spotify",
+        "type": 2,
+        "state": "Cynthia Erivo",
+        "timestamps": {
+          "start": "2025-07-02T03:01:38.672Z",
+          "end": "2025-07-02T03:06:42.149Z"
+        },
+        "created_at": 1751425299867
+      },
+      {
         "name": "Grand Theft Auto V",
         "type": 0,
         "state": null,
