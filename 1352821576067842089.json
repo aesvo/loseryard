@@ -6,6 +6,16 @@
     "discord_status": "online",
     "activities": [
       {
+        "name": "Spotify",
+        "type": 2,
+        "state": "T-Pain; B.o.B",
+        "timestamps": {
+          "start": "2025-07-02T02:52:33.167Z",
+          "end": "2025-07-02T02:56:24.260Z"
+        },
+        "created_at": 1751424754190
+      },
+      {
         "name": "Grand Theft Auto V",
         "type": 0,
         "state": null,
