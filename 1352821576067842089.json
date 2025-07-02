@@ -6,16 +6,6 @@
     "discord_status": "online",
     "activities": [
       {
-        "name": "Spotify",
-        "type": 2,
-        "state": "Tory Lanez",
-        "timestamps": {
-          "start": "2025-07-02T03:55:55.464Z",
-          "end": "2025-07-02T03:58:21.464Z"
-        },
-        "created_at": 1751428557006
-      },
-      {
         "name": "Grand Theft Auto V",
         "type": 0,
         "state": null,
