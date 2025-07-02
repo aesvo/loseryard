@@ -6,6 +6,16 @@
     "discord_status": "online",
     "activities": [
       {
+        "name": "Spotify",
+        "type": 2,
+        "state": "Dominic Fike",
+        "timestamps": {
+          "start": "2025-07-02T03:59:09.134Z",
+          "end": "2025-07-02T04:00:47.094Z"
+        },
+        "created_at": 1751428750278
+      },
+      {
         "name": "Grand Theft Auto V",
         "type": 0,
         "state": null,
