@@ -6,16 +6,6 @@
     "discord_status": "online",
     "activities": [
       {
-        "name": "Spotify",
-        "type": 2,
-        "state": "Snoh Aalegra",
-        "timestamps": {
-          "start": "2025-07-02T03:06:42.645Z",
-          "end": "2025-07-02T03:10:17.098Z"
-        },
-        "created_at": 1751425604032
-      },
-      {
         "name": "Grand Theft Auto V",
         "type": 0,
         "state": null,
