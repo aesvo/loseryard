@@ -6,16 +6,6 @@
     "discord_status": "online",
     "activities": [
       {
-        "name": "Spotify",
-        "type": 2,
-        "state": "Dem Franchize Boyz; Lloyd",
-        "timestamps": {
-          "start": "2025-07-02T02:17:32.474Z",
-          "end": "2025-07-02T02:21:52.794Z"
-        },
-        "created_at": 1751422653464
-      },
-      {
         "name": "FiveM",
         "type": 0,
         "state": "In the menus",
