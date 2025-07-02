@@ -6,6 +6,16 @@
     "discord_status": "online",
     "activities": [
       {
+        "name": "Spotify",
+        "type": 2,
+        "state": "Lola Young",
+        "timestamps": {
+          "start": "2025-07-02T03:51:10.699Z",
+          "end": "2025-07-02T03:55:54.767Z"
+        },
+        "created_at": 1751428271895
+      },
+      {
         "name": "Grand Theft Auto V",
         "type": 0,
         "state": null,
