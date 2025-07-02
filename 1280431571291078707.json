@@ -3,20 +3,8 @@
     "id": "1280431571291078707",
     "username": "191shn",
     "avatar": "https://cdn.discordapp.com/avatars/1280431571291078707/f03db36a8e112533bd02ffe097632557.png",
-    "discord_status": "dnd",
-    "activities": [
-      {
-        "id": "custom",
-        "name": "Custom Status",
-        "type": 4,
-        "state": "ds",
-        "timestamps": {
-          "start": null,
-          "end": "2025-07-02T16:00:00.000Z"
-        },
-        "created_at": 1751457944319
-      }
-    ],
+    "discord_status": "offline",
+    "activities": [],
     "global_name": "proyo",
     "display_name": "proyo"
   }
