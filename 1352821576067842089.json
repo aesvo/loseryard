@@ -6,6 +6,16 @@
     "discord_status": "online",
     "activities": [
       {
+        "name": "Spotify",
+        "type": 2,
+        "state": "Ravyn Lenae",
+        "timestamps": {
+          "start": "2025-07-02T02:22:38.696Z",
+          "end": "2025-07-02T02:26:12.162Z"
+        },
+        "created_at": 1751422959715
+      },
+      {
         "name": "FiveM",
         "type": 0,
         "state": "In the menus",
