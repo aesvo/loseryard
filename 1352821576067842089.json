@@ -6,6 +6,16 @@
     "discord_status": "online",
     "activities": [
       {
+        "name": "Spotify",
+        "type": 2,
+        "state": "Blu Cantrell; Sean Paul",
+        "timestamps": {
+          "start": "2025-07-02T03:44:21.234Z",
+          "end": "2025-07-02T03:48:09.234Z"
+        },
+        "created_at": 1751427862370
+      },
+      {
         "name": "Grand Theft Auto V",
         "type": 0,
         "state": null,
