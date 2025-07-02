@@ -6,16 +6,6 @@
     "discord_status": "online",
     "activities": [
       {
-        "name": "Spotify",
-        "type": 2,
-        "state": "Kendrick Lamar",
-        "timestamps": {
-          "start": "2025-07-02T02:48:08.480Z",
-          "end": "2025-07-02T02:52:16.280Z"
-        },
-        "created_at": 1751424489626
-      },
-      {
         "name": "Grand Theft Auto V",
         "type": 0,
         "state": null,
