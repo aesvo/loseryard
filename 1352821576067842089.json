@@ -6,6 +6,16 @@
     "discord_status": "online",
     "activities": [
       {
+        "name": "Spotify",
+        "type": 2,
+        "state": "Ravyn Lenae",
+        "timestamps": {
+          "start": "2025-07-02T02:44:36.006Z",
+          "end": "2025-07-02T02:48:09.472Z"
+        },
+        "created_at": 1751424304790
+      },
+      {
         "name": "FiveM",
         "type": 0,
         "state": "💜 Para RP 💜 | #1 Semi Serious/Serious RP | ❤️ E-Girl/Streamer Friendly 📽️ | 🚔 Hiring Staff/P...",
