@@ -8,12 +8,12 @@
       {
         "name": "Spotify",
         "type": 2,
-        "state": "T-Pain; B.o.B",
+        "state": "Sade",
         "timestamps": {
-          "start": "2025-07-02T02:52:33.167Z",
-          "end": "2025-07-02T02:56:24.260Z"
+          "start": "2025-07-02T02:56:24.713Z",
+          "end": "2025-07-02T03:00:36.046Z"
         },
-        "created_at": 1751424754190
+        "created_at": 1751424986055
       },
       {
         "name": "Grand Theft Auto V",
