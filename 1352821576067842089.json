@@ -3,29 +3,8 @@
     "id": "1352821576067842089",
     "username": "overfunds",
     "avatar": "https://cdn.discordapp.com/avatars/1352821576067842089/f532d39b62d3e643c711224fecb62033.png",
-    "discord_status": "online",
-    "activities": [
-      {
-        "name": "Spotify",
-        "type": 2,
-        "state": "Peachy!; mxmtoon",
-        "timestamps": {
-          "start": "2025-07-02T04:00:47.570Z",
-          "end": "2025-07-02T04:02:51.570Z"
-        },
-        "created_at": 1751428848855
-      },
-      {
-        "name": "Grand Theft Auto V",
-        "type": 0,
-        "state": null,
-        "timestamps": {
-          "start": "2025-07-02T02:05:45.606Z",
-          "end": null
-        },
-        "created_at": 1751421946215
-      }
-    ],
+    "discord_status": "offline",
+    "activities": [],
     "global_name": "ccccccc",
     "display_name": "ccccccc"
   }
