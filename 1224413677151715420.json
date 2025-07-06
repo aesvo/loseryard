@@ -6,16 +6,6 @@
     "discord_status": "dnd",
     "activities": [
       {
-        "name": "Tom Clancy's Rainbow Six Siege X",
-        "type": 0,
-        "state": null,
-        "timestamps": {
-          "start": "2025-07-06T13:21:26.806Z",
-          "end": null
-        },
-        "created_at": 1751808094835
-      },
-      {
         "name": "Medal",
         "type": 0,
         "state": "with Medal.tv",
