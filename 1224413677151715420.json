@@ -8,12 +8,12 @@
       {
         "name": "Spotify",
         "type": 2,
-        "state": "TSOUTH G",
+        "state": "Screwly G",
         "timestamps": {
-          "start": "2025-07-06T16:36:12.888Z",
-          "end": "2025-07-06T16:39:00.039Z"
+          "start": "2025-07-06T16:36:25.161Z",
+          "end": "2025-07-06T16:39:53.462Z"
         },
-        "created_at": 1751819782272
+        "created_at": 1751819796092
       },
       {
         "name": "Rust",
