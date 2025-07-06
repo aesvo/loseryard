@@ -8,9 +8,12 @@
       {
         "name": "Rust",
         "type": 0,
-        "state": "In a Team",
-        "timestamps": {},
-        "created_at": 1751815193531
+        "state": null,
+        "timestamps": {
+          "start": "2025-07-06T13:40:03.618Z",
+          "end": null
+        },
+        "created_at": 1751816519126
       },
       {
         "name": "Medal",
