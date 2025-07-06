@@ -9,11 +9,8 @@
         "name": "Medal",
         "type": 0,
         "state": "with Medal.tv",
-        "timestamps": {
-          "start": "2025-07-06T10:47:43.276Z",
-          "end": null
-        },
-        "created_at": 1751799117304
+        "timestamps": {},
+        "created_at": 1751802290795
       },
       {
         "name": "TrackDayR",
