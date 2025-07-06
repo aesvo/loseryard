@@ -3,8 +3,37 @@
     "id": "1224413677151715420",
     "username": "d1.2clean",
     "avatar": "https://cdn.discordapp.com/avatars/1224413677151715420/49e4db907dd51b4756950f7ec187feec.png",
-    "discord_status": "online",
-    "activities": [],
+    "discord_status": "dnd",
+    "activities": [
+      {
+        "id": "custom",
+        "name": "Custom Status",
+        "type": 4,
+        "state": "think i might just end it here 😔",
+        "timestamps": {},
+        "created_at": 1751794871454
+      },
+      {
+        "name": "Medal",
+        "type": 0,
+        "state": "with Medal.tv",
+        "timestamps": {
+          "start": "2025-07-06T10:47:43.276Z",
+          "end": null
+        },
+        "created_at": 1751799117304
+      },
+      {
+        "name": "TrackDayR",
+        "type": 0,
+        "state": null,
+        "timestamps": {
+          "start": "2025-07-06T10:47:28.524Z",
+          "end": null
+        },
+        "created_at": 1751798856532
+      }
+    ],
     "global_name": "MIDROLED",
     "display_name": "MIDROLED"
   }
