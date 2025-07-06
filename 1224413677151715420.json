@@ -8,12 +8,12 @@
       {
         "name": "Spotify",
         "type": 2,
-        "state": "Daniel Caesar; H.E.R.",
+        "state": "YoungBoy Never Broke Again",
         "timestamps": {
-          "start": "2025-07-06T14:39:32.535Z",
-          "end": "2025-07-06T14:43:02.366Z"
+          "start": "2025-07-06T14:42:29.244Z",
+          "end": "2025-07-06T14:46:03.832Z"
         },
-        "created_at": 1751812954797
+        "created_at": 1751812957509
       },
       {
         "name": "Rust",
