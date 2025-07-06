@@ -6,6 +6,16 @@
     "discord_status": "online",
     "activities": [
       {
+        "name": "Spotify",
+        "type": 2,
+        "state": "Kevin Gates",
+        "timestamps": {
+          "start": "2025-07-06T12:18:47.366Z",
+          "end": "2025-07-06T12:22:28.599Z"
+        },
+        "created_at": 1751804335574
+      },
+      {
         "name": "TrackDayR",
         "type": 0,
         "state": null,
