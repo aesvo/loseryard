@@ -4,7 +4,16 @@
     "username": "cameron0484",
     "avatar": "https://cdn.discordapp.com/avatars/1183189396233662655/f7ffaea4b387d85eaf93f07dd5a36e03.png",
     "discord_status": "dnd",
-    "activities": [],
+    "activities": [
+      {
+        "id": "custom",
+        "name": "Custom Status",
+        "type": 4,
+        "state": "Jesus will always be there for you",
+        "timestamps": {},
+        "created_at": 1751816536010
+      }
+    ],
     "global_name": "Hiitツ",
     "display_name": "Hiitツ"
   }
