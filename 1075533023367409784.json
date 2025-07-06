@@ -12,16 +12,6 @@
         "state": ".gg/lavishrp .gg/gun .gg/sunnysideatlanta",
         "timestamps": {},
         "created_at": 1751750274172
-      },
-      {
-        "name": "PEAK",
-        "type": 0,
-        "state": null,
-        "timestamps": {
-          "start": "2025-07-06T17:22:27.738Z",
-          "end": null
-        },
-        "created_at": 1751822547569
       }
     ],
     "global_name": "Hacked",
