@@ -8,12 +8,12 @@
       {
         "name": "Spotify",
         "type": 2,
-        "state": "øpium; insxmniac",
+        "state": "øpium",
         "timestamps": {
-          "start": "2025-07-06T15:05:51.960Z",
-          "end": "2025-07-06T15:08:43.974Z"
+          "start": "2025-07-06T15:11:36.982Z",
+          "end": "2025-07-06T15:14:28.996Z"
         },
-        "created_at": 1751814360237
+        "created_at": 1751814705249
       },
       {
         "name": "Rust",
