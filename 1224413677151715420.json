@@ -8,9 +8,12 @@
       {
         "name": "Rust",
         "type": 0,
-        "state": "On a Server",
-        "timestamps": {},
-        "created_at": 1751822166222
+        "state": null,
+        "timestamps": {
+          "start": "2025-07-06T13:40:03.618Z",
+          "end": null
+        },
+        "created_at": 1751822550120
       },
       {
         "name": "Medal",
