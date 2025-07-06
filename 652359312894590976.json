@@ -12,6 +12,16 @@
         "state": "Perfect you are indeed",
         "timestamps": {},
         "created_at": 1751790986711
+      },
+      {
+        "name": "Spotify",
+        "type": 2,
+        "state": "whatsaheart",
+        "timestamps": {
+          "start": "2025-07-06T08:34:31.695Z",
+          "end": "2025-07-06T08:37:10.306Z"
+        },
+        "created_at": 1751790987373
       }
     ],
     "global_name": "V𝖆𝖒𝖕𝖟 ꨄ",
