@@ -3,8 +3,17 @@
     "id": "872658221821726811",
     "username": "wkeup.",
     "avatar": "https://cdn.discordapp.com/avatars/872658221821726811/48ff5b74de917915993064c352da44d3.png",
-    "discord_status": "offline",
-    "activities": [],
+    "discord_status": "online",
+    "activities": [
+      {
+        "id": "custom",
+        "name": "Custom Status",
+        "type": 4,
+        "state": "I fucking love her",
+        "timestamps": {},
+        "created_at": 1751815642917
+      }
+    ],
     "global_name": "wkeup",
     "display_name": "wkeup"
   }
