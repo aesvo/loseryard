@@ -8,12 +8,12 @@
       {
         "name": "Spotify",
         "type": 2,
-        "state": "øpium; El Titø; Yung Bruh",
+        "state": "øpium; Yung Bruh; El Titø",
         "timestamps": {
-          "start": "2025-07-06T14:52:38.676Z",
-          "end": "2025-07-06T14:54:40.499Z"
+          "start": "2025-07-06T14:54:40.654Z",
+          "end": "2025-07-06T14:59:35.572Z"
         },
-        "created_at": 1751813566911
+        "created_at": 1751813688921
       },
       {
         "name": "Rust",
