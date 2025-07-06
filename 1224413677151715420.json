@@ -29,11 +29,8 @@
         "name": "Medal",
         "type": 0,
         "state": "with Medal.tv",
-        "timestamps": {
-          "start": "2025-07-06T11:51:13.390Z",
-          "end": null
-        },
-        "created_at": 1751802681401
+        "timestamps": {},
+        "created_at": 1751803848556
       }
     ],
     "global_name": "XENBBG",
