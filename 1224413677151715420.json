@@ -3,26 +3,8 @@
     "id": "1224413677151715420",
     "username": "d1.2clean",
     "avatar": "https://cdn.discordapp.com/avatars/1224413677151715420/49e4db907dd51b4756950f7ec187feec.png",
-    "discord_status": "dnd",
-    "activities": [
-      {
-        "name": "TrackDayR",
-        "type": 0,
-        "state": null,
-        "timestamps": {
-          "start": "2025-07-06T17:31:45.211Z",
-          "end": null
-        },
-        "created_at": 1751823113292
-      },
-      {
-        "name": "Medal",
-        "type": 0,
-        "state": "with Medal.tv",
-        "timestamps": {},
-        "created_at": 1751822972739
-      }
-    ],
+    "discord_status": "offline",
+    "activities": [],
     "global_name": "MIDROLED",
     "display_name": "MIDROLED"
   }
