@@ -11,16 +11,6 @@
         "state": "with Medal.tv",
         "timestamps": {},
         "created_at": 1751802290795
-      },
-      {
-        "name": "TrackDayR",
-        "type": 0,
-        "state": null,
-        "timestamps": {
-          "start": "2025-07-06T10:47:28.524Z",
-          "end": null
-        },
-        "created_at": 1751798856532
       }
     ],
     "global_name": "MIDROLED",
