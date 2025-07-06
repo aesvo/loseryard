@@ -9,19 +9,19 @@
         "id": "custom",
         "name": "Custom Status",
         "type": 4,
-        "state": "You don't know me, TRUST me, you don't.",
+        "state": "Perfect you are indeed",
         "timestamps": {},
-        "created_at": 1751783848544
+        "created_at": 1751783850165
       },
       {
         "name": "Spotify",
         "type": 2,
         "state": "whatsaheart",
         "timestamps": {
-          "start": "2025-07-06T06:35:11.121Z",
-          "end": "2025-07-06T06:37:49.732Z"
+          "start": "2025-07-06T06:35:11.239Z",
+          "end": "2025-07-06T06:37:49.850Z"
         },
-        "created_at": 1751783711465
+        "created_at": 1751783849781
       }
     ],
     "global_name": "V𝖆𝖒𝖕𝖟 ꨄ",
