@@ -8,12 +8,12 @@
       {
         "name": "Spotify",
         "type": 2,
-        "state": "adamikbro",
+        "state": "Clara La San",
         "timestamps": {
-          "start": "2025-07-06T17:03:18.411Z",
-          "end": "2025-07-06T17:06:44.867Z"
+          "start": "2025-07-06T17:06:44.923Z",
+          "end": "2025-07-06T17:09:33.136Z"
         },
-        "created_at": 1751821406732
+        "created_at": 1751821613260
       },
       {
         "name": "Rust",
