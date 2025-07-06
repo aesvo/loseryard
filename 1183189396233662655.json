@@ -14,16 +14,6 @@
         "created_at": 1751763202796
       },
       {
-        "name": "BlueRibbon RP",
-        "type": 0,
-        "state": "Players: 26/150",
-        "timestamps": {
-          "start": "2025-07-06T02:47:46.000Z",
-          "end": null
-        },
-        "created_at": 1751779271598
-      },
-      {
         "name": "Medal",
         "type": 0,
         "state": "with Medal.tv",
