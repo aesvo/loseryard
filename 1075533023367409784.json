@@ -12,6 +12,16 @@
         "state": ".gg/lavishrp .gg/gun .gg/sunnysideatlanta",
         "timestamps": {},
         "created_at": 1751750274172
+      },
+      {
+        "name": "Counter-Strike 2",
+        "type": 0,
+        "state": null,
+        "timestamps": {
+          "start": "2025-07-06T16:12:42.813Z",
+          "end": null
+        },
+        "created_at": 1751818362673
       }
     ],
     "global_name": "Hacked",
