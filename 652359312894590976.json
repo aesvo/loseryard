@@ -2,26 +2,26 @@
   "discord_user": {
     "id": "652359312894590976",
     "username": "simplyvampz",
-    "avatar": "https://cdn.discordapp.com/avatars/652359312894590976/6d01c8bfc4fe9db41c866a035f970c0c.png",
+    "avatar": "https://cdn.discordapp.com/avatars/652359312894590976/f006f6d623d3b104852bd797d33f7223.png",
     "discord_status": "dnd",
     "activities": [
       {
         "id": "custom",
         "name": "Custom Status",
         "type": 4,
-        "state": "You don't know me, TRUST me, you don't.",
+        "state": "Perfect you are indeed",
         "timestamps": {},
-        "created_at": 1751742688672
+        "created_at": 1751775893854
       },
       {
         "name": "Spotify",
         "type": 2,
         "state": "whatsaheart",
         "timestamps": {
-          "start": "2025-07-06T04:14:10.437Z",
-          "end": "2025-07-06T04:16:49.048Z"
+          "start": "2025-07-06T04:24:48.238Z",
+          "end": "2025-07-06T04:27:26.849Z"
         },
-        "created_at": 1751775252398
+        "created_at": 1751775888429
       }
     ],
     "global_name": "V𝖆𝖒𝖕𝖟 ꨄ",
