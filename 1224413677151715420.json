@@ -6,6 +6,16 @@
     "discord_status": "dnd",
     "activities": [
       {
+        "name": "Spotify",
+        "type": 2,
+        "state": "Daniel Caesar; H.E.R.",
+        "timestamps": {
+          "start": "2025-07-06T14:35:10.912Z",
+          "end": "2025-07-06T14:38:40.743Z"
+        },
+        "created_at": 1751812582778
+      },
+      {
         "name": "Rust",
         "type": 0,
         "state": "In a Team",
