@@ -29,11 +29,8 @@
         "name": "Medal",
         "type": 0,
         "state": "with Medal.tv",
-        "timestamps": {
-          "start": "2025-07-06T11:46:43.174Z",
-          "end": null
-        },
-        "created_at": 1751802411183
+        "timestamps": {},
+        "created_at": 1751802652385
       }
     ],
     "global_name": "MIDROLED",
