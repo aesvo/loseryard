@@ -6,14 +6,21 @@
     "discord_status": "dnd",
     "activities": [
       {
+        "name": "Spotify",
+        "type": 2,
+        "state": "øpium; El Titø; Yung Bruh",
+        "timestamps": {
+          "start": "2025-07-06T16:34:46.585Z",
+          "end": "2025-07-06T16:36:48.408Z"
+        },
+        "created_at": 1751819694802
+      },
+      {
         "name": "Rust",
         "type": 0,
-        "state": null,
-        "timestamps": {
-          "start": "2025-07-06T13:40:03.618Z",
-          "end": null
-        },
-        "created_at": 1751816519126
+        "state": "In a Team",
+        "timestamps": {},
+        "created_at": 1751816910493
       },
       {
         "name": "Medal",
