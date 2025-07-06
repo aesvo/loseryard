@@ -8,12 +8,12 @@
       {
         "name": "Spotify",
         "type": 2,
-        "state": "EBK Jaaybo",
+        "state": "adamikbro",
         "timestamps": {
-          "start": "2025-07-06T17:02:47.148Z",
-          "end": "2025-07-06T17:05:27.922Z"
+          "start": "2025-07-06T17:03:18.411Z",
+          "end": "2025-07-06T17:06:44.867Z"
         },
-        "created_at": 1751821375538
+        "created_at": 1751821406732
       },
       {
         "name": "Rust",
