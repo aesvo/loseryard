@@ -8,12 +8,12 @@
       {
         "name": "Spotify",
         "type": 2,
-        "state": "PinkPantheress",
+        "state": "Paramore",
         "timestamps": {
-          "start": "2025-07-06T17:09:33.644Z",
-          "end": "2025-07-06T17:11:12.188Z"
+          "start": "2025-07-06T17:11:12.737Z",
+          "end": "2025-07-06T17:16:09.257Z"
         },
-        "created_at": 1751821781994
+        "created_at": 1751821881053
       },
       {
         "name": "Rust",
