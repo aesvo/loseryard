@@ -6,11 +6,21 @@
     "discord_status": "online",
     "activities": [
       {
+        "name": "Grand Theft Auto V",
+        "type": 0,
+        "state": null,
+        "timestamps": {
+          "start": "2025-07-06T11:45:23.897Z",
+          "end": null
+        },
+        "created_at": 1751802331913
+      },
+      {
         "name": "Medal",
         "type": 0,
         "state": "with Medal.tv",
         "timestamps": {},
-        "created_at": 1751802290795
+        "created_at": 1751802297173
       }
     ],
     "global_name": "MIDROLED",
