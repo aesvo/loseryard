@@ -12,6 +12,16 @@
         "state": "You don't know me, TRUST me, you don't.",
         "timestamps": {},
         "created_at": 1751742688672
+      },
+      {
+        "name": "Spotify",
+        "type": 2,
+        "state": "whatsaheart",
+        "timestamps": {
+          "start": "2025-07-06T04:14:10.437Z",
+          "end": "2025-07-06T04:16:49.048Z"
+        },
+        "created_at": 1751775252398
       }
     ],
     "global_name": "V𝖆𝖒𝖕𝖟 ꨄ",
