@@ -8,19 +8,19 @@
       {
         "name": "Spotify",
         "type": 2,
-        "state": "TG Kommas",
+        "state": "adamikbro",
         "timestamps": {
-          "start": "2025-07-06T14:43:11.953Z",
-          "end": "2025-07-06T14:46:09.122Z"
+          "start": "2025-07-06T14:43:36.011Z",
+          "end": "2025-07-06T14:47:02.467Z"
         },
-        "created_at": 1751813000197
+        "created_at": 1751813024251
       },
       {
         "name": "Rust",
         "type": 0,
         "state": "In a Team",
         "timestamps": {},
-        "created_at": 1751811760044
+        "created_at": 1751813009501
       },
       {
         "name": "Medal",
