@@ -1,0 +1,20 @@
+{
+  "discord_user": {
+    "id": "1075533023367409784",
+    "username": "hacked._.",
+    "avatar": "https://cdn.discordapp.com/avatars/1075533023367409784/eb8619f9aa534f87bc45abca80d3d6d0.png",
+    "discord_status": "online",
+    "activities": [
+      {
+        "id": "custom",
+        "name": "Custom Status",
+        "type": 4,
+        "state": ".gg/lavishrp .gg/gun .gg/sunnysideatlanta",
+        "timestamps": {},
+        "created_at": 1751750274172
+      }
+    ],
+    "global_name": "Hacked",
+    "display_name": "Hacked"
+  }
+}
