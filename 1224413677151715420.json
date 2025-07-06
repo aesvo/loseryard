@@ -8,19 +8,19 @@
       {
         "name": "Spotify",
         "type": 2,
-        "state": "øpium; Yung Bruh; El Titø",
+        "state": "øpium; El Titø; Yung Bruh",
         "timestamps": {
-          "start": "2025-07-06T15:14:29.510Z",
-          "end": "2025-07-06T15:19:24.428Z"
+          "start": "2025-07-06T15:19:24.933Z",
+          "end": "2025-07-06T15:21:26.756Z"
         },
-        "created_at": 1751814877783
+        "created_at": 1751815173200
       },
       {
         "name": "Rust",
         "type": 0,
-        "state": "In a Team",
+        "state": "On a Server",
         "timestamps": {},
-        "created_at": 1751813009501
+        "created_at": 1751815173171
       },
       {
         "name": "Medal",
