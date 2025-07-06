@@ -3,8 +3,17 @@
     "id": "1379709311873187910",
     "username": "81yb",
     "avatar": "https://cdn.discordapp.com/avatars/1379709311873187910/95b91af482446975e630077533da0f4b.png",
-    "discord_status": "offline",
-    "activities": [],
+    "discord_status": "online",
+    "activities": [
+      {
+        "id": "custom",
+        "name": "Custom Status",
+        "type": 4,
+        "state": ".gg/gun",
+        "timestamps": {},
+        "created_at": 1751845968834
+      }
+    ],
     "global_name": "cj",
     "display_name": "cj"
   }
