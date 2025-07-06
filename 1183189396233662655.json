@@ -16,12 +16,12 @@
       {
         "name": "BlueRibbon RP",
         "type": 0,
-        "state": "Players: 27/150",
+        "state": "Players: 26/150",
         "timestamps": {
           "start": "2025-07-06T02:47:46.000Z",
           "end": null
         },
-        "created_at": 1751776511018
+        "created_at": 1751776811110
       },
       {
         "name": "Medal",
