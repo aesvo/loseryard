@@ -1,0 +1,19 @@
+{
+  "discord_user": {
+    "id": "155149108183695360",
+    "username": "Dyno",
+    "avatar": "https://cdn.discordapp.com/avatars/155149108183695360/b4fdfc64edff74c37e1574d34fad66c2.png",
+    "discord_status": "online",
+    "activities": [
+      {
+        "name": "dyno.gg | ?help",
+        "type": 0,
+        "state": null,
+        "timestamps": {},
+        "created_at": 1751639856311
+      }
+    ],
+    "global_name": "Dyno",
+    "display_name": "Dyno"
+  }
+}
