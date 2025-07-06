@@ -3,8 +3,17 @@
     "id": "872658221821726811",
     "username": "m3.ech",
     "avatar": "https://cdn.discordapp.com/avatars/872658221821726811/129e0c27bfc5eecc8b4fffb15872418e.png",
-    "discord_status": "offline",
-    "activities": [],
+    "discord_status": "online",
+    "activities": [
+      {
+        "id": "custom",
+        "name": "Custom Status",
+        "type": 4,
+        "state": "she perfect",
+        "timestamps": {},
+        "created_at": 1751773501207
+      }
+    ],
     "global_name": "3",
     "display_name": "3"
   }
