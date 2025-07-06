@@ -10,17 +10,14 @@
         "type": 0,
         "state": "On a Server",
         "timestamps": {},
-        "created_at": 1751820964937
+        "created_at": 1751822166222
       },
       {
         "name": "Medal",
         "type": 0,
         "state": "with Medal.tv",
-        "timestamps": {
-          "start": "2025-07-06T13:40:15.975Z",
-          "end": null
-        },
-        "created_at": 1751809387881
+        "timestamps": {},
+        "created_at": 1751822548806
       }
     ],
     "global_name": "MIDROLED",
