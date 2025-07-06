@@ -15,6 +15,16 @@
           "end": "2025-07-06T14:00:00.000Z"
         },
         "created_at": 1751763205308
+      },
+      {
+        "name": "Spotify",
+        "type": 2,
+        "state": "Daniel Caesar; Kali Uchis",
+        "timestamps": {
+          "start": "2025-07-06T00:49:17.079Z",
+          "end": "2025-07-06T00:53:55.258Z"
+        },
+        "created_at": 1751763206882
       }
     ],
     "global_name": "ccccccc",
