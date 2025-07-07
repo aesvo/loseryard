@@ -3,7 +3,7 @@
     "id": "872658221821726811",
     "username": "wkeup.",
     "avatar": "https://cdn.discordapp.com/avatars/872658221821726811/48ff5b74de917915993064c352da44d3.png",
-    "discord_status": "online",
+    "discord_status": "idle",
     "activities": [
       {
         "id": "custom",
@@ -26,12 +26,12 @@
       {
         "name": "Code",
         "type": 0,
-        "state": null,
+        "state": "Working on styles.css:739:20",
         "timestamps": {
           "start": "2025-07-07T00:47:34.454Z",
           "end": null
         },
-        "created_at": 1751851759719
+        "created_at": 1751851761656
       }
     ],
     "global_name": "wkeup",
