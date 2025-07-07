@@ -16,12 +16,12 @@
       {
         "name": "Visual Studio Code",
         "type": 0,
-        "state": null,
+        "state": "Workspace: TEST",
         "timestamps": {
           "start": "2025-07-07T00:47:31.631Z",
           "end": null
         },
-        "created_at": 1751852538240
+        "created_at": 1751852558239
       },
       {
         "name": "Code",
@@ -31,7 +31,7 @@
           "start": "2025-07-07T00:47:34.454Z",
           "end": null
         },
-        "created_at": 1751851761656
+        "created_at": 1751852558239
       }
     ],
     "global_name": "wkeup",
