@@ -16,22 +16,22 @@
       {
         "name": "Visual Studio Code",
         "type": 0,
-        "state": null,
+        "state": "Workspace: TEST",
         "timestamps": {
           "start": "2025-07-07T00:47:31.631Z",
           "end": null
         },
-        "created_at": 1751852733222
+        "created_at": 1751852752923
       },
       {
         "name": "Code",
         "type": 0,
-        "state": "Working on tosandpp.html:44:1",
+        "state": null,
         "timestamps": {
           "start": "2025-07-07T00:47:34.454Z",
           "end": null
         },
-        "created_at": 1751852731133
+        "created_at": 1751852733237
       }
     ],
     "global_name": "wkeup",
