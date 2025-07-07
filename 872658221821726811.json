@@ -21,17 +21,17 @@
           "start": "2025-07-07T00:47:31.631Z",
           "end": null
         },
-        "created_at": 1751853053664
+        "created_at": 1751853073622
       },
       {
         "name": "Code",
         "type": 0,
-        "state": "Working on test.txt:1:1",
+        "state": "Viewing test - Copy.txt",
         "timestamps": {
           "start": "2025-07-07T00:47:34.454Z",
           "end": null
         },
-        "created_at": 1751853054935
+        "created_at": 1751853073622
       }
     ],
     "global_name": "wkeup",
