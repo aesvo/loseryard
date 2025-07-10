@@ -4,7 +4,16 @@
     "username": "wkeup.",
     "avatar": "https://cdn.discordapp.com/avatars/872658221821726811/7f966543625981b497431f6df013c969.png",
     "discord_status": "online",
-    "activities": [],
+    "activities": [
+      {
+        "id": "custom",
+        "name": "Custom Status",
+        "type": 4,
+        "state": null,
+        "timestamps": {},
+        "created_at": 1752162779218
+      }
+    ],
     "global_name": "wkeup",
     "display_name": "wkeup"
   }
