@@ -4,7 +4,16 @@
     "username": "simplyvampz",
     "avatar": "https://cdn.discordapp.com/avatars/652359312894590976/80844ccb3c36f11fc78fe28135a8f8fa.png",
     "discord_status": "dnd",
-    "activities": [],
+    "activities": [
+      {
+        "id": "custom",
+        "name": "Custom Status",
+        "type": 4,
+        "state": "TAKE AWAY, TELL ME IS IT CLICHE? THAT I HAD TRULY WISHED THAT I COULD'VE DIED BY YOUR SIDE THAT DAY?",
+        "timestamps": {},
+        "created_at": 1752163759616
+      }
+    ],
     "global_name": "V𝖆𝖒𝖕𝖟 ꨄ",
     "display_name": "V𝖆𝖒𝖕𝖟 ꨄ"
   }
