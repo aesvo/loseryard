@@ -9,9 +9,9 @@
         "id": "custom",
         "name": "Custom Status",
         "type": 4,
-        "state": "I fucking love her",
+        "state": null,
         "timestamps": {},
-        "created_at": 1752200529512
+        "created_at": 1752200530609
       }
     ],
     "global_name": "wkeup",
