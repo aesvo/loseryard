@@ -9,9 +9,9 @@
         "id": "custom",
         "name": "Custom Status",
         "type": 4,
-        "state": ".gg/lavishrp .gg/gun .gg/sunnysideatlanta",
+        "state": ".gg/lavishrp .gg/gun",
         "timestamps": {},
-        "created_at": 1751750274172
+        "created_at": 1752109275315
       }
     ],
     "global_name": "Hacked",
