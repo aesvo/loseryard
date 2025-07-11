@@ -8,12 +8,12 @@
       {
         "name": "Marvel Rivals",
         "type": 0,
-        "state": null,
+        "state": "Idle",
         "timestamps": {
-          "start": "2025-07-11T19:40:25.937Z",
+          "start": "2025-07-11T19:40:57.000Z",
           "end": null
         },
-        "created_at": 1752262826117
+        "created_at": 1752262857866
       },
       {
         "name": "Spotify",
