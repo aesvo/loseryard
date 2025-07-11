@@ -6,16 +6,6 @@
     "discord_status": "dnd",
     "activities": [
       {
-        "name": "Marvel Rivals",
-        "type": 0,
-        "state": null,
-        "timestamps": {
-          "start": "2025-07-11T20:26:29.685Z",
-          "end": null
-        },
-        "created_at": 1752265591899
-      },
-      {
         "name": "Spotify",
         "type": 2,
         "state": "VIOLENT VIRA",
