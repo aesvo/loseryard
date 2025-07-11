@@ -3,29 +3,8 @@
     "id": "652359312894590976",
     "username": "simplyvampz",
     "avatar": "https://cdn.discordapp.com/avatars/652359312894590976/80844ccb3c36f11fc78fe28135a8f8fa.png",
-    "discord_status": "dnd",
-    "activities": [
-      {
-        "name": "Marvel Rivals",
-        "type": 0,
-        "state": "In Combat",
-        "timestamps": {
-          "start": "2025-07-11T19:24:47.000Z",
-          "end": null
-        },
-        "created_at": 1752261888017
-      },
-      {
-        "name": "Spotify",
-        "type": 2,
-        "state": "VIOLENT VIRA",
-        "timestamps": {
-          "start": "2025-07-11T19:24:52.100Z",
-          "end": "2025-07-11T19:28:04.447Z"
-        },
-        "created_at": 1752261892457
-      }
-    ],
+    "discord_status": "offline",
+    "activities": [],
     "global_name": "V𝖆𝖒𝖕𝖟 ꨄ",
     "display_name": "V𝖆𝖒𝖕𝖟 ꨄ"
   }
