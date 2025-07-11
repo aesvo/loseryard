@@ -6,22 +6,14 @@
     "discord_status": "dnd",
     "activities": [
       {
-        "id": "custom",
-        "name": "Custom Status",
-        "type": 4,
-        "state": "TAKE AWAY, TELL ME IS IT CLICHE? THAT I HAD TRULY WISHED THAT I COULD'VE DIED BY YOUR SIDE THAT DAY?",
-        "timestamps": {},
-        "created_at": 1752212793525
-      },
-      {
         "name": "Spotify",
         "type": 2,
         "state": "VIOLENT VIRA",
         "timestamps": {
-          "start": "2025-07-11T05:46:46.416Z",
-          "end": "2025-07-11T05:49:45.889Z"
+          "start": "2025-07-11T05:49:45.899Z",
+          "end": "2025-07-11T05:52:45.372Z"
         },
-        "created_at": 1752212807330
+        "created_at": 1752212986822
       }
     ],
     "global_name": "V𝖆𝖒𝖕𝖟 ꨄ",
