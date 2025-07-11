@@ -6,24 +6,14 @@
     "discord_status": "dnd",
     "activities": [
       {
-        "name": "PEAK",
-        "type": 0,
-        "state": null,
-        "timestamps": {
-          "start": "2025-07-11T20:34:20.182Z",
-          "end": null
-        },
-        "created_at": 1752266060413
-      },
-      {
         "name": "Spotify",
         "type": 2,
         "state": "VIOLENT VIRA",
         "timestamps": {
-          "start": "2025-07-11T20:33:49.244Z",
-          "end": "2025-07-11T20:36:51.425Z"
+          "start": "2025-07-11T21:13:23.879Z",
+          "end": "2025-07-11T21:16:26.060Z"
         },
-        "created_at": 1752266029650
+        "created_at": 1752268404371
       }
     ],
     "global_name": "V𝖆𝖒𝖕𝖟 ꨄ",
