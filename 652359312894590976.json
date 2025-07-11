@@ -8,22 +8,22 @@
       {
         "name": "Marvel Rivals",
         "type": 0,
-        "state": "In Team",
+        "state": "In Combat",
         "timestamps": {
-          "start": "2025-07-11T19:02:34.000Z",
+          "start": "2025-07-11T19:08:40.000Z",
           "end": null
         },
-        "created_at": 1752260555061
+        "created_at": 1752260920818
       },
       {
         "name": "Spotify",
         "type": 2,
         "state": "VIOLENT VIRA",
         "timestamps": {
-          "start": "2025-07-11T19:02:06.311Z",
-          "end": "2025-07-11T19:05:05.784Z"
+          "start": "2025-07-11T19:08:06.283Z",
+          "end": "2025-07-11T19:11:05.756Z"
         },
-        "created_at": 1752260526594
+        "created_at": 1752260886564
       }
     ],
     "global_name": "V𝖆𝖒𝖕𝖟 ꨄ",
