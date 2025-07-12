@@ -16,12 +16,12 @@
       {
         "name": "BlueRibbon RP",
         "type": 0,
-        "state": "Players: 45/150",
+        "state": "Players: 49/150",
         "timestamps": {
           "start": "2025-07-12T03:04:51.000Z",
           "end": null
         },
-        "created_at": 1752289636102
+        "created_at": 1752289936186
       },
       {
         "name": "Grand Theft Auto V",
@@ -41,7 +41,7 @@
           "start": "2025-07-12T03:04:27.280Z",
           "end": null
         },
-        "created_at": 1752289461389
+        "created_at": 1752289722966
       }
     ],
     "global_name": "Hiitツ",
