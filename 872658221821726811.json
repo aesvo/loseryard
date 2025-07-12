@@ -4,7 +4,18 @@
     "username": "wkeup.",
     "avatar": "https://cdn.discordapp.com/avatars/872658221821726811/7f966543625981b497431f6df013c969.png",
     "discord_status": "online",
-    "activities": [],
+    "activities": [
+      {
+        "name": "Spotify",
+        "type": 2,
+        "state": "sombr",
+        "timestamps": {
+          "start": "2025-07-12T04:10:01.886Z",
+          "end": "2025-07-12T04:13:03.974Z"
+        },
+        "created_at": 1752293402177
+      }
+    ],
     "global_name": "wkeup",
     "display_name": "wkeup"
   }
