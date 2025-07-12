@@ -4,36 +4,7 @@
     "username": "overfunds",
     "avatar": "https://cdn.discordapp.com/avatars/1352821576067842089/f532d39b62d3e643c711224fecb62033.png",
     "discord_status": "online",
-    "activities": [
-      {
-        "id": "custom",
-        "name": "Custom Status",
-        "type": 4,
-        "state": null,
-        "timestamps": {},
-        "created_at": 1752321436727
-      },
-      {
-        "name": "Para RP",
-        "type": 0,
-        "state": "[44/250] | [ID: 815]",
-        "timestamps": {
-          "start": "2025-07-12T09:42:15.000Z",
-          "end": null
-        },
-        "created_at": 1752321556809
-      },
-      {
-        "name": "Grand Theft Auto V",
-        "type": 0,
-        "state": null,
-        "timestamps": {
-          "start": "2025-07-12T11:17:50.595Z",
-          "end": null
-        },
-        "created_at": 1752321366347
-      }
-    ],
+    "activities": [],
     "global_name": "ccccccc",
     "display_name": "ccccccc"
   }
