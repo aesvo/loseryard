@@ -11,27 +11,7 @@
         "type": 4,
         "state": "Jesus will always be there for you",
         "timestamps": {},
-        "created_at": 1752271671935
-      },
-      {
-        "name": "Grand Theft Auto V",
-        "type": 0,
-        "state": null,
-        "timestamps": {
-          "start": "2025-07-12T03:04:10.191Z",
-          "end": null
-        },
-        "created_at": 1752289447568
-      },
-      {
-        "name": "Medal",
-        "type": 0,
-        "state": "with Medal.tv",
-        "timestamps": {
-          "start": "2025-07-12T03:04:27.280Z",
-          "end": null
-        },
-        "created_at": 1752289722966
+        "created_at": 1752299097507
       }
     ],
     "global_name": "Hiitツ",
