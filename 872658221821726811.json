@@ -3,20 +3,8 @@
     "id": "872658221821726811",
     "username": "wkeup.",
     "avatar": "https://cdn.discordapp.com/avatars/872658221821726811/7f966543625981b497431f6df013c969.png",
-    "discord_status": "online",
-    "activities": [
-      {
-        "id": "custom",
-        "name": "Custom Status",
-        "type": 4,
-        "state": "vaca",
-        "timestamps": {
-          "start": null,
-          "end": "2025-07-13T02:19:57.639Z"
-        },
-        "created_at": 1752366263076
-      }
-    ],
+    "discord_status": "offline",
+    "activities": [],
     "global_name": "wkeup",
     "display_name": "wkeup"
   }
