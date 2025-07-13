@@ -17,16 +17,6 @@
         "created_at": 1752377318529
       },
       {
-        "name": "PEAK",
-        "type": 0,
-        "state": null,
-        "timestamps": {
-          "start": "2025-07-13T03:36:11.100Z",
-          "end": null
-        },
-        "created_at": 1752377772125
-      },
-      {
         "name": "Spotify",
         "type": 2,
         "state": "VIOLENT VIRA",
