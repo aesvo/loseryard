@@ -12,23 +12,6 @@
         "state": "Jesus will always be there for you",
         "timestamps": {},
         "created_at": 1752412705533
-      },
-      {
-        "name": "Crosshair X",
-        "type": 0,
-        "state": null,
-        "timestamps": {
-          "start": "2025-07-13T07:45:46.798Z",
-          "end": null
-        },
-        "created_at": 1752392741602
-      },
-      {
-        "name": "Medal",
-        "type": 0,
-        "state": "with Medal.tv",
-        "timestamps": {},
-        "created_at": 1752392948092
       }
     ],
     "global_name": "Hiitツ",
