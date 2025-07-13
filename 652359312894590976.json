@@ -6,6 +6,16 @@
     "discord_status": "dnd",
     "activities": [
       {
+        "name": "Roblox",
+        "type": 0,
+        "state": null,
+        "timestamps": {
+          "start": "2025-07-13T06:40:12.035Z",
+          "end": null
+        },
+        "created_at": 1752388813240
+      },
+      {
         "name": "Spotify",
         "type": 2,
         "state": "Sable",
