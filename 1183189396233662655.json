@@ -16,12 +16,12 @@
       {
         "name": "Rolas Academy",
         "type": 0,
-        "state": "215 jugadores",
+        "state": "216 jugadores",
         "timestamps": {
           "start": "2025-07-13T14:53:05.000Z",
           "end": null
         },
-        "created_at": 1752418490261
+        "created_at": 1752418500271
       },
       {
         "name": "Grand Theft Auto V",
