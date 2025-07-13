@@ -6,16 +6,6 @@
     "discord_status": "dnd",
     "activities": [
       {
-        "name": "PEAK",
-        "type": 0,
-        "state": null,
-        "timestamps": {
-          "start": "2025-07-13T19:35:24.753Z",
-          "end": null
-        },
-        "created_at": 1752435325421
-      },
-      {
         "name": "Spotify",
         "type": 2,
         "state": "VIOLENT VIRA",
