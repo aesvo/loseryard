@@ -4,7 +4,18 @@
     "username": "simplyvampz",
     "avatar": "https://cdn.discordapp.com/avatars/652359312894590976/80844ccb3c36f11fc78fe28135a8f8fa.png",
     "discord_status": "dnd",
-    "activities": [],
+    "activities": [
+      {
+        "name": "Spotify",
+        "type": 2,
+        "state": "SARM?",
+        "timestamps": {
+          "start": "2025-07-13T22:58:16.201Z",
+          "end": "2025-07-13T23:00:09.861Z"
+        },
+        "created_at": 1752447599832
+      }
+    ],
     "global_name": "V𝖆𝖒𝖕𝖟 ꨄ",
     "display_name": "V𝖆𝖒𝖕𝖟 ꨄ"
   }
