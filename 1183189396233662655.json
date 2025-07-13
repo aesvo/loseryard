@@ -14,24 +14,21 @@
         "created_at": 1752414517769
       },
       {
-        "name": "Grand Theft Auto V",
+        "name": "Crosshair X",
         "type": 0,
         "state": null,
         "timestamps": {
-          "start": "2025-07-13T17:16:59.791Z",
+          "start": "2025-07-13T17:17:39.926Z",
           "end": null
         },
-        "created_at": 1752427013976
+        "created_at": 1752427054106
       },
       {
         "name": "Medal",
         "type": 0,
         "state": "with Medal.tv",
-        "timestamps": {
-          "start": "2025-07-13T17:17:12.919Z",
-          "end": null
-        },
-        "created_at": 1752427027104
+        "timestamps": {},
+        "created_at": 1752427051294
       }
     ],
     "global_name": "Hiitツ",
