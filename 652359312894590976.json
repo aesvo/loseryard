@@ -6,14 +6,24 @@
     "discord_status": "dnd",
     "activities": [
       {
+        "name": "Roblox",
+        "type": 0,
+        "state": null,
+        "timestamps": {
+          "start": "2025-07-13T06:36:41.869Z",
+          "end": null
+        },
+        "created_at": 1752388603082
+      },
+      {
         "name": "Spotify",
         "type": 2,
         "state": "whatsaheart",
         "timestamps": {
-          "start": "2025-07-13T06:17:48.039Z",
-          "end": "2025-07-13T06:20:31.321Z"
+          "start": "2025-07-13T06:34:10.748Z",
+          "end": "2025-07-13T06:36:54.030Z"
         },
-        "created_at": 1752387469400
+        "created_at": 1752388452117
       }
     ],
     "global_name": "V𝖆𝖒𝖕𝖟 ꨄ",
