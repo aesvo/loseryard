@@ -3,8 +3,20 @@
     "id": "652359312894590976",
     "username": "simplyvampz",
     "avatar": "https://cdn.discordapp.com/avatars/652359312894590976/80844ccb3c36f11fc78fe28135a8f8fa.png",
-    "discord_status": "offline",
-    "activities": [],
+    "discord_status": "dnd",
+    "activities": [
+      {
+        "id": "custom",
+        "name": "Custom Status",
+        "type": 4,
+        "state": "so tired",
+        "timestamps": {
+          "start": null,
+          "end": "2025-07-13T03:59:59.998Z"
+        },
+        "created_at": 1752377215022
+      }
+    ],
     "global_name": "V𝖆𝖒𝖕𝖟 ꨄ",
     "display_name": "V𝖆𝖒𝖕𝖟 ꨄ"
   }
