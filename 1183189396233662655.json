@@ -14,16 +14,6 @@
         "created_at": 1752353960708
       },
       {
-        "name": "FiveM",
-        "type": 0,
-        "state": "In the menus",
-        "timestamps": {
-          "start": "2025-07-13T03:04:16.000Z",
-          "end": null
-        },
-        "created_at": 1752375869109
-      },
-      {
         "name": "Grand Theft Auto V",
         "type": 0,
         "state": null,
@@ -37,11 +27,8 @@
         "name": "Medal",
         "type": 0,
         "state": "with Medal.tv",
-        "timestamps": {
-          "start": "2025-07-13T03:04:36.483Z",
-          "end": null
-        },
-        "created_at": 1752375870967
+        "timestamps": {},
+        "created_at": 1752375871425
       }
     ],
     "global_name": "Hiitツ",
