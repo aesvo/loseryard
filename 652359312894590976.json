@@ -6,17 +6,6 @@
     "discord_status": "dnd",
     "activities": [
       {
-        "id": "custom",
-        "name": "Custom Status",
-        "type": 4,
-        "state": "so tired",
-        "timestamps": {
-          "start": null,
-          "end": "2025-07-13T03:59:59.998Z"
-        },
-        "created_at": 1752377318529
-      },
-      {
         "name": "PEAK",
         "type": 0,
         "state": null,
@@ -31,10 +20,10 @@
         "type": 2,
         "state": "VIOLENT VIRA",
         "timestamps": {
-          "start": "2025-07-13T03:42:01.886Z",
-          "end": "2025-07-13T03:45:14.233Z"
+          "start": "2025-07-13T03:58:05.693Z",
+          "end": "2025-07-13T04:01:18.040Z"
         },
-        "created_at": 1752378123073
+        "created_at": 1752379086911
       }
     ],
     "global_name": "V𝖆𝖒𝖕𝖟 ꨄ",
