@@ -14,16 +14,6 @@
         "created_at": 1752414517769
       },
       {
-        "name": "FiveM",
-        "type": 0,
-        "state": "In the menus",
-        "timestamps": {
-          "start": "2025-07-14T04:45:27.000Z",
-          "end": null
-        },
-        "created_at": 1752468322983
-      },
-      {
         "name": "Grand Theft Auto V",
         "type": 0,
         "state": null,
