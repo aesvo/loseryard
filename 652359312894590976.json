@@ -6,24 +6,14 @@
     "discord_status": "dnd",
     "activities": [
       {
-        "name": "Roblox",
-        "type": 0,
-        "state": null,
-        "timestamps": {
-          "start": "2025-07-14T00:44:29.712Z",
-          "end": null
-        },
-        "created_at": 1752453870706
-      },
-      {
         "name": "Spotify",
         "type": 2,
         "state": "Marilyn Manson",
         "timestamps": {
-          "start": "2025-07-14T01:47:47.025Z",
-          "end": "2025-07-14T01:52:40.318Z"
+          "start": "2025-07-14T01:52:40.226Z",
+          "end": "2025-07-14T01:57:33.519Z"
         },
-        "created_at": 1752457902186
+        "created_at": 1752457960470
       }
     ],
     "global_name": "V𝖆𝖒𝖕𝖟 ꨄ",
