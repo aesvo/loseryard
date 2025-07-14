@@ -6,6 +6,16 @@
     "discord_status": "dnd",
     "activities": [
       {
+        "name": "Roblox",
+        "type": 0,
+        "state": null,
+        "timestamps": {
+          "start": "2025-07-14T05:18:44.471Z",
+          "end": null
+        },
+        "created_at": 1752470325700
+      },
+      {
         "name": "Spotify",
         "type": 2,
         "state": "VIOLENT VIRA",
