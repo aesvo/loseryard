@@ -3,19 +3,8 @@
     "id": "1170119506635522220",
     "username": "v6zin",
     "avatar": "https://cdn.discordapp.com/avatars/1170119506635522220/0f56ed5c999b7149f36c1f4070712534.png",
-    "discord_status": "idle",
-    "activities": [
-      {
-        "name": "Spotify",
-        "type": 2,
-        "state": "Bad Bunny",
-        "timestamps": {
-          "start": "2025-07-14T19:53:51.663Z",
-          "end": "2025-07-14T19:58:09.047Z"
-        },
-        "created_at": 1752522957913
-      }
-    ],
+    "discord_status": "offline",
+    "activities": [],
     "global_name": "᲼",
     "display_name": "᲼"
   }
