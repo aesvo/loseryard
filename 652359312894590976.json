@@ -6,16 +6,6 @@
     "discord_status": "dnd",
     "activities": [
       {
-        "name": "Roblox",
-        "type": 0,
-        "state": null,
-        "timestamps": {
-          "start": "2025-07-14T06:06:11.022Z",
-          "end": null
-        },
-        "created_at": 1752473172314
-      },
-      {
         "name": "Spotify",
         "type": 2,
         "state": "Pierce The Veil; Kellin Quinn",
