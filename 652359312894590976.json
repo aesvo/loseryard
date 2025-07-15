@@ -6,6 +6,14 @@
     "discord_status": "dnd",
     "activities": [
       {
+        "id": "custom",
+        "name": "Custom Status",
+        "type": 4,
+        "state": "I pray you leave me behind.",
+        "timestamps": {},
+        "created_at": 1752616811166
+      },
+      {
         "name": "Hello Kitty Island Adventure",
         "type": 0,
         "state": null,
