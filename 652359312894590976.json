@@ -6,14 +6,24 @@
     "discord_status": "dnd",
     "activities": [
       {
+        "name": "Hello Kitty Island Adventure",
+        "type": 0,
+        "state": null,
+        "timestamps": {
+          "start": "2025-07-15T21:06:33.351Z",
+          "end": null
+        },
+        "created_at": 1752613593420
+      },
+      {
         "name": "Spotify",
         "type": 2,
         "state": "Lil Peep",
         "timestamps": {
-          "start": "2025-07-15T21:05:01.448Z",
-          "end": "2025-07-15T21:08:35.741Z"
+          "start": "2025-07-15T21:05:02.954Z",
+          "end": "2025-07-15T21:08:37.247Z"
         },
-        "created_at": 1752613503135
+        "created_at": 1752613503176
       }
     ],
     "global_name": "V𝖆𝖒𝖕𝖟 ꨄ",
