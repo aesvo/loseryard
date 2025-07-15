@@ -14,24 +14,14 @@
         "created_at": 1752616811166
       },
       {
-        "name": "Hello Kitty Island Adventure",
-        "type": 0,
-        "state": null,
-        "timestamps": {
-          "start": "2025-07-15T21:06:33.351Z",
-          "end": null
-        },
-        "created_at": 1752613593420
-      },
-      {
         "name": "Spotify",
         "type": 2,
         "state": "$wag Nightmare",
         "timestamps": {
-          "start": "2025-07-15T22:00:27.487Z",
-          "end": "2025-07-15T22:02:50.396Z"
+          "start": "2025-07-15T22:02:50.519Z",
+          "end": "2025-07-15T22:05:13.428Z"
         },
-        "created_at": 1752616827837
+        "created_at": 1752616970829
       }
     ],
     "global_name": "V𝖆𝖒𝖕𝖟 ꨄ",
