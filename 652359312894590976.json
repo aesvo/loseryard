@@ -4,7 +4,18 @@
     "username": "simplyvampz",
     "avatar": "https://cdn.discordapp.com/avatars/652359312894590976/bd78427ef711d140a53e61418d5fd6df.png",
     "discord_status": "dnd",
-    "activities": [],
+    "activities": [
+      {
+        "name": "Spotify",
+        "type": 2,
+        "state": "VIOLENT VIRA",
+        "timestamps": {
+          "start": "2025-07-15T05:59:21.407Z",
+          "end": "2025-07-15T06:02:23.588Z"
+        },
+        "created_at": 1752559230489
+      }
+    ],
     "global_name": "V𝖆𝖒𝖕𝖟 ꨄ",
     "display_name": "V𝖆𝖒𝖕𝖟 ꨄ"
   }
