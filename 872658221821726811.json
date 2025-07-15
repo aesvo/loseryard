@@ -3,19 +3,8 @@
     "id": "872658221821726811",
     "username": "me.ech",
     "avatar": "https://cdn.discordapp.com/avatars/872658221821726811/8918f8e66320bce01862744c48f1439a.png",
-    "discord_status": "online",
-    "activities": [
-      {
-        "name": "Spotify",
-        "type": 2,
-        "state": "sombr",
-        "timestamps": {
-          "start": "2025-07-15T22:19:03.092Z",
-          "end": "2025-07-15T22:22:03.718Z"
-        },
-        "created_at": 1752617948151
-      }
-    ],
+    "discord_status": "offline",
+    "activities": [],
     "global_name": "m",
     "display_name": "m"
   }
