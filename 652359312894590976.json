@@ -4,7 +4,18 @@
     "username": "simplyvampz",
     "avatar": "https://cdn.discordapp.com/avatars/652359312894590976/bd78427ef711d140a53e61418d5fd6df.png",
     "discord_status": "dnd",
-    "activities": [],
+    "activities": [
+      {
+        "name": "Spotify",
+        "type": 2,
+        "state": "Lil Peep",
+        "timestamps": {
+          "start": "2025-07-15T20:36:05.833Z",
+          "end": "2025-07-15T20:38:42.299Z"
+        },
+        "created_at": 1752611820558
+      }
+    ],
     "global_name": "V𝖆𝖒𝖕𝖟 ꨄ",
     "display_name": "V𝖆𝖒𝖕𝖟 ꨄ"
   }
