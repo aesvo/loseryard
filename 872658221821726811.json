@@ -32,16 +32,6 @@
           "end": null
         },
         "created_at": 1752645860998
-      },
-      {
-        "name": "Spotify",
-        "type": 2,
-        "state": "sombr",
-        "timestamps": {
-          "start": "2025-07-16T06:00:48.252Z",
-          "end": "2025-07-16T06:04:36.008Z"
-        },
-        "created_at": 1752645660432
       }
     ],
     "global_name": "m",
