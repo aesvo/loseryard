@@ -16,12 +16,12 @@
       {
         "name": "Code",
         "type": 0,
-        "state": "Working on test.html:368:18",
+        "state": "Working on test.html:1:1",
         "timestamps": {
           "start": "2025-07-16T07:23:09.452Z",
           "end": null
         },
-        "created_at": 1752650626971
+        "created_at": 1752650628996
       },
       {
         "name": "Visual Studio Code",
