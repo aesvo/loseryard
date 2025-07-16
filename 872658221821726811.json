@@ -4,7 +4,18 @@
     "username": "me.ech",
     "avatar": "https://cdn.discordapp.com/avatars/872658221821726811/8918f8e66320bce01862744c48f1439a.png",
     "discord_status": "online",
-    "activities": [],
+    "activities": [
+      {
+        "name": "Spotify",
+        "type": 2,
+        "state": "Paramore",
+        "timestamps": {
+          "start": "2025-07-16T03:38:39.217Z",
+          "end": "2025-07-16T03:42:25.003Z"
+        },
+        "created_at": 1752637124304
+      }
+    ],
     "global_name": "m",
     "display_name": "m"
   }
