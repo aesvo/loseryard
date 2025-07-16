@@ -16,12 +16,12 @@
       {
         "name": "Spotify",
         "type": 2,
-        "state": "Paramore",
+        "state": "Cafuné",
         "timestamps": {
-          "start": "2025-07-16T23:22:40.425Z",
-          "end": "2025-07-16T23:26:26.211Z"
+          "start": "2025-07-16T23:27:01.487Z",
+          "end": "2025-07-16T23:30:13.310Z"
         },
-        "created_at": 1752708168477
+        "created_at": 1752708429595
       }
     ],
     "global_name": "m",
