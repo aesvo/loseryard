@@ -14,6 +14,16 @@
         "created_at": 1752644494085
       },
       {
+        "name": "Visual Studio Code",
+        "type": 0,
+        "state": "Workspace: TEST",
+        "timestamps": {
+          "start": "2025-07-16T05:43:13.229Z",
+          "end": null
+        },
+        "created_at": 1752644598132
+      },
+      {
         "name": "Spotify",
         "type": 2,
         "state": "Paramore",
