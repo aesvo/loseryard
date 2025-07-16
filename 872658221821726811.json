@@ -8,12 +8,12 @@
       {
         "name": "Visual Studio Code",
         "type": 0,
-        "state": "Workspace: Draw",
+        "state": null,
         "timestamps": {
           "start": "2025-07-16T03:26:15.898Z",
           "end": null
         },
-        "created_at": 1752636613079
+        "created_at": 1752636636199
       }
     ],
     "global_name": "m",
