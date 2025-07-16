@@ -12,6 +12,16 @@
         "state": "I pray you leave me behind.",
         "timestamps": {},
         "created_at": 1752622964628
+      },
+      {
+        "name": "Spotify",
+        "type": 2,
+        "state": "$wag Nightmare",
+        "timestamps": {
+          "start": "2025-07-16T01:06:28.780Z",
+          "end": "2025-07-16T01:08:20.780Z"
+        },
+        "created_at": 1752628029552
       }
     ],
     "global_name": "V𝖆𝖒𝖕𝖟 ꨄ",
