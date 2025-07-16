@@ -16,12 +16,12 @@
       {
         "name": "Spotify",
         "type": 2,
-        "state": "Paramore; Foals",
+        "state": "sombr",
         "timestamps": {
-          "start": "2025-07-16T05:53:55.416Z",
-          "end": "2025-07-16T05:59:47.059Z"
+          "start": "2025-07-16T05:57:25.862Z",
+          "end": "2025-07-16T06:01:18.035Z"
         },
-        "created_at": 1752645240475
+        "created_at": 1752645450931
       },
       {
         "name": "Visual Studio Code",
