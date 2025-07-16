@@ -16,12 +16,12 @@
       {
         "name": "Spotify",
         "type": 2,
-        "state": "Paramore",
+        "state": "Deftones",
         "timestamps": {
-          "start": "2025-07-16T22:44:16.751Z",
-          "end": "2025-07-16T22:48:02.537Z"
+          "start": "2025-07-16T22:46:42.943Z",
+          "end": "2025-07-16T22:52:00.649Z"
         },
-        "created_at": 1752705864817
+        "created_at": 1752706011022
       }
     ],
     "global_name": "m",
