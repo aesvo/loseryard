@@ -16,12 +16,12 @@
       {
         "name": "Code",
         "type": 0,
-        "state": "Working on test.js:162:7",
+        "state": "Working on test.js:157:1",
         "timestamps": {
           "start": "2025-07-16T05:43:16.198Z",
           "end": null
         },
-        "created_at": 1752644646679
+        "created_at": 1752644658138
       },
       {
         "name": "Visual Studio Code",
@@ -32,16 +32,6 @@
           "end": null
         },
         "created_at": 1752644602789
-      },
-      {
-        "name": "Spotify",
-        "type": 2,
-        "state": "Paramore",
-        "timestamps": {
-          "start": "2025-07-16T05:40:22.807Z",
-          "end": "2025-07-16T05:44:03.287Z"
-        },
-        "created_at": 1752644495314
       }
     ],
     "global_name": "m",
