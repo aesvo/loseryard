@@ -14,6 +14,16 @@
         "created_at": 1752638419831
       },
       {
+        "name": "Code",
+        "type": 0,
+        "state": "Working on script.js:12:1",
+        "timestamps": {
+          "start": "2025-07-16T04:08:37.117Z",
+          "end": null
+        },
+        "created_at": 1752638922578
+      },
+      {
         "name": "Visual Studio Code",
         "type": 0,
         "state": "Workspace: Draw",
