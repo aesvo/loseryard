@@ -16,12 +16,12 @@
       {
         "name": "Spotify",
         "type": 2,
-        "state": "Cafuné",
+        "state": "aldn",
         "timestamps": {
-          "start": "2025-07-16T23:27:01.487Z",
-          "end": "2025-07-16T23:30:13.310Z"
+          "start": "2025-07-16T23:30:13.503Z",
+          "end": "2025-07-16T23:32:29.383Z"
         },
-        "created_at": 1752708429595
+        "created_at": 1752708621599
       }
     ],
     "global_name": "m",
