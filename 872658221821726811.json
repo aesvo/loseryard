@@ -16,12 +16,12 @@
       {
         "name": "Spotify",
         "type": 2,
-        "state": "Deftones",
+        "state": "Staind",
         "timestamps": {
-          "start": "2025-07-16T23:41:03.369Z",
-          "end": "2025-07-16T23:46:02.902Z"
+          "start": "2025-07-16T23:46:03.437Z",
+          "end": "2025-07-16T23:50:28.143Z"
         },
-        "created_at": 1752709271485
+        "created_at": 1752709571590
       }
     ],
     "global_name": "m",
