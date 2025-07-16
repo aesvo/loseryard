@@ -14,14 +14,24 @@
         "created_at": 1752644494085
       },
       {
+        "name": "Spotify",
+        "type": 2,
+        "state": "Paramore; Foals",
+        "timestamps": {
+          "start": "2025-07-16T05:53:55.416Z",
+          "end": "2025-07-16T05:59:47.059Z"
+        },
+        "created_at": 1752645240475
+      },
+      {
         "name": "Visual Studio Code",
         "type": 0,
-        "state": null,
+        "state": "Workspace: TESTTTT",
         "timestamps": {
           "start": "2025-07-16T05:51:34.181Z",
           "end": null
         },
-        "created_at": 1752645220727
+        "created_at": 1752645220754
       }
     ],
     "global_name": "m",
