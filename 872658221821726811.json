@@ -16,22 +16,22 @@
       {
         "name": "Code",
         "type": 0,
-        "state": "Working on updates.html:47:42",
+        "state": "Working on test.js:153:1",
         "timestamps": {
           "start": "2025-07-16T05:43:16.198Z",
           "end": null
         },
-        "created_at": 1752644601566
+        "created_at": 1752644618136
       },
       {
         "name": "Visual Studio Code",
         "type": 0,
-        "state": null,
+        "state": "Workspace: TEST",
         "timestamps": {
           "start": "2025-07-16T05:43:13.229Z",
           "end": null
         },
-        "created_at": 1752644602765
+        "created_at": 1752644602789
       },
       {
         "name": "Spotify",
