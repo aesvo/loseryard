@@ -14,24 +14,14 @@
         "created_at": 1752644494085
       },
       {
-        "name": "Spotify",
-        "type": 2,
-        "state": "sombr",
-        "timestamps": {
-          "start": "2025-07-16T06:11:41.199Z",
-          "end": "2025-07-16T06:14:58.130Z"
-        },
-        "created_at": 1752646306281
-      },
-      {
         "name": "Code",
         "type": 0,
-        "state": "Working on server.js:75:15",
+        "state": "Working on server.js:76:72",
         "timestamps": {
           "start": "2025-07-16T06:04:18.874Z",
           "end": null
         },
-        "created_at": 1752646500370
+        "created_at": 1752646512999
       },
       {
         "name": "Visual Studio Code",
