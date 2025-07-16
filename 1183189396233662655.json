@@ -16,12 +16,12 @@
       {
         "name": "Dreams LA",
         "type": 0,
-        "state": "Players: 90/135 | Queue: 1",
+        "state": "Players: 90/135 | Queue: 0",
         "timestamps": {
           "start": "2025-07-16T22:03:42.000Z",
           "end": null
         },
-        "created_at": 1752704591752
+        "created_at": 1752704600771
       },
       {
         "name": "Grand Theft Auto V",
