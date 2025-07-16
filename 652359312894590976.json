@@ -3,8 +3,17 @@
     "id": "652359312894590976",
     "username": "simplyvampz",
     "avatar": "https://cdn.discordapp.com/avatars/652359312894590976/bd78427ef711d140a53e61418d5fd6df.png",
-    "discord_status": "offline",
-    "activities": [],
+    "discord_status": "dnd",
+    "activities": [
+      {
+        "id": "custom",
+        "name": "Custom Status",
+        "type": 4,
+        "state": "I pray you leave me behind.",
+        "timestamps": {},
+        "created_at": 1752703773345
+      }
+    ],
     "global_name": "V𝖆𝖒𝖕𝖟 ꨄ",
     "display_name": "V𝖆𝖒𝖕𝖟 ꨄ"
   }
