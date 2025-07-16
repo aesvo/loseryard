@@ -14,24 +14,34 @@
         "created_at": 1752644494085
       },
       {
+        "name": "Spotify",
+        "type": 2,
+        "state": "sombr",
+        "timestamps": {
+          "start": "2025-07-16T06:16:30.036Z",
+          "end": "2025-07-16T06:19:49.822Z"
+        },
+        "created_at": 1752646602922
+      },
+      {
         "name": "Code",
         "type": 0,
-        "state": "Working on biolinks.json:4:2",
+        "state": "Working on server.js:24:1",
         "timestamps": {
           "start": "2025-07-16T06:04:18.874Z",
           "end": null
         },
-        "created_at": 1752646582920
+        "created_at": 1752646602922
       },
       {
         "name": "Visual Studio Code",
         "type": 0,
-        "state": null,
+        "state": "Workspace: TESTTTT",
         "timestamps": {
           "start": "2025-07-16T06:04:16.131Z",
           "end": null
         },
-        "created_at": 1752646584566
+        "created_at": 1752646584586
       }
     ],
     "global_name": "m",
