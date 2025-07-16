@@ -4,18 +4,7 @@
     "username": "me.ech",
     "avatar": "https://cdn.discordapp.com/avatars/872658221821726811/8918f8e66320bce01862744c48f1439a.png",
     "discord_status": "online",
-    "activities": [
-      {
-        "name": "Visual Studio Code",
-        "type": 0,
-        "state": "Workspace: TEST",
-        "timestamps": {
-          "start": "2025-07-16T03:14:24.636Z",
-          "end": null
-        },
-        "created_at": 1752635948217
-      }
-    ],
+    "activities": [],
     "global_name": "m",
     "display_name": "m"
   }
