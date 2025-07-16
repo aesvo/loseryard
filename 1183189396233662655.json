@@ -32,16 +32,6 @@
           "end": null
         },
         "created_at": 1752668961035
-      },
-      {
-        "name": "FiveM",
-        "type": 0,
-        "state": "In the menus",
-        "timestamps": {
-          "start": "2025-07-16T15:01:06.000Z",
-          "end": null
-        },
-        "created_at": 1752678059700
       }
     ],
     "global_name": "Hiitツ",
