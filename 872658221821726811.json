@@ -14,16 +14,6 @@
         "created_at": 1752644494085
       },
       {
-        "name": "Code",
-        "type": 0,
-        "state": null,
-        "timestamps": {
-          "start": "2025-07-16T05:51:14.721Z",
-          "end": null
-        },
-        "created_at": 1752645079587
-      },
-      {
         "name": "Spotify",
         "type": 2,
         "state": "Paramore",
