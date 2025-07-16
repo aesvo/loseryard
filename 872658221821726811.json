@@ -12,26 +12,6 @@
         "state": "ain't it fun.",
         "timestamps": {},
         "created_at": 1752638419831
-      },
-      {
-        "name": "Visual Studio Code",
-        "type": 0,
-        "state": "Workspace: Untitled ",
-        "timestamps": {
-          "start": "2025-07-16T04:08:43.494Z",
-          "end": null
-        },
-        "created_at": 1752638989729
-      },
-      {
-        "name": "Code",
-        "type": 0,
-        "state": "Working on homepage.js:1:1",
-        "timestamps": {
-          "start": "2025-07-16T04:08:46.202Z",
-          "end": null
-        },
-        "created_at": 1752639009723
       }
     ],
     "global_name": "m",
