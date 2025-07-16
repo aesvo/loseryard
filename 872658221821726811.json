@@ -12,16 +12,6 @@
         "state": "ain't it fun.",
         "timestamps": {},
         "created_at": 1752650392675
-      },
-      {
-        "name": "Roblox",
-        "type": 0,
-        "state": null,
-        "timestamps": {
-          "start": "2025-07-16T07:58:33.485Z",
-          "end": null
-        },
-        "created_at": 1752652718382
       }
     ],
     "global_name": "m",
