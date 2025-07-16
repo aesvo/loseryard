@@ -16,12 +16,12 @@
       {
         "name": "Visual Studio Code",
         "type": 0,
-        "state": null,
+        "state": "Workspace: TEST",
         "timestamps": {
           "start": "2025-07-16T07:23:06.436Z",
           "end": null
         },
-        "created_at": 1752650591374
+        "created_at": 1752650593187
       }
     ],
     "global_name": "m",
