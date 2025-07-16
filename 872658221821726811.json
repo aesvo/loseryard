@@ -4,16 +4,7 @@
     "username": "me.ech",
     "avatar": "https://cdn.discordapp.com/avatars/872658221821726811/8918f8e66320bce01862744c48f1439a.png",
     "discord_status": "online",
-    "activities": [
-      {
-        "id": "custom",
-        "name": "Custom Status",
-        "type": 4,
-        "state": "discord.gg/blueribbon",
-        "timestamps": {},
-        "created_at": 1752636839206
-      }
-    ],
+    "activities": [],
     "global_name": "m",
     "display_name": "m"
   }
