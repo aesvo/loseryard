@@ -16,12 +16,12 @@
       {
         "name": "Spotify",
         "type": 2,
-        "state": "Creed",
+        "state": "Deftones",
         "timestamps": {
-          "start": "2025-07-16T23:36:03.964Z",
-          "end": "2025-07-16T23:41:02.764Z"
+          "start": "2025-07-16T23:41:03.369Z",
+          "end": "2025-07-16T23:46:02.902Z"
         },
-        "created_at": 1752708971997
+        "created_at": 1752709271485
       }
     ],
     "global_name": "m",
