@@ -16,12 +16,12 @@
       {
         "name": "Spotify",
         "type": 2,
-        "state": "aldn",
+        "state": "Creed",
         "timestamps": {
-          "start": "2025-07-16T23:30:13.503Z",
-          "end": "2025-07-16T23:32:29.383Z"
+          "start": "2025-07-16T23:30:35.124Z",
+          "end": "2025-07-16T23:34:33.364Z"
         },
-        "created_at": 1752708621599
+        "created_at": 1752708643145
       }
     ],
     "global_name": "m",
