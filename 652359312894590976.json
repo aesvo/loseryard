@@ -12,6 +12,16 @@
         "state": "I pray you leave me behind.",
         "timestamps": {},
         "created_at": 1752635617159
+      },
+      {
+        "name": "Spotify",
+        "type": 2,
+        "state": "Lil Peep",
+        "timestamps": {
+          "start": "2025-07-16T07:14:25.698Z",
+          "end": "2025-07-16T07:18:30.604Z"
+        },
+        "created_at": 1752650240699
       }
     ],
     "global_name": "V𝖆𝖒𝖕𝖟 ꨄ",
