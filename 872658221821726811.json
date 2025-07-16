@@ -12,6 +12,16 @@
         "state": "ain't it fun.",
         "timestamps": {},
         "created_at": 1752638419831
+      },
+      {
+        "name": "Visual Studio Code",
+        "type": 0,
+        "state": "Workspace: Draw",
+        "timestamps": {
+          "start": "2025-07-16T04:08:33.901Z",
+          "end": null
+        },
+        "created_at": 1752638918800
       }
     ],
     "global_name": "m",
