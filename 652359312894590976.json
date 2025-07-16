@@ -14,16 +14,6 @@
         "created_at": 1752635617159
       },
       {
-        "name": "Roblox",
-        "type": 0,
-        "state": null,
-        "timestamps": {
-          "start": "2025-07-16T04:30:39.141Z",
-          "end": null
-        },
-        "created_at": 1752640240416
-      },
-      {
         "name": "Spotify",
         "type": 2,
         "state": "Mia Martina; Waka Flocka Flame",
