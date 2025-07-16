@@ -12,6 +12,16 @@
         "state": "LVR",
         "timestamps": {},
         "created_at": 1752688088041
+      },
+      {
+        "name": "Grand Theft Auto V",
+        "type": 0,
+        "state": null,
+        "timestamps": {
+          "start": "2025-07-16T18:24:35.798Z",
+          "end": null
+        },
+        "created_at": 1752690268467
       }
     ],
     "global_name": "@ɴᴏᴛ for gtc",
