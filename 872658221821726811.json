@@ -14,6 +14,16 @@
         "created_at": 1752644494085
       },
       {
+        "name": "Spotify",
+        "type": 2,
+        "state": "sombr",
+        "timestamps": {
+          "start": "2025-07-16T06:05:37.370Z",
+          "end": "2025-07-16T06:08:39.458Z"
+        },
+        "created_at": 1752645967831
+      },
+      {
         "name": "Code",
         "type": 0,
         "state": "Working on server.js:89:81",
