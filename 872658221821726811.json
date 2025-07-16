@@ -4,18 +4,7 @@
     "username": "me.ech",
     "avatar": "https://cdn.discordapp.com/avatars/872658221821726811/8918f8e66320bce01862744c48f1439a.png",
     "discord_status": "online",
-    "activities": [
-      {
-        "name": "Spotify",
-        "type": 2,
-        "state": "Creed",
-        "timestamps": {
-          "start": "2025-07-16T01:55:35.308Z",
-          "end": "2025-07-16T01:59:33.548Z"
-        },
-        "created_at": 1752630940264
-      }
-    ],
+    "activities": [],
     "global_name": "m",
     "display_name": "m"
   }
