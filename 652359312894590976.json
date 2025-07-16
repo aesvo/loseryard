@@ -12,6 +12,16 @@
         "state": "I pray you leave me behind.",
         "timestamps": {},
         "created_at": 1752635617971
+      },
+      {
+        "name": "Spotify",
+        "type": 2,
+        "state": "VIOLENT VIRA",
+        "timestamps": {
+          "start": "2025-07-16T03:13:58.967Z",
+          "end": "2025-07-16T03:17:11.314Z"
+        },
+        "created_at": 1752635717095
       }
     ],
     "global_name": "V𝖆𝖒𝖕𝖟 ꨄ",
