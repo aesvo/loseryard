@@ -12,6 +12,16 @@
         "state": "I pray you leave me behind.",
         "timestamps": {},
         "created_at": 1752692183608
+      },
+      {
+        "name": "Spotify",
+        "type": 2,
+        "state": "Bloodhound Gang",
+        "timestamps": {
+          "start": "2025-07-16T19:05:21.035Z",
+          "end": "2025-07-16T19:09:41.541Z"
+        },
+        "created_at": 1752692721297
       }
     ],
     "global_name": "V𝖆𝖒𝖕𝖟 ꨄ",
