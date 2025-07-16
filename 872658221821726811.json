@@ -18,20 +18,20 @@
         "type": 0,
         "state": null,
         "timestamps": {
-          "start": "2025-07-16T06:43:38.448Z",
+          "start": "2025-07-16T06:04:18.874Z",
           "end": null
         },
-        "created_at": 1752648223323
+        "created_at": 1752648227669
       },
       {
         "name": "Visual Studio Code",
         "type": 0,
         "state": null,
         "timestamps": {
-          "start": "2025-07-16T06:04:16.131Z",
+          "start": "2025-07-16T06:43:35.556Z",
           "end": null
         },
-        "created_at": 1752648223323
+        "created_at": 1752648227669
       }
     ],
     "global_name": "m",
