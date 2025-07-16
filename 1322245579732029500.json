@@ -2,7 +2,7 @@
   "discord_user": {
     "id": "1322245579732029500",
     "username": "xvitalxx",
-    "avatar": "https://cdn.discordapp.com/avatars/1322245579732029500/a_ae5465f3235cd8a2b73f51b66806cf34.gif",
+    "avatar": "https://cdn.discordapp.com/avatars/1322245579732029500/a_b2c4b39ff0c804a72de5c72efa8d2ed3.gif",
     "discord_status": "dnd",
     "activities": [
       {
@@ -12,16 +12,6 @@
         "state": "LVR",
         "timestamps": {},
         "created_at": 1752694247155
-      },
-      {
-        "name": "FiveM",
-        "type": 0,
-        "state": "In the menus",
-        "timestamps": {
-          "start": "2025-07-16T19:30:15.000Z",
-          "end": null
-        },
-        "created_at": 1752694233340
       },
       {
         "name": "Grand Theft Auto V",
