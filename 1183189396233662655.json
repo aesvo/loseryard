@@ -14,16 +14,6 @@
         "created_at": 1752686847915
       },
       {
-        "name": "Dreams LA",
-        "type": 0,
-        "state": "Players: 94/135 | Queue: 0",
-        "timestamps": {
-          "start": "2025-07-16T22:03:42.000Z",
-          "end": null
-        },
-        "created_at": 1752705067205
-      },
-      {
         "name": "Grand Theft Auto V",
         "type": 0,
         "state": null,
