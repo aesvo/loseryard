@@ -22,26 +22,6 @@
           "end": "2025-07-16T05:52:23.168Z"
         },
         "created_at": 1752644929623
-      },
-      {
-        "name": "Code",
-        "type": 0,
-        "state": "Working on test.js:608:6",
-        "timestamps": {
-          "start": "2025-07-16T05:43:16.198Z",
-          "end": null
-        },
-        "created_at": 1752645025822
-      },
-      {
-        "name": "Visual Studio Code",
-        "type": 0,
-        "state": "Workspace: TEST",
-        "timestamps": {
-          "start": "2025-07-16T05:43:13.229Z",
-          "end": null
-        },
-        "created_at": 1752644855865
       }
     ],
     "global_name": "m",
