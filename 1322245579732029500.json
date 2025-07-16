@@ -3,8 +3,17 @@
     "id": "1322245579732029500",
     "username": "xvitalxx",
     "avatar": "https://cdn.discordapp.com/avatars/1322245579732029500/a_ae5465f3235cd8a2b73f51b66806cf34.gif",
-    "discord_status": "offline",
-    "activities": [],
+    "discord_status": "dnd",
+    "activities": [
+      {
+        "id": "custom",
+        "name": "Custom Status",
+        "type": 4,
+        "state": "LVR",
+        "timestamps": {},
+        "created_at": 1752686260440
+      }
+    ],
     "global_name": "@ɴᴏᴛ for gtc",
     "display_name": "@ɴᴏᴛ for gtc"
   }
