@@ -12,16 +12,6 @@
         "state": "ain't it fun.",
         "timestamps": {},
         "created_at": 1752703379954
-      },
-      {
-        "name": "Spotify",
-        "type": 2,
-        "state": "My Chemical Romance",
-        "timestamps": {
-          "start": "2025-07-16T23:56:49.287Z",
-          "end": "2025-07-17T00:00:14.020Z"
-        },
-        "created_at": 1752710217364
       }
     ],
     "global_name": "m",
