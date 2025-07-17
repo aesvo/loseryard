@@ -6,14 +6,22 @@
     "discord_status": "dnd",
     "activities": [
       {
+        "id": "custom",
+        "name": "Custom Status",
+        "type": 4,
+        "state": "IM IN SO MUCH PAIN DUDE",
+        "timestamps": {},
+        "created_at": 1752741647763
+      },
+      {
         "name": "Spotify",
         "type": 2,
         "state": "wifiskeleton",
         "timestamps": {
-          "start": "2025-07-17T08:37:10.998Z",
-          "end": "2025-07-17T08:38:16.594Z"
+          "start": "2025-07-17T08:40:29.311Z",
+          "end": "2025-07-17T08:41:34.907Z"
         },
-        "created_at": 1752741490913
+        "created_at": 1752741629306
       }
     ],
     "global_name": "V𝖆𝖒𝖕𝖟 ꨄ",
