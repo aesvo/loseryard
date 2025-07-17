@@ -14,6 +14,16 @@
         "created_at": 1752686847915
       },
       {
+        "name": "Grand Theft Auto V",
+        "type": 0,
+        "state": null,
+        "timestamps": {
+          "start": "2025-07-17T02:01:45.141Z",
+          "end": null
+        },
+        "created_at": 1752717699026
+      },
+      {
         "name": "FiveM",
         "type": 0,
         "state": "In the menus",
@@ -22,16 +32,6 @@
           "end": null
         },
         "created_at": 1752717689309
-      },
-      {
-        "name": "Crosshair X",
-        "type": 0,
-        "state": null,
-        "timestamps": {
-          "start": "2025-07-17T02:01:10.031Z",
-          "end": null
-        },
-        "created_at": 1752717672503
       },
       {
         "name": "Medal",
