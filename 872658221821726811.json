@@ -12,16 +12,6 @@
         "state": "ain't it fun.",
         "timestamps": {},
         "created_at": 1752703379954
-      },
-      {
-        "name": "Spotify",
-        "type": 2,
-        "state": "Black Label Society",
-        "timestamps": {
-          "start": "2025-07-17T00:28:08.262Z",
-          "end": "2025-07-17T00:34:17.062Z"
-        },
-        "created_at": 1752712096374
       }
     ],
     "global_name": "m",
