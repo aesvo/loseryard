@@ -16,12 +16,12 @@
       {
         "name": "Spotify",
         "type": 2,
-        "state": "Creed",
+        "state": "Black Label Society",
         "timestamps": {
-          "start": "2025-07-17T00:23:13.033Z",
-          "end": "2025-07-17T00:28:07.633Z"
+          "start": "2025-07-17T00:28:08.262Z",
+          "end": "2025-07-17T00:34:17.062Z"
         },
-        "created_at": 1752711801130
+        "created_at": 1752712096374
       }
     ],
     "global_name": "m",
