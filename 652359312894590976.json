@@ -14,6 +14,16 @@
         "created_at": 1752786662625
       },
       {
+        "name": "Spotify",
+        "type": 2,
+        "state": "Bloodhound Gang",
+        "timestamps": {
+          "start": "2025-07-17T22:42:05.901Z",
+          "end": "2025-07-17T22:46:26.407Z"
+        },
+        "created_at": 1752792378591
+      },
+      {
         "name": "Roblox",
         "type": 0,
         "state": null,
