@@ -12,6 +12,16 @@
         "state": "ain't it fun.",
         "timestamps": {},
         "created_at": 1752781078579
+      },
+      {
+        "name": "Spotify",
+        "type": 2,
+        "state": "Paramore; The Linda Lindas; Carlos De La Garza",
+        "timestamps": {
+          "start": "2025-07-17T20:58:37.496Z",
+          "end": "2025-07-17T21:02:03.451Z"
+        },
+        "created_at": 1752785927807
       }
     ],
     "global_name": "m",
