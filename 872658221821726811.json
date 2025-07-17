@@ -12,16 +12,6 @@
         "state": "ain't it fun.",
         "timestamps": {},
         "created_at": 1752703379954
-      },
-      {
-        "name": "Spotify",
-        "type": 2,
-        "state": "Three Days Grace",
-        "timestamps": {
-          "start": "2025-07-17T00:06:32.836Z",
-          "end": "2025-07-17T00:10:24.236Z"
-        },
-        "created_at": 1752710800915
       }
     ],
     "global_name": "m",
