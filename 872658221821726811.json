@@ -12,6 +12,16 @@
         "state": "ain't it fun.",
         "timestamps": {},
         "created_at": 1752703379954
+      },
+      {
+        "name": "Spotify",
+        "type": 2,
+        "state": "Staind",
+        "timestamps": {
+          "start": "2025-07-17T00:35:49.196Z",
+          "end": "2025-07-17T00:40:42.329Z"
+        },
+        "created_at": 1752712557254
       }
     ],
     "global_name": "m",
