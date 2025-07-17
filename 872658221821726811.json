@@ -16,12 +16,12 @@
       {
         "name": "Spotify",
         "type": 2,
-        "state": "System Of A Down",
+        "state": "Radiohead",
         "timestamps": {
-          "start": "2025-07-17T00:14:48.119Z",
-          "end": "2025-07-17T00:18:43.172Z"
+          "start": "2025-07-17T00:18:43.708Z",
+          "end": "2025-07-17T00:22:42.348Z"
         },
-        "created_at": 1752711296204
+        "created_at": 1752711531861
       }
     ],
     "global_name": "m",
