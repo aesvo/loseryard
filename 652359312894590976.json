@@ -6,14 +6,22 @@
     "discord_status": "dnd",
     "activities": [
       {
+        "id": "custom",
+        "name": "Custom Status",
+        "type": 4,
+        "state": "I wish you'd get me, I know you never could.",
+        "timestamps": {},
+        "created_at": 1752786662625
+      },
+      {
         "name": "Spotify",
         "type": 2,
         "state": "Fried By Fluoride",
         "timestamps": {
-          "start": "2025-07-17T21:04:23.100Z",
-          "end": "2025-07-17T21:08:18.371Z"
+          "start": "2025-07-17T21:08:17.940Z",
+          "end": "2025-07-17T21:12:13.211Z"
         },
-        "created_at": 1752786482639
+        "created_at": 1752786498475
       }
     ],
     "global_name": "V𝖆𝖒𝖕𝖟 ꨄ",
