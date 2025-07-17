@@ -31,7 +31,7 @@
           "start": "2025-07-17T20:01:31.000Z",
           "end": null
         },
-        "created_at": 1752782867869
+        "created_at": 1752782875677
       },
       {
         "name": "Medal",
@@ -41,7 +41,7 @@
           "start": "2025-07-17T20:01:03.139Z",
           "end": null
         },
-        "created_at": 1752782457242
+        "created_at": 1752782875677
       }
     ],
     "global_name": "Hiitツ",
