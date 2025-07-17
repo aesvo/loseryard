@@ -16,12 +16,12 @@
       {
         "name": "Spotify",
         "type": 2,
-        "state": "Deftones",
+        "state": "System Of A Down",
         "timestamps": {
-          "start": "2025-07-17T00:11:56.578Z",
-          "end": "2025-07-17T00:14:47.519Z"
+          "start": "2025-07-17T00:14:48.119Z",
+          "end": "2025-07-17T00:18:43.172Z"
         },
-        "created_at": 1752711124607
+        "created_at": 1752711296204
       }
     ],
     "global_name": "m",
