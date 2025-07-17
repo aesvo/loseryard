@@ -16,12 +16,12 @@
       {
         "name": "Spotify",
         "type": 2,
-        "state": "Paramore; The Linda Lindas; Carlos De La Garza",
+        "state": "Paramore",
         "timestamps": {
-          "start": "2025-07-17T20:21:48.175Z",
-          "end": "2025-07-17T20:25:14.130Z"
+          "start": "2025-07-17T20:24:35.685Z",
+          "end": "2025-07-17T20:28:21.471Z"
         },
-        "created_at": 1752783718423
+        "created_at": 1752783885970
       }
     ],
     "global_name": "m",
