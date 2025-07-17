@@ -12,6 +12,16 @@
         "state": "ain't it fun.",
         "timestamps": {},
         "created_at": 1752703379954
+      },
+      {
+        "name": "Spotify",
+        "type": 2,
+        "state": "Deftones",
+        "timestamps": {
+          "start": "2025-07-17T00:11:56.578Z",
+          "end": "2025-07-17T00:14:47.519Z"
+        },
+        "created_at": 1752711124607
       }
     ],
     "global_name": "m",
