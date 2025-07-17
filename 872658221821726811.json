@@ -12,6 +12,16 @@
         "state": "ain't it fun.",
         "timestamps": {},
         "created_at": 1752727882032
+      },
+      {
+        "name": "Spotify",
+        "type": 2,
+        "state": "Paramore",
+        "timestamps": {
+          "start": "2025-07-17T05:13:12.081Z",
+          "end": "2025-07-17T05:18:08.601Z"
+        },
+        "created_at": 1752729200223
       }
     ],
     "global_name": "m",
