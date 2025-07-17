@@ -16,12 +16,12 @@
       {
         "name": "Spotify",
         "type": 2,
-        "state": "Staind",
+        "state": "Superheaven",
         "timestamps": {
-          "start": "2025-07-17T00:35:49.196Z",
-          "end": "2025-07-17T00:40:42.329Z"
+          "start": "2025-07-17T00:40:42.952Z",
+          "end": "2025-07-17T00:44:52.466Z"
         },
-        "created_at": 1752712557254
+        "created_at": 1752712851056
       }
     ],
     "global_name": "m",
