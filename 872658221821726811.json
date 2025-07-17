@@ -16,12 +16,12 @@
       {
         "name": "Spotify",
         "type": 2,
-        "state": "Red Hot Chili Peppers",
+        "state": "sombr",
         "timestamps": {
-          "start": "2025-07-17T04:58:20.431Z",
-          "end": "2025-07-17T05:01:56.337Z"
+          "start": "2025-07-17T04:59:54.463Z",
+          "end": "2025-07-17T05:03:13.495Z"
         },
-        "created_at": 1752728394970
+        "created_at": 1752728402659
       }
     ],
     "global_name": "m",
