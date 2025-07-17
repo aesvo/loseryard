@@ -14,6 +14,16 @@
         "created_at": 1752758374044
       },
       {
+        "name": "Medal",
+        "type": 0,
+        "state": "with Medal.tv",
+        "timestamps": {
+          "start": "2025-07-17T13:21:18.016Z",
+          "end": null
+        },
+        "created_at": 1752758471777
+      },
+      {
         "name": "FiveM",
         "type": 0,
         "state": "In the menus",
