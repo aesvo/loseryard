@@ -16,12 +16,12 @@
       {
         "name": "Spotify",
         "type": 2,
-        "state": "Superheaven",
+        "state": "Red Hot Chili Peppers",
         "timestamps": {
-          "start": "2025-07-17T00:40:42.952Z",
-          "end": "2025-07-17T00:44:52.466Z"
+          "start": "2025-07-17T00:45:53.852Z",
+          "end": "2025-07-17T00:49:29.758Z"
         },
-        "created_at": 1752712851056
+        "created_at": 1752713161907
       }
     ],
     "global_name": "m",
