@@ -16,12 +16,12 @@
       {
         "name": "Spotify",
         "type": 2,
-        "state": "Paramore",
+        "state": "Paramore; Foals",
         "timestamps": {
-          "start": "2025-07-17T20:47:35.387Z",
-          "end": "2025-07-17T20:51:14.013Z"
+          "start": "2025-07-17T20:51:14.534Z",
+          "end": "2025-07-17T20:57:06.177Z"
         },
-        "created_at": 1752785265701
+        "created_at": 1752785484884
       }
     ],
     "global_name": "m",
