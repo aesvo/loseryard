@@ -16,12 +16,12 @@
       {
         "name": "Spotify",
         "type": 2,
-        "state": "sombr",
+        "state": "Paramore",
         "timestamps": {
-          "start": "2025-07-17T04:59:54.463Z",
-          "end": "2025-07-17T05:03:13.495Z"
+          "start": "2025-07-17T05:00:36.871Z",
+          "end": "2025-07-17T05:05:33.391Z"
         },
-        "created_at": 1752728402659
+        "created_at": 1752728445051
       }
     ],
     "global_name": "m",
