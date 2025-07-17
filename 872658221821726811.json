@@ -12,6 +12,16 @@
         "state": "ain't it fun.",
         "timestamps": {},
         "created_at": 1752727882032
+      },
+      {
+        "name": "Spotify",
+        "type": 2,
+        "state": "Red Hot Chili Peppers",
+        "timestamps": {
+          "start": "2025-07-17T04:58:20.431Z",
+          "end": "2025-07-17T05:01:56.337Z"
+        },
+        "created_at": 1752728394970
       }
     ],
     "global_name": "m",
