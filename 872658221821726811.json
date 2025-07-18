@@ -12,6 +12,16 @@
         "state": "ain't it fun.",
         "timestamps": {},
         "created_at": 1752812316089
+      },
+      {
+        "name": "Spotify",
+        "type": 2,
+        "state": "Paramore; Romy",
+        "timestamps": {
+          "start": "2025-07-18T05:01:58.708Z",
+          "end": "2025-07-18T05:06:35.310Z"
+        },
+        "created_at": 1752814929181
       }
     ],
     "global_name": "m",
