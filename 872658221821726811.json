@@ -12,6 +12,16 @@
         "state": "ain't it fun.",
         "timestamps": {},
         "created_at": 1752812316089
+      },
+      {
+        "name": "Spotify",
+        "type": 2,
+        "state": "Lil Tecca",
+        "timestamps": {
+          "start": "2025-07-18T05:04:18.219Z",
+          "end": "2025-07-18T05:06:16.928Z"
+        },
+        "created_at": 1752815111226
       }
     ],
     "global_name": "m",
