@@ -16,12 +16,12 @@
       {
         "name": "Spotify",
         "type": 2,
-        "state": "Lil Peep",
+        "state": "Lil Peep; KirbLaGoop",
         "timestamps": {
-          "start": "2025-07-18T05:22:48.783Z",
-          "end": "2025-07-18T05:26:59.423Z"
+          "start": "2025-07-18T05:26:59.924Z",
+          "end": "2025-07-18T05:29:45.044Z"
         },
-        "created_at": 1752816169753
+        "created_at": 1752816420970
       },
       {
         "name": "PEAK",
