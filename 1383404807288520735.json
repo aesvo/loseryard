@@ -3,17 +3,8 @@
     "id": "1383404807288520735",
     "username": "23sebeeyt",
     "avatar": "https://cdn.discordapp.com/avatars/1383404807288520735/ffc39d63c7b53e70558c14c89363e35f.png",
-    "discord_status": "online",
-    "activities": [
-      {
-        "id": "custom",
-        "name": "Custom Status",
-        "type": 4,
-        "state": "what kind of shoes to frogs wear? open toad sandals",
-        "timestamps": {},
-        "created_at": 1752808704327
-      }
-    ],
+    "discord_status": "offline",
+    "activities": [],
     "global_name": "23sebeeyt",
     "display_name": "23sebeeyt"
   }
