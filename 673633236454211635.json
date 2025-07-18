@@ -6,6 +6,16 @@
     "discord_status": "online",
     "activities": [
       {
+        "name": "BlueRibbon RP",
+        "type": 0,
+        "state": "Players: 41/150",
+        "timestamps": {
+          "start": "2025-07-18T23:37:01.000Z",
+          "end": null
+        },
+        "created_at": 1752881952331
+      },
+      {
         "name": "Grand Theft Auto V",
         "type": 0,
         "state": null,
