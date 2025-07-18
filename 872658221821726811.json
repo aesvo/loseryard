@@ -12,16 +12,6 @@
         "state": "ain't it fun.",
         "timestamps": {},
         "created_at": 1752812316089
-      },
-      {
-        "name": "Spotify",
-        "type": 2,
-        "state": "Lil Tecca; Juice WRLD",
-        "timestamps": {
-          "start": "2025-07-18T06:26:26.934Z",
-          "end": "2025-07-18T06:29:18.187Z"
-        },
-        "created_at": 1752819997513
       }
     ],
     "global_name": "m",
