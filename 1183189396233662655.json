@@ -14,6 +14,16 @@
         "created_at": 1752856692980
       },
       {
+        "name": "Grand Theft Auto V",
+        "type": 0,
+        "state": null,
+        "timestamps": {
+          "start": "2025-07-18T16:41:22.501Z",
+          "end": null
+        },
+        "created_at": 1752856876226
+      },
+      {
         "name": "FiveM",
         "type": 0,
         "state": "Evarose LLM | Semi Serious XL RP 18+  |🔫 Custom Gangs 🔫 | 🚓 Active PD, EMS, DOJ 🚑 | 🎞️ Stream...",
@@ -21,17 +31,7 @@
           "start": "2025-07-18T15:09:29.000Z",
           "end": null
         },
-        "created_at": 1752856729155
-      },
-      {
-        "name": "Crosshair X",
-        "type": 0,
-        "state": null,
-        "timestamps": {
-          "start": "2025-07-18T16:38:23.201Z",
-          "end": null
-        },
-        "created_at": 1752856696927
+        "created_at": 1752856798846
       }
     ],
     "global_name": "Hiitツ",
