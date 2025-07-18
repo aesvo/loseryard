@@ -32,16 +32,6 @@
           "end": null
         },
         "created_at": 1752838811298
-      },
-      {
-        "name": "Spotify",
-        "type": 2,
-        "state": "Sade",
-        "timestamps": {
-          "start": "2025-07-18T11:47:49.198Z",
-          "end": "2025-07-18T11:52:00.531Z"
-        },
-        "created_at": 1752839272591
       }
     ],
     "global_name": "ccccccc",
