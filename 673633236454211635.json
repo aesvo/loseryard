@@ -6,6 +6,16 @@
     "discord_status": "online",
     "activities": [
       {
+        "name": "FiveM",
+        "type": 0,
+        "state": "In the menus",
+        "timestamps": {
+          "start": "2025-07-18T19:23:08.000Z",
+          "end": null
+        },
+        "created_at": 1752866591577
+      },
+      {
         "name": "Grand Theft Auto V",
         "type": 0,
         "state": null,
