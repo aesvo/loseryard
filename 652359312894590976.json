@@ -14,6 +14,16 @@
         "created_at": 1752809799806
       },
       {
+        "name": "Spotify",
+        "type": 2,
+        "state": "Fried By Fluoride",
+        "timestamps": {
+          "start": "2025-07-18T09:00:24.303Z",
+          "end": "2025-07-18T09:04:19.574Z"
+        },
+        "created_at": 1752829227584
+      },
+      {
         "name": "Roblox",
         "type": 0,
         "state": null,
