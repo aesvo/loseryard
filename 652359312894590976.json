@@ -14,24 +14,14 @@
         "created_at": 1752809799806
       },
       {
-        "name": "Roblox",
-        "type": 0,
-        "state": null,
-        "timestamps": {
-          "start": "2025-07-18T07:26:54.797Z",
-          "end": null
-        },
-        "created_at": 1752823615668
-      },
-      {
         "name": "Spotify",
         "type": 2,
         "state": "Bloodhound Gang",
         "timestamps": {
-          "start": "2025-07-18T07:34:30.611Z",
-          "end": "2025-07-18T07:38:51.117Z"
+          "start": "2025-07-18T07:38:51.196Z",
+          "end": "2025-07-18T07:43:11.702Z"
         },
-        "created_at": 1752824071672
+        "created_at": 1752824332230
       }
     ],
     "global_name": "V𝖆𝖒𝖕𝖟 ꨄ",
