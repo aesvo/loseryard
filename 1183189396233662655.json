@@ -17,11 +17,8 @@
         "name": "Medal",
         "type": 0,
         "state": "with Medal.tv",
-        "timestamps": {
-          "start": "2025-07-18T16:48:18.908Z",
-          "end": null
-        },
-        "created_at": 1752857291709
+        "timestamps": {},
+        "created_at": 1752857315604
       },
       {
         "name": "Crosshair X",
