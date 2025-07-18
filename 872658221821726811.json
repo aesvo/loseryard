@@ -16,12 +16,12 @@
       {
         "name": "Spotify",
         "type": 2,
-        "state": "Paramore; Panda Bear",
+        "state": "Paramore; Zane Lowe",
         "timestamps": {
-          "start": "2025-07-18T04:36:50.878Z",
-          "end": "2025-07-18T04:41:14.828Z"
+          "start": "2025-07-18T04:41:14.823Z",
+          "end": "2025-07-18T04:45:59.725Z"
         },
-        "created_at": 1752813421333
+        "created_at": 1752813685323
       }
     ],
     "global_name": "m",
