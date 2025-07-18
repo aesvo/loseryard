@@ -14,16 +14,6 @@
         "created_at": 1752838639042
       },
       {
-        "name": "Para RP",
-        "type": 0,
-        "state": "[89/250] | [ID: 176]",
-        "timestamps": {
-          "start": "2025-07-18T11:37:07.000Z",
-          "end": null
-        },
-        "created_at": 1752838796926
-      },
-      {
         "name": "Spotify",
         "type": 2,
         "state": "Kendrick Lamar",
