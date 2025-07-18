@@ -16,12 +16,12 @@
       {
         "name": "Spotify",
         "type": 2,
-        "state": "Slipknot",
+        "state": "Three Days Grace",
         "timestamps": {
-          "start": "2025-07-18T05:15:22.889Z",
-          "end": "2025-07-18T05:20:06.675Z"
+          "start": "2025-07-18T05:20:06.151Z",
+          "end": "2025-07-18T05:22:48.271Z"
         },
-        "created_at": 1752815983819
+        "created_at": 1752816007118
       },
       {
         "name": "PEAK",
