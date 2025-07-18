@@ -6,14 +6,14 @@
     "discord_status": "online",
     "activities": [
       {
-        "name": "Crosshair X",
+        "name": "Grand Theft Auto V",
         "type": 0,
         "state": null,
         "timestamps": {
-          "start": "2025-07-18T19:23:40.269Z",
+          "start": "2025-07-18T19:39:26.723Z",
           "end": null
         },
-        "created_at": 1752866620409
+        "created_at": 1752867566872
       },
       {
         "name": "Medal",
