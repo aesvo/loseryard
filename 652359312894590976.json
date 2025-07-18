@@ -14,6 +14,16 @@
         "created_at": 1752809799806
       },
       {
+        "name": "Spotify",
+        "type": 2,
+        "state": "Slipknot",
+        "timestamps": {
+          "start": "2025-07-18T05:15:22.889Z",
+          "end": "2025-07-18T05:20:06.675Z"
+        },
+        "created_at": 1752815983819
+      },
+      {
         "name": "PEAK",
         "type": 0,
         "state": null,
