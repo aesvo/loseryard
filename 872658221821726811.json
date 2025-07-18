@@ -16,12 +16,12 @@
       {
         "name": "Spotify",
         "type": 2,
-        "state": "Lil Tecca; Lil Yachty",
+        "state": "S1mba; Lil Tecca",
         "timestamps": {
-          "start": "2025-07-18T05:06:17.024Z",
-          "end": "2025-07-18T05:09:14.127Z"
+          "start": "2025-07-18T05:09:14.665Z",
+          "end": "2025-07-18T05:12:01.470Z"
         },
-        "created_at": 1752815187620
+        "created_at": 1752815365266
       }
     ],
     "global_name": "m",
