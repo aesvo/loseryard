@@ -12,6 +12,16 @@
         "state": "ain't it fun.",
         "timestamps": {},
         "created_at": 1752812316089
+      },
+      {
+        "name": "Spotify",
+        "type": 2,
+        "state": "Paramore; Wet Leg",
+        "timestamps": {
+          "start": "2025-07-18T04:47:32.240Z",
+          "end": "2025-07-18T04:49:56.833Z"
+        },
+        "created_at": 1752814062730
       }
     ],
     "global_name": "m",
