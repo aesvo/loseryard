@@ -12,16 +12,6 @@
         "state": null,
         "timestamps": {},
         "created_at": 1752837142945
-      },
-      {
-        "name": "Grand Theft Auto V",
-        "type": 0,
-        "state": null,
-        "timestamps": {
-          "start": "2025-07-18T12:26:34.167Z",
-          "end": null
-        },
-        "created_at": 1752841597093
       }
     ],
     "global_name": "ccccccc",
