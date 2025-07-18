@@ -4,26 +4,7 @@
     "username": "simplyvampz",
     "avatar": "https://cdn.discordapp.com/avatars/652359312894590976/7c0badf7cd29737272dc0056d511f5ac.png",
     "discord_status": "dnd",
-    "activities": [
-      {
-        "id": "custom",
-        "name": "Custom Status",
-        "type": 4,
-        "state": "I wish you'd get me, I know you never could.",
-        "timestamps": {},
-        "created_at": 1752809799806
-      },
-      {
-        "name": "Spotify",
-        "type": 2,
-        "state": "sombr",
-        "timestamps": {
-          "start": "2025-07-18T09:51:20.206Z",
-          "end": "2025-07-18T09:54:37.137Z"
-        },
-        "created_at": 1752832281367
-      }
-    ],
+    "activities": [],
     "global_name": "V𝖆𝖒𝖕𝖟 ꨄ",
     "display_name": "V𝖆𝖒𝖕𝖟 ꨄ"
   }
