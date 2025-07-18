@@ -1,0 +1,29 @@
+{
+  "discord_user": {
+    "id": "673633236454211635",
+    "username": "kxndainsane",
+    "avatar": "https://cdn.discordapp.com/avatars/673633236454211635/eb8b3813fe8b2c88ef087a0ed11e2fc6.png",
+    "discord_status": "online",
+    "activities": [
+      {
+        "name": "Crosshair X",
+        "type": 0,
+        "state": null,
+        "timestamps": {
+          "start": "2025-07-18T06:07:18.458Z",
+          "end": null
+        },
+        "created_at": 1752818837814
+      },
+      {
+        "name": "Medal",
+        "type": 0,
+        "state": "with Medal.tv",
+        "timestamps": {},
+        "created_at": 1752818836414
+      }
+    ],
+    "global_name": "𝕶𝖝𝖓𝖉𝖆𝕴𝖓𝖘𝖆𝖓𝖊",
+    "display_name": "𝕶𝖝𝖓𝖉𝖆𝕴𝖓𝖘𝖆𝖓𝖊"
+  }
+}
