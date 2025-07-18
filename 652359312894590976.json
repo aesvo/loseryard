@@ -14,16 +14,6 @@
         "created_at": 1752809799806
       },
       {
-        "name": "PEAK",
-        "type": 0,
-        "state": null,
-        "timestamps": {
-          "start": "2025-07-18T04:11:38.387Z",
-          "end": null
-        },
-        "created_at": 1752811899044
-      },
-      {
         "name": "Spotify",
         "type": 2,
         "state": "Lil Peep",
