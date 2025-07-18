@@ -16,12 +16,12 @@
       {
         "name": "Spotify",
         "type": 2,
-        "state": "Three Days Grace",
+        "state": "Lil Peep",
         "timestamps": {
-          "start": "2025-07-18T05:20:06.151Z",
-          "end": "2025-07-18T05:22:48.271Z"
+          "start": "2025-07-18T05:22:48.783Z",
+          "end": "2025-07-18T05:26:59.423Z"
         },
-        "created_at": 1752816007118
+        "created_at": 1752816169753
       },
       {
         "name": "PEAK",
