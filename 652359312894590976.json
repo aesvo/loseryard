@@ -3,27 +3,8 @@
     "id": "652359312894590976",
     "username": "simplyvampz",
     "avatar": "https://cdn.discordapp.com/avatars/652359312894590976/7c0badf7cd29737272dc0056d511f5ac.png",
-    "discord_status": "dnd",
-    "activities": [
-      {
-        "id": "custom",
-        "name": "Custom Status",
-        "type": 4,
-        "state": "I wish you'd get me, I know you never could.",
-        "timestamps": {},
-        "created_at": 1752806625072
-      },
-      {
-        "name": "Spotify",
-        "type": 2,
-        "state": "VIOLENT VIRA",
-        "timestamps": {
-          "start": "2025-07-18T02:43:28.850Z",
-          "end": "2025-07-18T02:46:31.031Z"
-        },
-        "created_at": 1752806626174
-      }
-    ],
+    "discord_status": "offline",
+    "activities": [],
     "global_name": "V𝖆𝖒𝖕𝖟 ꨄ",
     "display_name": "V𝖆𝖒𝖕𝖟 ꨄ"
   }
