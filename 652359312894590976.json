@@ -12,6 +12,16 @@
         "state": "I wish you'd get me, I know you never could.",
         "timestamps": {},
         "created_at": 1752809799806
+      },
+      {
+        "name": "Spotify",
+        "type": 2,
+        "state": "VIOLENT VIRA",
+        "timestamps": {
+          "start": "2025-07-18T03:55:51.026Z",
+          "end": "2025-07-18T03:58:53.207Z"
+        },
+        "created_at": 1752810951912
       }
     ],
     "global_name": "V𝖆𝖒𝖕𝖟 ꨄ",
