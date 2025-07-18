@@ -37,8 +37,11 @@
         "name": "Medal",
         "type": 0,
         "state": "with Medal.tv",
-        "timestamps": {},
-        "created_at": 1752857315604
+        "timestamps": {
+          "start": "2025-07-18T16:49:17.129Z",
+          "end": null
+        },
+        "created_at": 1752857349881
       }
     ],
     "global_name": "Hiitツ",
