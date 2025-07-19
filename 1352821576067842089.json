@@ -14,6 +14,16 @@
         "created_at": 1752881800626
       },
       {
+        "name": "Spotify",
+        "type": 2,
+        "state": "Snoh Aalegra",
+        "timestamps": {
+          "start": "2025-07-19T01:11:36.807Z",
+          "end": "2025-07-19T01:15:11.260Z"
+        },
+        "created_at": 1752887500167
+      },
+      {
         "name": "FiveM",
         "type": 0,
         "state": "In the menus",
