@@ -12,6 +12,16 @@
         "state": "I wish you'd get me, I know you never could.",
         "timestamps": {},
         "created_at": 1752881477209
+      },
+      {
+        "name": "Spotify",
+        "type": 2,
+        "state": "Wisp",
+        "timestamps": {
+          "start": "2025-07-19T01:13:56.192Z",
+          "end": "2025-07-19T01:17:45.920Z"
+        },
+        "created_at": 1752887824887
       }
     ],
     "global_name": "V𝖆𝖒𝖕𝖟 ꨄ",
