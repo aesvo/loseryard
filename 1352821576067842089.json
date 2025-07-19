@@ -11,17 +11,17 @@
         "type": 4,
         "state": null,
         "timestamps": {},
-        "created_at": 1752881800626
+        "created_at": 1752887711581
       },
       {
         "name": "Spotify",
         "type": 2,
         "state": "Snoh Aalegra",
         "timestamps": {
-          "start": "2025-07-19T01:11:36.807Z",
-          "end": "2025-07-19T01:15:11.260Z"
+          "start": "2025-07-19T01:11:39.761Z",
+          "end": "2025-07-19T01:15:14.214Z"
         },
-        "created_at": 1752887500167
+        "created_at": 1752887712447
       },
       {
         "name": "FiveM",
@@ -31,7 +31,7 @@
           "start": "2025-07-19T01:10:01.000Z",
           "end": null
         },
-        "created_at": 1752887415175
+        "created_at": 1752887710211
       },
       {
         "name": "Grand Theft Auto V",
