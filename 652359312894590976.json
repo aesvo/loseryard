@@ -9,19 +9,19 @@
         "id": "custom",
         "name": "Custom Status",
         "type": 4,
-        "state": "I wish you'd get me, I know you never could.",
+        "state": "\"But you, you know I'd do just about anything only for you. Is it the same for you?\"",
         "timestamps": {},
-        "created_at": 1752881477209
+        "created_at": 1752888091570
       },
       {
         "name": "Spotify",
         "type": 2,
         "state": "VIOLENT VIRA",
         "timestamps": {
-          "start": "2025-07-19T01:17:30.452Z",
-          "end": "2025-07-19T01:20:32.633Z"
+          "start": "2025-07-19T01:19:38.366Z",
+          "end": "2025-07-19T01:22:40.547Z"
         },
-        "created_at": 1752887851159
+        "created_at": 1752887996323
       }
     ],
     "global_name": "V𝖆𝖒𝖕𝖟 ꨄ",
