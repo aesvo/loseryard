@@ -14,16 +14,6 @@
         "created_at": 1752887068455
       },
       {
-        "name": "Spotify",
-        "type": 2,
-        "state": "Cynthia Erivo",
-        "timestamps": {
-          "start": "2025-07-19T01:10:33.375Z",
-          "end": "2025-07-19T01:15:36.852Z"
-        },
-        "created_at": 1752887436832
-      },
-      {
         "name": "FiveM",
         "type": 0,
         "state": "In the menus",
